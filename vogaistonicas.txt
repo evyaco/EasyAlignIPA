@@ -1,0 +1,11 @@
+AVISO --> Em caso de palavras hifenizadas, a vogal tonica encontra-se na palavra mais a direita.
+A vogal tonica da palavra  é nf na posição 0.
+A vogal tonica da palavra vamos é a na posição 2.
+A vogal tonica da palavra fazer é e na posição 4.
+A vogal tonica da palavra um é u na posição 1.
+A palavra teste está na hashtable!
+A vogal tonica da palavra para é a na posição 2.
+A vogal tonica da palavra verificar é a na posição 8.
+A vogal tonica da palavra o é o na posição 1.
+A vogal tonica da palavra easyalign é nf na posição 0.
+A vogal tonica da palavra  é nf na posição 0.

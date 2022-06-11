@@ -1,0 +1,38 @@
+
+ Prosodic profile for input file: C:\Users\goldman\Praat\plugin_easyalign\lang\fra\prince.wav
+
+ Date: Thu Mar 08 15:48:08 2012
+ Segmentation type: syll-nucl
+ Time:  
+     total speech time=20.71(s) [Note 1]
+     estimated phonation time=13.38 (64.60% of speech time) [Note 2]
+     estimated pause time=7.33 (35.40% of speech time) [Note 3]
+ Nucleus: 86 nuclei in signal
+ Nucleus duration: 
+     mean=0.076(s) stdev=0.042 summed nucleus duration=6.53 (s)
+ Global pitch measures for stylized nuclei: 
+     min=90.00(Hz), max=335.02(Hz), mean of median=228.84 [Note 7]
+     quantiles (for median pitch values) 2%=160.28(Hz), 5%=173.23(Hz), 95%=291.84(Hz), 98%=326.11(Hz) 
+ Intrasyllabic pitch interval: 
+     dynamic=10.47%, of which: rising=44.44%, falling=55.56% [Note 4]
+     mean=-0.67(ST) stdev=1.99
+     sum=-57.82(ST) sum/nucleus_time=-8.85(ST/s) [Note 5]
+     trajectory=152.52(ST) trajectory/nucleus_time=23.36(ST/s) [Note 6]
+ Intersyllabic pitch interval: 
+     mean=-0.01(ST) stdev=3.51
+     sum=-0.67(ST) sum/inter_nucleus_time=-8.85(ST/s) [Note 5]
+     trajectory=218.94(ST) trajectory/inter_nucleus_time=31.98(ST/s) [Note 6]
+ All pitch intervals: 
+     trajectory(speech)=371.46(ST) [Note 1,2,6]
+     trajectory(speech)/speech_time=17.94(ST/s)
+     trajectory(phonation)/phonation_time=22.90(ST/s)
+
+ Notes 
+  [1] speech time = internucleus time + intranucleus time + pause time 
+  [2] phonation time = internucleus time + intranucleus time 
+  [3] estimated pause = when internucleus time >= 0.3
+  [4] dynamic = when pitch variation exceeds glissando threshold
+      rising = when sum of upward intervals > sum of abs(downward intervals)
+  [5] sum = sum of signed pitch intervals (falls and rises compensate)
+  [6] trajectory = sum of absolute pitch intervals (falls and rises add up)
+  [7] mean of median = mean of median pitch of all nuclei

@@ -1,0 +1,2 @@
+rowLabel	speechtime	propphonation 	proppause 	meannucldur 	propdynamic 	propup 	propdown 	ratetrajintra 	ratetrajinter	ratetrajall 	ratetrajphon	hipitchglobal	lowpitchglobal	meanpitchglobal
+?	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,3841 @@
+# ###############################################################################
+#
+# EXCEPTION DICTIONARY
+#
+# Copyright (C):     Multitel ASBL, 2002
+#                    TTS group (TTS@multitel.be)
+#
+# ID3 version:       0.5
+#
+# Training corpus:   ..\Src\Phonetizer\Databases\French.Phonetizer.Txt
+#
+# Training features: - context:  4
+#                    - feedback: -4
+#                    - skip:     1
+#
+# Results:           - letters:  99.868% (3695 errors on 2788688)
+#                    - words:    98.964% (2925 errors on 282411)
+#
+# ###############################################################################
+
+\#              | GNUNDEFINED | d j E' z
+\|              | GNUNDEFINED | b a" R v E R t i k a' l
+
+# ID3's errors (single words)
+blues | NVERB | b l u' z
+cartoons | NVERB | k a" R t u' n z
+charleston | NVERB | S a" R l E s t O' n
+charlestons | NVERB | S a" R l E s t O' n
+chrétien | NVERB | k R e" t j e~'
+chrétiens | NVERB | k R e" t j e~'
+cottage | NVERB | k O" t E' d Z
+cottages | NVERB | k O" t E' d Z
+cuiller | NVERB | k H i" j E' R
+cuillers | NVERB | k H i" j E' R
+discount | NVERB | d i" s k u' n t
+distilliez | VERB | d i" s t i l j e'
+distillions | VERB | d i" s t i l j o~'
+domptera | VERB | d o~" p t @ R a'
+dompterai | VERB | d o~" p t @ R e'
+dompteraient | VERB | d o~" p t @ R E'
+dompterais | VERB | d o~" p t @ R E'
+dompterait | VERB | d o~" p t @ R E'
+dompteras | VERB | d o~" p t @ R a'
+dompterez | VERB | d o~" p t @ R e'
+dompterons | VERB | d o~" p t @ R o~'
+dompteront | VERB | d o~" p t @ R o~'
+draglines | NVERB | d R a" g l a' j n z
+duces | NVERB | d u" t S e'
+essayer | VERB | e" s e j e'
+establishment | NVERB | E" s t a b l i S m E' n t
+eyes | NVERB | a j' z
+farniente | NVERB | f a" R n j E n t e'
+farnientes | NVERB | f a" R n j E n t e'
+fez | NVERB | f E' z
+gars | NVERB | g a'
+gestapo | NVERB | g E" s t a p o'
+gestapos | NVERB | g E" s t a p o'
+girls | NVERB | g 9' R l z
+gujaratis | NVERB | g u" d Z a R a t i'
+guérillero | NVERB | g e" R i j e R o'
+guérilleros | NVERB | g e" R i j e R o'
+ibéris | NVERB | i" b e R i' s
+impeachment | NVERB | i" m p i t S m E' n t
+instilliez | VERB | e~" s t i l j e'
+instillions | VERB | e~" s t i l j o~'
+internet | NVERB | e~" t E R n E' t
+jerricane | NVERB | Z E" R i k a' n
+kaiser | NVERB | k a" j z 9' R
+kaisers | NVERB | k a" j z 9' R
+koumis | NVERB | k u" m i' s
+kouros | NVERB | k u" R o' s
+ladies | NVERB | l E" d i' z
+lancers | NVERB | l a~" s e'
+loris | NVERB | l O" R i' s
+manager | NVERB | m a" n a d Z 9' R
+managers | NVERB | m a" n a d Z 9' R
+messieurs | NVERB | m e" s j 2'
+messiéent | VERB | m e" s j e'
+millas | NVERB | m i" j a' s
+minuit | NVERB | m i" n H i'
+monsieur | NVERB | m @" s j 2'
+mérinos | NVERB | m e" R i n o' s
+métairies | NVERB | m e" t E R i'
+nabis | NVERB | n a" b i'
+nimbus | NVERB | n e~" b y' s
+nurseries | NVERB | n 9" R s @ R i'
+oestrus | NVERB | E" s t R y' s
+orchis | NVERB | O" R k i' s
+paros | NVERB | p a" R O' s
+peppermint | NVERB | p e" p 9 R m i' n t
+physiognomonique | NVERB | f i" z j o g n O m O n i' k
+physiognomoniste | NVERB | f i" z j o g n O m O n i' s t
+pickles | NVERB | p i" k 9' l s
+picris | NVERB | p i" k R i' s
+pinson | NVERB | p e~" s o~'
+privatdozents | NVERB | p R i" v a t d o z a~'
+processus | NVERB | p R O" s e s y' s
+propolis | NVERB | p R O" p O l i' s
+quadrangle | NVERB | k w a" d R a~' g l
+quanti | NVERB | k w a" n t i'
+rancher | NVERB | R a~" t S 9' R
+ranchers | NVERB | R a~" t S 9' R
+reliure | NVERB | R @" l i y' R
+ressaient | VERB | R E" s E'
+ressaieraient | VERB | R E" s E R E'
+ressent | VERB | R @" s a~'
+riser | NVERB | R a" j z 9' R
+rétrogression | NVERB | R e" t R o g R E s j o~'
+sauris | NVERB | s o" R i'
+shunt | NVERB | S 9' n t
+single | NVERB | s i" n g 9' l
+skippers | NVERB | s k i" p E' R
+sprint | NVERB | s p R i' n t
+stayer | NVERB | s t E" j 9' R
+stiple | NVERB | s t i" p 9' l
+succinctement | NVERB | s y" k s e~ t m a~'
+swahilis | NVERB | s w a" i l i'
+swingueraient | VERB | s w i" N g @ R E'
+synopsis | NVERB | s i" n O p s i'
+tamaris | NVERB | t a" m a R i' s
+tennisman | NVERB | t E" n i s m a' n
+thriller | NVERB | t R i" l 9' R
+thrillers | NVERB | t R i" l 9' R
+ticket | NVERB | t i" k E'
+tickets | NVERB | t i" k E'
+tournevis | NVERB | t u" R n @ v i' s
+tranquille | NVERB | t R a~" k i' l
+tranquilles | NVERB | t R a~" k i' l
+tribus | NVERB | t R i" b y'
+trot | NVERB | t R o'
+vingt | NVERB | v e~' t
+vingts | NVERB | v e~' t
+
+# ID3's errors (compound words)
+a-t-il | NVERB | a" t i' l
+abaisse-langue | NVERB | a" b E s l a~' g
+abri-sous-roche | NVERB | a" b R i s u R O' S
+abris-sous-roche | NVERB | a" b R i s u R O' S
+afro-asiatique | NVERB | a" f R o a z j a t i' k
+afro-cubain | NVERB | a" f R o k y b e~'
+agars-agars | NVERB | a" g a R z a g a' R
+agnus-dei | NVERB | a" g n u s d e i'
+agro-alimentaire | NVERB | a" g R O a l i m a~ t E' R
+agro-alimentaires | NVERB | a" g R O a l i m a~ t E' R
+agro-pastoral | NVERB | a" g R O p a s t O R a' l
+agro-pastorale | NVERB | a" g R O p a s t O R a' l
+agro-pastorales | NVERB | a" g R O p a s t O R a' l
+agro-pastoraux | NVERB | a" g R O p a s t O R o'
+aigre-douce | NVERB | E" g R @ d u' s
+aigre-doux | NVERB | E" g R @ d u'
+aigres-douces | NVERB | E" g R d u' s
+aigues-marines | NVERB | E" g m a R i' n
+aller-retour | NVERB | a" l e R @ t u' R
+allume-feu | NVERB | a" l y m f 2'
+amiante-ciment | NVERB | a" m j a~ t s i m a~'
+amiantes-ciments | NVERB | a" m j a~ t s i m a~'
+anarcho-syndicalisme | NVERB | a" n a R k o s e~ d i k a l i' z m
+anarcho-syndicaliste | NVERB | a" n a R k o s e~ d i k a l i' s t
+anarcho-syndicalistes | NVERB | a" n a R k o s e~ d i k a l i' s t
+anglo-arabe | NVERB | a~" g l o a R a' b
+anglo-normand | NVERB | a~" g l o n O R m a~'
+anglo-saxon | NVERB | a~" g l o s a k s o~'
+anglo-saxonne | NVERB | a~" g l o s a k s O' n
+anglo-saxonnes | NVERB | a~" g l o s a k s O' n
+anglo-saxons | NVERB | a~" g l o s a k s o~'
+années-lumières | NVERB | a" n e l y m j E' R
+anti-américanisme | NVERB | a~" t i a m e R i k a n i' z m
+anti-scientifique | NVERB | a~" t i s j a~ t i f i' k
+anti-sous-marin | NVERB | a~" t i s u m a R e~'
+anti-sous-marine | NVERB | a~" t i s u m a R i' n
+anti-sous-marines | NVERB | a~" t i s u m a R i' n
+anti-sous-marins | NVERB | a~" t i s u m a R e~'
+appui-bras | NVERB | a" p H i b R a'
+appuie-bras | NVERB | a" p H i b R a'
+appuis-bras | NVERB | a" p H i b R a'
+après-coup | NVERB | a" p R E k u'
+après-demain | NVERB | a" p R E d m e~'
+après-dîner | NVERB | a" p R E d i n e'
+après-dîners | NVERB | a" p R E d i n e'
+après-rasage | NVERB | a" p R E R a z a' Z
+après-ski | NVERB | a" p R E s k i'
+après-skis | NVERB | a" p R E s k i'
+après-vente | NVERB | a" p R E v a~' t
+arc-en-ciel | NVERB | a" R k a~ s j E' l
+arcs-en-ciel | NVERB | a" R k a~ s j E' l
+arrière-bouche | NVERB | a" R j E R b u' S
+arrière-bouches | NVERB | a" R j E R b u' S
+arrière-boutique | NVERB | a" R j E R b u t i' k
+arrière-boutiques | NVERB | a" R j E R b u t i' k
+arrière-cerveau | NVERB | a" R j E R s E R v o'
+arrière-choeur | NVERB | a" R j E R k 9' R
+arrière-corps | NVERB | a" R j E R k O' R
+arrière-cour | NVERB | a" R j E R k u' R
+arrière-cours | NVERB | a" R j E R k u' R
+arrière-cuisine | NVERB | a" R j E R k H i z i' n
+arrière-gorge | NVERB | a" R j E R g O' R Z
+arrière-gorges | NVERB | a" R j E R g O' R Z
+arrière-goût | NVERB | a" R j E R g u'
+arrière-goûts | NVERB | a" R j E R g u'
+arrière-grand-oncle | NVERB | a" R j E R g R a~ t o~' k l
+arrière-grand-père | NVERB | a" R j E R g R a~ p E' R
+arrière-grand-tante | NVERB | a" R j E R g R a~ t a~' t
+arrière-grand-tantes | NVERB | a" R j E R g R a~ t a~' t
+arrière-grands-oncles | NVERB | a" R j E R g R a~ z o~' k l
+arrière-grands-parents | NVERB | a" R j E R g R a~ p a R a~'
+arrière-grands-pères | NVERB | a" R j E R g R a~ p E' R
+arrière-main | NVERB | a" R j E R m e~'
+arrière-mains | NVERB | a" R j E R m e~'
+arrière-neveu | NVERB | a" R j E R n @ v 2'
+arrière-neveux | NVERB | a" R j E R n @ v 2'
+arrière-pays | NVERB | a" R j E R p e i'
+arrière-pensée | NVERB | a" R j E R p a~ s e'
+arrière-pensées | NVERB | a" R j E R p a~ s e'
+arrière-petit-fils | NVERB | a" R j E R p @ t i f i' s
+arrière-petit-neveu | NVERB | a" R j E R p @ t i n v 2'
+arrière-petite-fille | NVERB | a" R j E R p @ t i t f i' j
+arrière-petite-nièce | NVERB | a" R j E R p @ t i t n j E' s
+arrière-petites-filles | NVERB | a" R j E R p @ t i t f i' j
+arrière-petites-nièces | NVERB | a" R j E R p @ t i t n j E' s
+arrière-petits-enfants | NVERB | a" R j E R p @ t i z a~ f a~'
+arrière-petits-fils | NVERB | a" R j E R p @ t i f i' s
+arrière-petits-neveux | NVERB | a" R j E R p @ t i n v 2'
+arrière-plan | NVERB | a" R j E R p l a~'
+arrière-plans | NVERB | a" R j E R p l a~'
+arrière-saison | NVERB | a" R j E R s E z o~'
+arrière-saisons | NVERB | a" R j E R s E z o~'
+arrière-vassal | NVERB | a" R j E R v a s a' l
+arrière-vassaux | NVERB | a" R j E R v a s o'
+assurance-crédit | NVERB | a" s y R a~ s k R e d i'
+assurances-crédits | NVERB | a" s y R a~ s k R e d i'
+atomes-grammes | NVERB | a" t O m g R a' m
+attaché-case | NVERB | a" t a S e k E' j z
+audio-oral | NVERB | o" d j o O R a' l
+audio-orale | NVERB | o" d j o O R a' l
+audio-orales | NVERB | o" d j o O R a' l
+audio-oraux | NVERB | o" d j o O R o'
+auto-accusation | NVERB | o" t o a k y z a s j o~'
+auto-adhésif | NVERB | o" t o a d e z i' f
+auto-allumage | NVERB | o" t o a l y m a' Z
+auto-amorçage | NVERB | o" t o a m O R s a' Z
+auto-couchettes | NVERB | o" t o k u S E' t
+avant-bras | NVERB | a" v a~ b R a'
+avant-clou | NVERB | a" v a~ k l u'
+avant-clous | NVERB | a" v a~ k l u'
+avant-corps | NVERB | a" v a~ k O' R
+avant-cour | NVERB | a" v a~ k u' R
+avant-coureur | NVERB | a" v a~ k u R 9' R
+avant-coureurs | NVERB | a" v a~ k u R 9' R
+avant-cours | NVERB | a" v a~ k u' R
+avant-hier | NVERB | a" v a~ t j E' R
+avant-pays | NVERB | a" v a~ p e i'
+avant-port | NVERB | a" v a~ p O' R
+avant-ports | NVERB | a" v a~ p O' R
+avant-poste | NVERB | a" v a~ p O' s t
+avant-postes | NVERB | a" v a~ p O' s t
+avant-première | NVERB | a" v a~ p R @ m j E' R
+avant-premières | NVERB | a" v a~ p R @ m j E' R
+avant-projet | NVERB | a" v a~ p R O Z E'
+avant-projets | NVERB | a" v a~ p R O Z E'
+avant-propos | NVERB | a" v a~ p R O p o'
+avant-toit | NVERB | a" v a~ t w a'
+avant-toits | NVERB | a" v a~ t w a'
+avant-train | NVERB | a" v a~ t R e~'
+avant-trains | NVERB | a" v a~ t R e~'
+avant-veille | NVERB | a" v a~ v E' j
+avant-veilles | NVERB | a" v a~ v E' j
+aveugle-né | NVERB | a" v 9 g l @ n e'
+aveugle-née | NVERB | a" v 9 g l @ n e'
+avion-cargo | NVERB | a" v j o~ k a R g o'
+avion-citerne | NVERB | a" v j o~ s i t E' R n
+avion-école | NVERB | a" v j o~ e k O' l
+avions-cargos | NVERB | a" v j o~ k a R g o'
+avions-citernes | NVERB | a" v j o~ s i t E' R n
+avions-écoles | NVERB | a" v j o~ e k O' l
+aye-aye | NVERB | E" j E' j
+ayes-ayes | NVERB | E" j z E' j
+aéro-club | NVERB | a" e R o k l 9' b
+aéro-clubs | NVERB | a" e R o k l 9' b
+bachi-bouzouk | NVERB | b a" S i b u z u' k
+bain-marie | NVERB | b e~" m a R i'
+bains-marie | NVERB | b e~" m a R i'
+balai-brosse | NVERB | b a" l E b R O' s
+balais-brosses | NVERB | b a" l E b R O' s
+ballon-sonde | NVERB | b a" l o~ s o~' d
+ballons-sondes | NVERB | b a" l o~ s o~' d
+bas-côté | NVERB | b a" k o t e'
+bas-côtés | NVERB | b a" k o t e'
+base-ball | NVERB | b E" z b o' l
+basket-ball | NVERB | b a" s k E t b o' l
+basket-balls | NVERB | b a" s k E t b o' l
+basses-cours | NVERB | b a" s k u' R
+basses-fosses | NVERB | b a" s f o' s
+basses-tailles | NVERB | b a" s t a' j
+bateau-lavoir | NVERB | b a" t o l a v w a' R
+bateau-mouche | NVERB | b a" t o m u' S
+bateau-pilote | NVERB | b a" t o p i l O' t
+bateaux-lavoirs | NVERB | b a" t o l a v w a' R
+bateaux-mouches | NVERB | b a" t o m u' S
+bateaux-pilotes | NVERB | b a" t o p i l O' t
+battle-dress | NVERB | b a" t @ l d R E' s
+beaux-arts | NVERB | b o" z a' R
+bec-croisé | NVERB | b E" k k R w a z e'
+bec-de-cane | NVERB | b E" k d k a' n
+bec-de-corbeau | NVERB | b E" k d @ k O R b o'
+bec-de-lièvre | NVERB | b E" k d @ l j E' v R
+becs-croisés | NVERB | b E" k k R w a z e'
+becs-de-cane | NVERB | b E" k d k a' n
+becs-de-corbeau | NVERB | b E" k d @ k O R b o'
+becs-de-lièvre | NVERB | b E" k d @ l j E' v R
+belle-de-jour | NVERB | b E" l d @ Z u' R
+belle-de-nuit | NVERB | b E" l d @ n H i'
+belle-famille | NVERB | b E" l f a m i' j
+belle-fille | NVERB | b E" l f i' j
+belle-soeur | NVERB | b E" l s 9' R
+belles-de-jour | NVERB | b E" l d @ Z u' R
+belles-de-nuit | NVERB | b E" l d @ n H i'
+belles-familles | NVERB | b E" l f a m i' j
+belles-filles | NVERB | b E" l f i' j
+belles-lettres | NVERB | b E" l l E' t R
+belles-mères | NVERB | b E" l m E' R
+belles-soeurs | NVERB | b E" l s 9' R
+bien-aimé | NVERB | b j e~" n E m e'
+bien-aimée | NVERB | b j e~" n E m e'
+bien-aimées | NVERB | b j e~" n E m e'
+bien-aimés | NVERB | b j e~" n E m e'
+bien-dire | NVERB | b j e~" d i' R
+bien-fonds | NVERB | b j e~" f o~'
+bien-fondé | NVERB | b j e~" f o~ d e'
+bien-fondés | NVERB | b j e~" f o~ d e'
+bien-jugé | NVERB | b j e~" Z y Z e'
+bien-pensant | NVERB | b j e~" p a~ s a~'
+bien-pensante | NVERB | b j e~" p a~ s a~' t
+bien-pensantes | NVERB | b j e~" p a~ s a~' t
+bien-pensants | NVERB | b j e~" p a~ s a~'
+bien-être | NVERB | b j e~" n E' t R
+biens-fonds | NVERB | b j e~" f o~'
+bla-bla | NVERB | b l a" b l a'
+bla-bla-bla | NVERB | b l a" b l a b l a'
+black-out | NVERB | b l a" k a u' t
+blanc-estocs | NVERB | b l a~" E s t O' k
+blanc-manger | NVERB | b l a~" m a~ Z e'
+blanc-seing | NVERB | b l a~" s e~'
+blancs-mangers | NVERB | b l a~" m a~ Z e'
+blancs-manteaux | NVERB | b l a~" m a~ t o'
+blancs-seings | NVERB | b l a~" s e~'
+blancs-étocs | NVERB | b l a~" z e t O' k
+bloc-cylindres | NVERB | b l O" k s i l e~' d R
+bloc-moteur | NVERB | b l O" k m O t 9' R
+blocs-cylindres | NVERB | b l O" k s i l e~' d R
+blocs-moteurs | NVERB | b l O" k m O t 9' R
+blocs-systèmes | NVERB | b l O" k s i s t E' m
+blue-jean | NVERB | b l u" d Z i' n
+blue-jeans | NVERB | b l u" d Z i' n
+boit-sans-soif | NVERB | b w a" s a~ s w a' f
+bonheur-du-jour | NVERB | b O" n 9 R d y Z u' R
+bonheurs-du-jour | NVERB | b O" n 9 R d y Z u' R
+bonnes-mamans | NVERB | b O" n m a m a~'
+bossa-nova | NVERB | b O" s a n O v a'
+bossas-novas | NVERB | b O" s a n O v a'
+bouche-à-bouche | NVERB | b u" S a b u' S
+boui-boui | NVERB | b w i" b w i'
+bouis-bouis | NVERB | b w i" b w i'
+boule-de-neige | NVERB | b u" l d @ n E' Z
+boules-de-neige | NVERB | b u" l d @ n E' Z
+boute-en-train | NVERB | b u" t a~ t R e~'
+bouton-d'argent | NVERB | b u" t o~ d a R Z a~'
+bouton-d'or | NVERB | b u" t o~ d O' R
+bouton-pression | NVERB | b u" t o~ p R E s j o~'
+boutons-d'argent | NVERB | b u" t o~ d a R Z a~'
+boutons-d'or | NVERB | b u" t o~ d O' R
+boutons-pression | NVERB | b u" t o~ p R E s j o~'
+bow-string | NVERB | b o" s t R i' N
+bow-strings | NVERB | b o" s t R i' N
+bow-window | NVERB | b o" w i n d o'
+bow-windows | NVERB | b o" w i n d o' z
+bracelet-montre | NVERB | b R a" s l e m o~' t R
+bracelets-montres | NVERB | b R a" s l E m o~' t R
+brain-trust | NVERB | b R E" n t R 9' s t
+brain-trusts | NVERB | b R E" n t R 9' s t
+bras-le-corps | NVERB | b R a" l k O' R
+bric-à-brac | NVERB | b R i" k a b R a' k
+brise-fer | NVERB | b R i" z f E' R
+brise-glace | NVERB | b R i" z g l a' s
+brise-glaces | NVERB | b R i" z g l a' s
+brise-jet | NVERB | b R i" z Z E'
+brise-mottes | NVERB | b R i" z m O' t
+brise-soleil | NVERB | b R i" z s O l E' j
+brise-tout | NVERB | b R i" z t u'
+brise-vent | NVERB | b R i" z v a~'
+broncho-pneumonie | NVERB | b R o~" k o p n 2 m O n i'
+broncho-pneumonies | NVERB | b R o~" k o p n 2 m O n i'
+brûle-gueule | NVERB | b R y" l g 9' l
+brûle-parfum | NVERB | b R y" l p a R f 9~'
+brûle-parfums | NVERB | b R y" l p a R f 9~'
+bucco-dentaire | NVERB | b y" k o d a~ t E' R
+bucco-génital | NVERB | b y" k o Z e n i t a' l
+bucco-génitale | NVERB | b y" k o Z e n i t a' l
+bucco-génitaux | NVERB | b y" k o Z e n i t o'
+buissons-ardents | NVERB | b H i" s o~ z a R d a~'
+bull-finch | NVERB | b u" l f i' n S
+bull-finches | NVERB | b u" l f i' n S
+bull-finchs | NVERB | b u" l f i' n S
+bull-terrier | NVERB | b u" l t E R j e'
+bull-terriers | NVERB | b u" l t E R j e'
+by-pass | NVERB | b i" p a' s
+bye-bye | NVERB | b a" j b a' j
+bâle-campagne | NVERB | b a" l k a~ p a' n j
+bâle-ville | NVERB | b a" l v i' l
+béni-oui-oui | NVERB | b e" n i w i w i'
+c'est-à-dire | NVERB | s E" t a d i' R
+cab-signal | NVERB | k a" b s i n j a' l
+cab-signaux | NVERB | k a" b s i n j o'
+cahin-caha | NVERB | k a" e~ k a a'
+call-girl | NVERB | k O" l g 9' R l
+call-girls | NVERB | k O" l g 9' R l
+camion-citerne | NVERB | k a" m j o~ s i t E' R n
+camions-citernes | NVERB | k a" m j o~ s i t E' R n
+camping-car | NVERB | k a~" p i N k a' R
+camping-cars | NVERB | k a~" p i N k a' R
+camping-gaz | NVERB | k a~" p i N g a' z
+cardio-vasculaire | NVERB | k a" R d j O v a s k y l E' R
+cardio-vasculaires | NVERB | k a" R d j O v a s k y l E' R
+carte-lettre | NVERB | k a" R t @ l E' t R
+cartes-lettres | NVERB | k a" R t @ l E' t R
+carton-pâte | NVERB | k a" R t o~ p a' t
+cartons-pierres | NVERB | k a" R t o~ p j E' R
+cartons-pâtes | NVERB | k a" R t o~ p a' t
+carême-prenant | NVERB | k a" R E m p R @ n a~'
+carêmes-prenants | NVERB | k a" R E m p R @ n a~'
+casse-graine | NVERB | k a" s g R E' n
+casse-gueule | NVERB | k a" s g 9' l
+casse-pieds | NVERB | k a" s p j e'
+casse-pierre | NVERB | k a" s p j E' R
+casse-pierres | NVERB | k a" s p j E' R
+celle-ci | NVERB | s E" l s i'
+celle-là | NVERB | s E" l l a'
+celles-ci | NVERB | s E" l s i'
+celles-là | NVERB | s E" l l a'
+celui-ci | NVERB | s @" l H i s i'
+celui-là | NVERB | s @" l H i l a'
+cerfs-volants | NVERB | s E" R f v O l a~'
+cessez-le-feu | NVERB | s E" s e l f 2'
+ceux-là | NVERB | s 2" l a'
+cha-cha-cha | NVERB | t S a" t S a t S a'
+chasse-mouches | NVERB | S a" s m u' S
+chasse-pierres | NVERB | S a" s p j E' R
+chat-huant | NVERB | S a" y a~'
+chat-tigre | NVERB | S a" t i' g R
+chats-huants | NVERB | S a" z y a~'
+chats-tigres | NVERB | S a" t i' g R
+chauves-souris | NVERB | S o" v s u R i'
+check-list | NVERB | S E" k l i' s t
+check-lists | NVERB | S E" k l i' s t
+check-up | NVERB | S E" k 9' p
+chef-d'oeuvre | NVERB | S E" d 9' v R
+chef-lieu | NVERB | S E" f l j 2'
+chefs-d'oeuvre | NVERB | S E" d 9' v R
+chefs-lieux | NVERB | S E" f l j 2'
+chevau-léger | NVERB | S @" v o l e Z e'
+chevau-légers | NVERB | S @" v o l e Z e'
+chewing-gum | NVERB | S w i" N g O' m
+chewing-gums | NVERB | S w i" N g O' m
+chez-moi | NVERB | S e" m w a'
+chez-soi | NVERB | S e" s w a'
+chez-toi | NVERB | S e" t w a'
+chien-loup | NVERB | S j e~" l u'
+chiens-loups | NVERB | S j e~" l u'
+chou-fleur | NVERB | S u" f l 9' R
+choux-fleurs | NVERB | S u" f l 9' R
+choux-navets | NVERB | S u" n a v E'
+choux-raves | NVERB | S u" R a' v
+chow-chow | NVERB | S o" S o'
+chows-chows | NVERB | S o" S o'
+chris-craft | NVERB | k R i" s k R a' f t
+chèvre-pied | NVERB | S E" v R @ p j e'
+chênes-lièges | NVERB | S E" n l j E' Z
+ci-annexé | NVERB | s i" a n E k s e'
+ci-annexée | NVERB | s i" a n E k s e'
+ci-annexées | NVERB | s i" a n E k s e'
+ci-annexés | NVERB | s i" a n E k s e'
+ci-après | NVERB | s i" a p R E'
+ci-dessous | NVERB | s i" d s u'
+ci-dessus | NVERB | s i" d s y'
+ci-devant | NVERB | s i" d v a~'
+ci-gît | NVERB | s i" Z i'
+ci-inclus | NVERB | s i" e~ k l y'
+ci-incluse | NVERB | s i" e~ k l y' z
+ci-incluses | NVERB | s i" e~ k l y' z
+ci-joint | NVERB | s i" Z w e~'
+ci-jointe | NVERB | s i" Z w e~' t
+ci-jointes | NVERB | s i" Z w e~' t
+ci-joints | NVERB | s i" Z w e~'
+cinquante-deux | NVERB | s e~" k a~ t d 2'
+cinquante-huit | NVERB | s e~" k a~ t H i' t
+cinquante-quatre | NVERB | s e~" k a~ t k a' t R
+cinquante-sept | NVERB | s e~" k a~ t s E' t
+cinquante-trois | NVERB | s e~" k a~ t t R w a'
+claires-voies | NVERB | k l E" R v w a'
+clairs-obscurs | NVERB | k l E" R z O p s k y' R
+clopin-clopant | NVERB | k l O" p e~ k l O p a~'
+close-combat | NVERB | k l o" z k o~ b a'
+close-combats | NVERB | k l o" z k o~ b a'
+cocotte-minute | NVERB | k o" k O t m i n y' t
+cocottes-minute | NVERB | k o" k O t m i n y' t
+coeur-de-pigeon | NVERB | k 9" R d @ p i Z o~'
+coeurs-de-pigeon | NVERB | k 9" R d @ p i Z o~'
+coffre-fort | NVERB | k O" f R @ f O' R
+coffres-forts | NVERB | k O" f R @ f O' R
+coin-coin | NVERB | k w e~" k w e~'
+col-de-cygne | NVERB | k O" l d @ s i' n j
+colin-maillard | NVERB | k O" l e~ m a j a' R
+colin-maillards | NVERB | k O" l e~ m a j a' R
+cols-de-cygne | NVERB | k O" l d @ s i' n j
+come-back | NVERB | k O" m b a' k
+commissaire-priseur | NVERB | k O" m i s E R p R i z 9' R
+commissaires-priseurs | NVERB | k O" m i s E R p R i z 9' R
+compte-fils | NVERB | k o~" t f i' l
+comptes-chèques | NVERB | k o~" t S E' k
+compère-loriot | NVERB | k o~" p E R l O R j o'
+compères-loriots | NVERB | k o~" p E R l O R j o'
+contre-chant | NVERB | k o~" t R @ S a~'
+contre-chants | NVERB | k o~" t R @ S a~'
+contre-digue | NVERB | k o~" t R @ d i' g
+contre-dénonciation | NVERB | k o~" t R @ d e n o~ s j a s j o~'
+contre-empreinte | NVERB | k o~" t R a~ p R e~' t
+contre-enquête | NVERB | k o~" t R a~ k E' t
+contre-enquêtes | NVERB | k o~" t R a~ k E' t
+contre-espionnage | NVERB | k o~" t R E s p j O n a' Z
+contre-espionnages | NVERB | k o~" t R E s p j O n a' Z
+contre-essai | NVERB | k o~" t R E s e'
+contre-essais | NVERB | k o~" t R E s E'
+contre-exemple | NVERB | k o~" t R E g z a~' p l
+contre-exemples | NVERB | k o~" t R E g z a~' p l
+contre-expertise | NVERB | k o~" t R E k s p E R t i' z
+contre-expertises | NVERB | k o~" t R E k s p E R t i' z
+contre-extension | NVERB | k o~" t R E k s t a~ s j o~'
+contre-fenêtre | NVERB | k o~" t R @ f @ n E' t R
+contre-fenêtres | NVERB | k o~" t R @ f @ n E' t R
+contre-fer | NVERB | k o~" t R @ f E' R
+contre-feu | NVERB | k o~" t R @ f 2'
+contre-feux | NVERB | k o~" t R @ f 2'
+contre-fil | NVERB | k o~" t R @ f i' l
+contre-filet | NVERB | k o~" t R @ f i l E'
+contre-filets | NVERB | k o~" t R @ f i l E'
+contre-fils | NVERB | k o~" t R @ f i' l
+contre-fugue | NVERB | k o~" t R @ f y' g
+contre-hermine | NVERB | k o~" t R E R m i' n
+contre-jour | NVERB | k o~" t R @ Z u' R
+contre-jours | NVERB | k o~" t R @ Z u' R
+contre-lettre | NVERB | k o~" t R @ l E' t R
+contre-lettres | NVERB | k o~" t R @ l E' t R
+contre-manifesta | VERB | k o~" t R @ m a n i f E s t a'
+contre-manifestai | VERB | k o~" t R @ m a n i f E s t e'
+contre-manifestaient | VERB | k o~" t R @ m a n i f E s t E'
+contre-manifestais | VERB | k o~" t R @ m a n i f E s t E'
+contre-manifestait | VERB | k o~" t R @ m a n i f E s t E'
+contre-manifestant | NVERB | k o~" t R @ m a n i f E s t a~'
+contre-manifestante | NVERB | k o~" t R @ m a n i f E s t a~' t
+contre-manifestantes | NVERB | k o~" t R @ m a n i f E s t a~' t
+contre-manifestants | NVERB | k o~" t R @ m a n i f E s t a~'
+contre-manifestas | VERB | k o~" t R @ m a n i f E s t a'
+contre-manifestasse | VERB | k o~" t R @ m a n i f E s t a' s
+contre-manifestassent | VERB | k o~" t R @ m a n i f E s t a' s
+contre-manifestasses | VERB | k o~" t R @ m a n i f E s t a' s
+contre-manifestassiez | VERB | k o~" t R @ m a n i f E s t a s j e'
+contre-manifestassions | VERB | k o~" t R @ m a n i f E s t a s j o~'
+contre-manifestation | NVERB | k o~" t R @ m a n i f E s t a s j o~'
+contre-manifestations | NVERB | k o~" t R @ m a n i f E s t a s j o~'
+contre-manifeste | VERB | k o~" t R @ m a n i f E' s t
+contre-manifestent | VERB | k o~" t R @ m a n i f E' s t
+contre-manifester | VERB | k o~" t R @ m a n i f E s t e'
+contre-manifestera | VERB | k o~" t R @ m a n i f E s t @ R a'
+contre-manifesterai | VERB | k o~" t R @ m a n i f E s t @ R e'
+contre-manifesteraient | VERB | k o~" t R @ m a n i f E s t @ R E'
+contre-manifesterais | VERB | k o~" t R @ m a n i f E s t @ R E'
+contre-manifesterait | VERB | k o~" t R @ m a n i f E s t @ R E'
+contre-manifesteras | VERB | k o~" t R @ m a n i f E s t @ R a'
+contre-manifesterez | VERB | k o~" t R @ m a n i f E s t @ R e'
+contre-manifesteriez | VERB | k o~" t R @ m a n i f E s t @ R j e'
+contre-manifesterions | VERB | k o~" t R @ m a n i f E s t @ R j o~'
+contre-manifesterons | VERB | k o~" t R @ m a n i f E s t @ R o~'
+contre-manifesteront | VERB | k o~" t R @ m a n i f E s t @ R o~'
+contre-manifestes | VERB | k o~" t R @ m a n i f E' s t
+contre-manifestez | VERB | k o~" t R @ m a n i f E s t e'
+contre-manifestiez | VERB | k o~" t R @ m a n i f E s t j e'
+contre-manifestions | VERB | k o~" t R @ m a n i f E s t j o~'
+contre-manifestons | VERB | k o~" t R @ m a n i f E s t o~'
+contre-manifestâmes | VERB | k o~" t R @ m a n i f E s t a' m
+contre-manifestât | VERB | k o~" t R @ m a n i f E s t a'
+contre-manifestâtes | VERB | k o~" t R @ m a n i f E s t a' t
+contre-manifestèrent | VERB | k o~" t R @ m a n i f E s t E' R
+contre-manifesté | VERB | k o~" t R @ m a n i f E s t e'
+contre-manifestée | VERB | k o~" t R @ m a n i f E s t e'
+contre-manifestées | VERB | k o~" t R @ m a n i f E s t e'
+contre-manifestés | VERB | k o~" t R @ m a n i f E s t e'
+contre-mesure | NVERB | k o~" t R @ m @ z y' R
+contre-mesures | NVERB | k o~" t R @ m @ z y' R
+contre-mine | NVERB | k o~" t R @ m i' n
+contre-passa | VERB | k o~" t R @ p a s a'
+contre-passai | VERB | k o~" t R @ p a s e'
+contre-passaient | VERB | k o~" t R @ p a s E'
+contre-passais | VERB | k o~" t R @ p a s E'
+contre-passait | VERB | k o~" t R @ p a s E'
+contre-passant | VERB | k o~" t R @ p a s a~'
+contre-passas | VERB | k o~" t R @ p a s a'
+contre-passasse | VERB | k o~" t R @ p a s a' s
+contre-passassent | VERB | k o~" t R @ p a s a' s
+contre-passasses | VERB | k o~" t R @ p a s a' s
+contre-passassiez | VERB | k o~" t R @ p a s a s j e'
+contre-passassions | VERB | k o~" t R @ p a s a s j o~'
+contre-passe | VERB | k o~" t R @ p a' s
+contre-passent | VERB | k o~" t R @ p a' s
+contre-passer | VERB | k o~" t R @ p a s e'
+contre-passera | VERB | k o~" t R @ p a s R a'
+contre-passerai | VERB | k o~" t R @ p a s R e'
+contre-passeraient | VERB | k o~" t R @ p a s R E'
+contre-passerais | VERB | k o~" t R @ p a s R E'
+contre-passerait | VERB | k o~" t R @ p a s R E'
+contre-passeras | VERB | k o~" t R @ p a s R a'
+contre-passerez | VERB | k o~" t R @ p a s R e'
+contre-passeriez | VERB | k o~" t R @ p a s @ R j e'
+contre-passerions | VERB | k o~" t R @ p a s @ R j o~'
+contre-passerons | VERB | k o~" t R @ p a s R o~'
+contre-passeront | VERB | k o~" t R @ p a s R o~'
+contre-passes | VERB | k o~" t R @ p a' s
+contre-passez | VERB | k o~" t R @ p a s e'
+contre-passiez | VERB | k o~" t R @ p a s j e'
+contre-passions | VERB | k o~" t R @ p a s j o~'
+contre-passons | VERB | k o~" t R @ p a s o~'
+contre-passâmes | VERB | k o~" t R @ p a s a' m
+contre-passât | VERB | k o~" t R @ p a s a'
+contre-passâtes | VERB | k o~" t R @ p a s a' t
+contre-passèrent | VERB | k o~" t R @ p a s E' R
+contre-passé | VERB | k o~" t R @ p a s e'
+contre-passée | VERB | k o~" t R @ p a s e'
+contre-passées | VERB | k o~" t R @ p a s e'
+contre-passés | VERB | k o~" t R @ p a s e'
+contre-pente | NVERB | k o~" t R @ p a~' t
+contre-pentes | NVERB | k o~" t R @ p a~' t
+contre-performance | NVERB | k o~" t R @ p E R f O R m a~' s
+contre-performances | NVERB | k o~" t R @ p E R f O R m a~' s
+contre-pied | NVERB | k o~" t R @ p j e'
+contre-pieds | NVERB | k o~" t R @ p j e'
+contre-placage | NVERB | k o~" t R @ p l a k a' Z
+contre-plaqué | NVERB | k o~" t R @ p l a k e'
+contre-plaqués | NVERB | k o~" t R @ p l a k e'
+contre-plongée | NVERB | k o~" t R @ p l o~ Z e'
+contre-pointe | NVERB | k o~" t R @ p w e~' t
+contre-porte | NVERB | k o~" t R @ p O' R t
+contre-projet | NVERB | k o~" t R @ p R O Z E'
+contre-projets | NVERB | k o~" t R @ p R O Z E'
+contre-propagande | NVERB | k o~" t R @ p R O p a g a~' d
+contre-proposition | NVERB | k o~" t R @ p R O p o z i s j o~'
+contre-propositions | NVERB | k o~" t R @ p R O p o z i s j o~'
+contre-publicité | NVERB | k o~" t R @ p y b l i s i t e'
+contre-rail | NVERB | k o~" t R @ R a' j
+contre-rails | NVERB | k o~" t R @ R a' j
+contre-révolution | NVERB | k o~" t R @ R e v O l y s j o~'
+contre-révolutionnaire | NVERB | k o~" t R @ R e v O l y s j O n E' R
+contre-révolutionnaires | NVERB | k o~" t R @ R e v O l y s j O n E' R
+contre-révolutions | NVERB | k o~" t R @ R e v O l y s j o~'
+contre-taille | NVERB | k o~" t R @ t a' j
+contre-terrorisme | NVERB | k o~" t R @ t e R O R i' z m
+contre-terroriste | NVERB | k o~" t R @ t e R O R i' s t
+contre-terroristes | NVERB | k o~" t R @ t e R O R i' s t
+contre-timbre | NVERB | k o~" t R @ t e~' b R
+contre-tira | VERB | k o~" t R @ t i R a'
+contre-tirai | VERB | k o~" t R @ t i R e'
+contre-tiraient | VERB | k o~" t R @ t i R E'
+contre-tirais | VERB | k o~" t R @ t i R E'
+contre-tirait | VERB | k o~" t R @ t i R E'
+contre-tirant | VERB | k o~" t R @ t i R a~'
+contre-tiras | VERB | k o~" t R @ t i R a'
+contre-tirasse | VERB | k o~" t R @ t i R a' s
+contre-tirassent | VERB | k o~" t R @ t i R a' s
+contre-tirasses | VERB | k o~" t R @ t i R a' s
+contre-tirassiez | VERB | k o~" t R @ t i R a s j e'
+contre-tirassions | VERB | k o~" t R @ t i R a s j o~'
+contre-tire | VERB | k o~" t R @ t i' R
+contre-tirent | VERB | k o~" t R @ t i' R
+contre-tirer | VERB | k o~" t R @ t i R e'
+contre-tirera | VERB | k o~" t R @ t i R R a'
+contre-tirerai | VERB | k o~" t R @ t i R R e'
+contre-tireraient | VERB | k o~" t R @ t i R R E'
+contre-tirerais | VERB | k o~" t R @ t i R R E'
+contre-tirerait | VERB | k o~" t R @ t i R R E'
+contre-tireras | VERB | k o~" t R @ t i R R a'
+contre-tirerez | VERB | k o~" t R @ t i R R e'
+contre-tireriez | VERB | k o~" t R @ t i R @ R j e'
+contre-tirerions | VERB | k o~" t R @ t i R @ R j o~'
+contre-tirerons | VERB | k o~" t R @ t i R R o~'
+contre-tireront | VERB | k o~" t R @ t i R R o~'
+contre-tires | VERB | k o~" t R @ t i' R
+contre-tirez | VERB | k o~" t R @ t i R e'
+contre-tiriez | VERB | k o~" t R @ t i R j e'
+contre-tirions | VERB | k o~" t R @ t i R j o~'
+contre-tirons | VERB | k o~" t R @ t i R o~'
+contre-tirâmes | VERB | k o~" t R @ t i R a' m
+contre-tirât | VERB | k o~" t R @ t i R a'
+contre-tirâtes | VERB | k o~" t R @ t i R a' t
+contre-tirèrent | VERB | k o~" t R @ t i R E' R
+contre-tiré | VERB | k o~" t R @ t i R e'
+contre-tirée | VERB | k o~" t R @ t i R e'
+contre-tirées | VERB | k o~" t R @ t i R e'
+contre-tirés | VERB | k o~" t R @ t i R e'
+contre-torpilleur | NVERB | k o~" t R @ t O R p i j 9' R
+contre-torpilleurs | NVERB | k o~" t R @ t O R p i j 9' R
+contre-valeur | NVERB | k o~" t R @ v a l 9' R
+contre-valeurs | NVERB | k o~" t R @ v a l 9' R
+contre-vapeur | NVERB | k o~" t R @ v a p 9' R
+contre-vapeurs | NVERB | k o~" t R @ v a p 9' R
+contre-visite | NVERB | k o~" t R @ v i z i' t
+contre-visites | NVERB | k o~" t R @ v i z i' t
+contre-voie | NVERB | k o~" t R @ v w a'
+contre-voies | NVERB | k o~" t R @ v w a'
+coq-à-l'âne | NVERB | k O" k a l a' n
+corbeille-d'argent | NVERB | k O" R b E j d a R Z a~'
+corbeilles-d'argent | NVERB | k O" R b E j d a R Z a~'
+cordon-bleu | NVERB | k O" R d o~ b l 2'
+cordons-bleus | NVERB | k O" R d o~ b l 2'
+corned-beef | NVERB | k O" R n b i' f
+corps-mort | NVERB | k O" R m O' R
+corps-morts | NVERB | k O" R m O' R
+coton-poudre | NVERB | k O" t o~ p u' d R
+cotons-poudres | NVERB | k O" t o~ p u' d R
+cou-de-pied | NVERB | k u" d @ p j e'
+couches-culottes | NVERB | k u" S k y l O' t
+couci-couça | NVERB | k u" s i k u s a'
+coup-de-poing | NVERB | k u" d p w e~'
+coups-de-poing | NVERB | k u" d p w e~'
+courts-jus | NVERB | k u" R Z y'
+cous-de-pied | NVERB | k u" d @ p j e'
+couvre-chef | NVERB | k u" v R @ S E' f
+couvre-chefs | NVERB | k u" v R @ S E' f
+couvre-feu | NVERB | k u" v R @ f 2'
+couvre-feux | NVERB | k u" v R @ f 2'
+couvre-joint | NVERB | k u" v R @ Z w e~'
+couvre-joints | NVERB | k u" v R @ Z w e~'
+couvre-lit | NVERB | k u" v R @ l i'
+couvre-lits | NVERB | k u" v R @ l i'
+couvre-nuque | NVERB | k u" v R @ n y' k
+couvre-nuques | NVERB | k u" v R @ n y' k
+couvre-plat | NVERB | k u" v R @ p l a'
+couvre-plats | NVERB | k u" v R @ p l a'
+cover-girl | NVERB | k O" v 9 R g 9' R l
+cover-girls | NVERB | k O" v 9 R g 9' R l
+cow-boy | NVERB | k o" b O' j
+cow-boys | NVERB | k o" b O' j
+crayon-feutre | NVERB | k R E" j o~ f 2' t R
+crayons-feutres | NVERB | k R E" j o~ f 2' t R
+criste-marine | NVERB | k R i" s t @ m a R i' n
+cristes-marines | NVERB | k R i" s t @ m a R i' n
+croc-en-jambe | NVERB | k R O" k a~ Z a~' b
+crocs-en-jambe | NVERB | k R O" k a~ Z a~' b
+croque-monsieur | NVERB | k R O" k m @ s j 2'
+cross-country | NVERB | k R O" s k u n t R i'
+crève-coeur | NVERB | k R E" v k 9' R
+crève-la-faim | NVERB | k R E" v l a f e~'
+cul-blanc | NVERB | k y" b l a~'
+cul-de-basse-fosse | NVERB | k y" d b a s f o' s
+cul-de-jatte | NVERB | k y" d Z a' t
+cul-de-lampe | NVERB | k y" d l a~' p
+cul-de-sac | NVERB | k y" d s a' k
+cul-terreux | NVERB | k y" t E R 2'
+culs-blancs | NVERB | k y" b l a~'
+culs-de-basse-fosse | NVERB | k y" d b a s f o' s
+culs-de-jatte | NVERB | k y" d Z a' t
+culs-de-lampe | NVERB | k y" d l a~' p
+culs-de-sac | NVERB | k y" d s a' k
+culs-terreux | NVERB | k y" t E R 2'
+cure-dent | NVERB | k y" R d a~'
+cure-dents | NVERB | k y" R d a~'
+cut-back | NVERB | k y" b a' k
+cut-backs | NVERB | k y" b a' k
+cyclo-cross | NVERB | s i" k l O k R O' s
+céphalo-rachidien | NVERB | s e" f a l o R a S i d j e~'
+cérébro-spinal | NVERB | s e" R e b R O s p i n a' l
+cérébro-spinale | NVERB | s e" R e b R O s p i n a' l
+cérébro-spinales | NVERB | s e" R e b R O s p i n a' l
+cérébro-spinaux | NVERB | s e" R e b R O s p i n o'
+dame-d'onze-heures | NVERB | d a" m d o~ z 9' R
+delta-plane | NVERB | d E" l t a p l a' n
+demi-bas | NVERB | d @" m i b a'
+demi-bouteille | NVERB | d @" m i b u t E' j
+demi-bouteilles | NVERB | d @" m i b u t E' j
+demi-brigade | NVERB | d @" m i b R i g a' d
+demi-brigades | NVERB | d @" m i b R i g a' d
+demi-clef | NVERB | d @" m i k l e'
+demi-clefs | NVERB | d @" m i k l e'
+demi-deuil | NVERB | d @" m i d 9' j
+demi-deuils | NVERB | d @" m i d 9' j
+demi-dieu | NVERB | d @" m i d j 2'
+demi-dieux | NVERB | d @" m i d j 2'
+demi-douzaine | NVERB | d @" m i d u z E' n
+demi-douzaines | NVERB | d @" m i d u z E' n
+demi-droite | NVERB | d @" m i d R w a' t
+demi-droites | NVERB | d @" m i d R w a' t
+demi-finale | NVERB | d @" m i f i n a' l
+demi-finales | NVERB | d @" m i f i n a' l
+demi-finaliste | NVERB | d @" m i f i n a l i' s t
+demi-finalistes | NVERB | d @" m i f i n a l i' s t
+demi-fond | NVERB | d @" m i f o~'
+demi-gros | NVERB | d @" m i g R o'
+demi-heure | NVERB | d @" m i 9' R
+demi-heures | NVERB | d @" m i 9' R
+demi-jour | NVERB | d @" m i Z u' R
+demi-journée | NVERB | d @" m i Z u R n e'
+demi-journées | NVERB | d @" m i Z u R n e'
+demi-reliure | NVERB | d @" m i R @ l j y' R
+demi-reliures | NVERB | d @" m i R @ l j y' R
+demi-ronde | NVERB | d @" m i R o~' d
+demi-rondes | NVERB | d @" m i R o~' d
+demi-saison | NVERB | d @" m i s E z o~'
+demi-saisons | NVERB | d @" m i s E z o~'
+demi-soeur | NVERB | d @" m i s 9' R
+demi-soeurs | NVERB | d @" m i s 9' R
+demi-tarif | NVERB | d @" m i t a R i' f
+demi-tarifs | NVERB | d @" m i t a R i' f
+demi-tasse | NVERB | d @" m i t a' s
+demi-tasses | NVERB | d @" m i t a' s
+demi-teinte | NVERB | d @" m i t e~' t
+demi-teintes | NVERB | d @" m i t e~' t
+demi-ton | NVERB | d @" m i t o~'
+demi-tons | NVERB | d @" m i t o~'
+demi-tour | NVERB | d @" m i t u' R
+demi-tours | NVERB | d @" m i t u' R
+dent-de-lion | NVERB | d a~" d @ l j o~'
+dents-de-lion | NVERB | d a~" d @ l j o~'
+dernier-né | NVERB | d E" R n j e n e'
+derniers-nés | NVERB | d E" R n j E n e'
+dernières-nées | NVERB | d E" R n j E R n e'
+dessous-de | NVERB | d @" s u d @'
+dessous-de-bras | NVERB | d @" s u d b R a'
+dessous-de-plat | NVERB | d @" s u d p l a'
+dessous-de-table | NVERB | d @" s u d t a' b l
+dessus-de-lit | NVERB | d @" s y d l i'
+deux-mâts | NVERB | d 2" m a'
+deux-pièces | NVERB | d 2" p j E' s
+deux-points | NVERB | d 2" p w e~'
+deux-ponts | NVERB | d 2" p o~'
+deux-roues | NVERB | d 2" R u'
+deux-seize | NVERB | d 2" s E' z
+deux-temps | NVERB | d 2" t a~'
+dix-huit | NVERB | d i" z H i' t
+dix-huitième | NVERB | d i" z H i t j E' m
+dix-huitièmement | NVERB | d i" z H i t j E m m a~'
+dix-huitièmes | NVERB | d i" z H i t j E' m
+dix-neuf | NVERB | d i" z n 9' f
+dix-neuvième | NVERB | d i" z n 9 v j E' m
+dix-neuvièmement | NVERB | d i" z n 9 v j E m m a~'
+dix-neuvièmes | NVERB | d i" z n 9 v j E' m
+dix-sept | NVERB | d i" s E' t
+dix-septième | NVERB | d i" s E t j E' m
+dix-septièmement | NVERB | d i" s E t j E m m a~'
+dix-septièmes | NVERB | d i" s E t j E' m
+dommages-intérêts | NVERB | d O" m a Z e~ t e R E'
+don-juanisme | NVERB | d o~" Z y a n i' z m
+don-juanismes | NVERB | d o~" Z y a n i' z m
+dos-d'âne | NVERB | d O" d a' n
+doubles-crèmes | NVERB | d u" b l @ k R E' m
+douces-amères | NVERB | d u" s a m E' R
+drap-housse | NVERB | d R a" u' s
+draps-housses | NVERB | d R a" u' s
+dressing-room | NVERB | d R E" s i N R u' m
+drive-in | NVERB | d R a" j v i' n
+droit-fil | NVERB | d R w a" f i' l
+drop-goal | NVERB | d R O" p g o' l
+drop-goals | NVERB | d R O" p g o' l
+duffel-coat | NVERB | d 9" f 9 l k o' t
+duffel-coats | NVERB | d 9" f 9 l k o' t
+dum-dum | NVERB | d O" m d O' m
+dures-mères | NVERB | d y" R m E' R
+décrochez-moi-ça | NVERB | d e" k R O S e m w a s a'
+délai-congé | NVERB | d e" l E k o~ Z e'
+délais-congés | NVERB | d e" l E k o~ Z e'
+démocrate-chrétienne | NVERB | d e" m O k R a t k R e t j E' n
+démocrates-chrétiennes | NVERB | d e" m O k R a t k R e t j E' n
+démocrates-chrétiens | NVERB | d e" m O k R a t k R e t j e~'
+eau-de-vie | NVERB | o" d v i'
+eaux-de-vie | NVERB | o" d v i'
+emporte-pièce | NVERB | a~" p O R t @ p j E' s
+en-avant | NVERB | a~" n a v a~'
+en-but | NVERB | a~" b y' t
+en-cas | NVERB | a~" k a'
+en-cours | NVERB | a~" k u' R
+en-tête | NVERB | a~" t E' t
+en-têtes | NVERB | a~" t E' t
+entre-bande | NVERB | a~" t R @ b a~' d
+entre-bandes | NVERB | a~" t R @ b a~' d
+entre-deux | NVERB | a~" t R @ d 2'
+entre-deux-guerres | NVERB | a~" t R @ d 2 g E' R
+entre-déchirer | VERB | a~" t R @ d e S i R e'
+entre-détruira | VERB | a~" t R @ d e t R H i R a'
+entre-détruirai | VERB | a~" t R @ d e t R H i R e'
+entre-détruiraient | VERB | a~" t R @ d e t R H i R E'
+entre-détruirais | VERB | a~" t R @ d e t R H i R E'
+entre-détruirait | VERB | a~" t R @ d e t R H i R E'
+entre-détruiras | VERB | a~" t R @ d e t R H i R a'
+entre-détruire | VERB | a~" t R @ d e t R H i' R
+entre-détruirez | VERB | a~" t R @ d e t R H i R e'
+entre-détruiriez | VERB | a~" t R @ d e t R H i R j e'
+entre-détruirions | VERB | a~" t R @ d e t R H i R j o~'
+entre-détruirons | VERB | a~" t R @ d e t R H i R o~'
+entre-détruiront | VERB | a~" t R @ d e t R H i R o~'
+entre-détruis | VERB | a~" t R @ d e t R H i'
+entre-détruisaient | VERB | a~" t R @ d e t R H i z E'
+entre-détruisais | VERB | a~" t R @ d e t R H i z E'
+entre-détruisait | VERB | a~" t R @ d e t R H i z E'
+entre-détruisant | VERB | a~" t R @ d e t R H i z a~'
+entre-détruise | VERB | a~" t R @ d e t R H i' z
+entre-détruisent | VERB | a~" t R @ d e t R H i' z
+entre-détruises | VERB | a~" t R @ d e t R H i' z
+entre-détruisez | VERB | a~" t R @ d e t R H i z e'
+entre-détruisiez | VERB | a~" t R @ d e t R H i z j e'
+entre-détruisions | VERB | a~" t R @ d e t R H i z j o~'
+entre-détruisirent | VERB | a~" t R @ d e t R H i z i' R
+entre-détruisis | VERB | a~" t R @ d e t R H i z i'
+entre-détruisisse | VERB | a~" t R @ d e t R H i z i' s
+entre-détruisissent | VERB | a~" t R @ d e t R H i z i' s
+entre-détruisisses | VERB | a~" t R @ d e t R H i z i' s
+entre-détruisissiez | VERB | a~" t R @ d e t R H i z i s j e'
+entre-détruisissions | VERB | a~" t R @ d e t R H i z i s j o~'
+entre-détruisit | VERB | a~" t R @ d e t R H i z i'
+entre-détruisons | VERB | a~" t R @ d e t R H i z o~'
+entre-détruisîmes | VERB | a~" t R @ d e t R H i z i' m
+entre-détruisît | VERB | a~" t R @ d e t R H i z i'
+entre-détruisîtes | VERB | a~" t R @ d e t R H i z i' t
+entre-détruit | VERB | a~" t R @ d e t R H i'
+entre-détruite | VERB | a~" t R @ d e t R H i' t
+entre-détruites | VERB | a~" t R @ d e t R H i' t
+entre-détruits | VERB | a~" t R @ d e t R H i'
+entre-dévorer | VERB | a~" t R @ d e v O R e'
+entre-frappa | VERB | a~" t R @ f R a p a'
+entre-frappai | VERB | a~" t R @ f R a p e'
+entre-frappaient | VERB | a~" t R @ f R a p E'
+entre-frappais | VERB | a~" t R @ f R a p E'
+entre-frappait | VERB | a~" t R @ f R a p E'
+entre-frappant | VERB | a~" t R @ f R a p a~'
+entre-frappas | VERB | a~" t R @ f R a p a'
+entre-frappasse | VERB | a~" t R @ f R a p a' s
+entre-frappassent | VERB | a~" t R @ f R a p a' s
+entre-frappasses | VERB | a~" t R @ f R a p a' s
+entre-frappassiez | VERB | a~" t R @ f R a p a s j e'
+entre-frappassions | VERB | a~" t R @ f R a p a s j o~'
+entre-frappe | VERB | a~" t R @ f R a' p
+entre-frappent | VERB | a~" t R @ f R a' p
+entre-frapper | VERB | a~" t R @ f R a p e'
+entre-frappera | VERB | a~" t R @ f R a p R a'
+entre-frapperai | VERB | a~" t R @ f R a p R e'
+entre-frapperaient | VERB | a~" t R @ f R a p R E'
+entre-frapperais | VERB | a~" t R @ f R a p R E'
+entre-frapperait | VERB | a~" t R @ f R a p R E'
+entre-frapperas | VERB | a~" t R @ f R a p R a'
+entre-frapperez | VERB | a~" t R @ f R a p R e'
+entre-frapperiez | VERB | a~" t R @ f R a p @ R j e'
+entre-frapperions | VERB | a~" t R @ f R a p @ R j o~'
+entre-frapperons | VERB | a~" t R @ f R a p R o~'
+entre-frapperont | VERB | a~" t R @ f R a p R o~'
+entre-frappes | VERB | a~" t R @ f R a' p
+entre-frappez | VERB | a~" t R @ f R a p e'
+entre-frappiez | VERB | a~" t R @ f R a p j e'
+entre-frappions | VERB | a~" t R @ f R a p j o~'
+entre-frappons | VERB | a~" t R @ f R a p o~'
+entre-frappâmes | VERB | a~" t R @ f R a p a' m
+entre-frappât | VERB | a~" t R @ f R a p a'
+entre-frappâtes | VERB | a~" t R @ f R a p a' t
+entre-frappèrent | VERB | a~" t R @ f R a p E' R
+entre-frappé | VERB | a~" t R @ f R a p e'
+entre-frappée | VERB | a~" t R @ f R a p e'
+entre-frappées | VERB | a~" t R @ f R a p e'
+entre-frappés | VERB | a~" t R @ f R a p e'
+entre-heurter | VERB | a~" t R 9 R t e'
+entre-jambes | NVERB | a~" t R @ Z a~' b
+entre-ligne | NVERB | a~" t R @ l i' n j
+entre-louant | VERB | a~" t R @ l u a~'
+entre-loue | VERB | a~" t R @ l u'
+entre-louent | VERB | a~" t R @ l u'
+entre-louer | VERB | a~" t R @ l u e'
+entre-louera | VERB | a~" t R @ l u R a'
+entre-louerai | VERB | a~" t R @ l u R e'
+entre-loueraient | VERB | a~" t R @ l u R E'
+entre-louerais | VERB | a~" t R @ l u R E'
+entre-louerait | VERB | a~" t R @ l u R E'
+entre-loueras | VERB | a~" t R @ l u R a'
+entre-louerez | VERB | a~" t R @ l u R e'
+entre-loueriez | VERB | a~" t R @ l u R j e'
+entre-louerions | VERB | a~" t R @ l u R j o~'
+entre-louerons | VERB | a~" t R @ l u R o~'
+entre-loueront | VERB | a~" t R @ l u R o~'
+entre-loues | VERB | a~" t R @ l u'
+entre-louez | VERB | a~" t R @ l u e'
+entre-louiez | VERB | a~" t R @ l u j e'
+entre-louions | VERB | a~" t R @ l u j o~'
+entre-louons | VERB | a~" t R @ l u o~'
+entre-loué | VERB | a~" t R @ l u e'
+entre-louée | VERB | a~" t R @ l u e'
+entre-louées | VERB | a~" t R @ l u e'
+entre-loués | VERB | a~" t R @ l u e'
+entre-lui | VERB | a~" t R @ l H i'
+entre-luira | VERB | a~" t R @ l H i R a'
+entre-luirai | VERB | a~" t R @ l H i R e'
+entre-luiraient | VERB | a~" t R @ l H i R E'
+entre-luirais | VERB | a~" t R @ l H i R E'
+entre-luirait | VERB | a~" t R @ l H i R E'
+entre-luiras | VERB | a~" t R @ l H i R a'
+entre-luire | VERB | a~" t R @ l H i' R
+entre-luirent | VERB | a~" t R @ l H i' R
+entre-luirez | VERB | a~" t R @ l H i R e'
+entre-luiriez | VERB | a~" t R @ l H i R j e'
+entre-luirions | VERB | a~" t R @ l H i R j o~'
+entre-luirons | VERB | a~" t R @ l H i R o~'
+entre-luiront | VERB | a~" t R @ l H i R o~'
+entre-luis | VERB | a~" t R @ l H i'
+entre-luisaient | VERB | a~" t R @ l H i z E'
+entre-luisais | VERB | a~" t R @ l H i z E'
+entre-luisait | VERB | a~" t R @ l H i z E'
+entre-luisant | VERB | a~" t R @ l H i z a~'
+entre-luise | VERB | a~" t R @ l H i' z
+entre-luisent | VERB | a~" t R @ l H i' z
+entre-luises | VERB | a~" t R @ l H i' z
+entre-luisez | VERB | a~" t R @ l H i z e'
+entre-luisiez | VERB | a~" t R @ l H i z j e'
+entre-luisions | VERB | a~" t R @ l H i z j o~'
+entre-luisisse | VERB | a~" t R @ l H i z i' s
+entre-luisissent | VERB | a~" t R @ l H i z i' s
+entre-luisisses | VERB | a~" t R @ l H i z i' s
+entre-luisissiez | VERB | a~" t R @ l H i z i s j e'
+entre-luisissions | VERB | a~" t R @ l H i z i s j o~'
+entre-luisons | VERB | a~" t R @ l H i z o~'
+entre-luisît | VERB | a~" t R @ l H i z i'
+entre-luit | VERB | a~" t R @ l H i'
+entre-luîmes | VERB | a~" t R @ l H i' m
+entre-luîtes | VERB | a~" t R @ l H i' t
+entre-mange | VERB | a~" t R @ m a~' Z
+entre-mangea | VERB | a~" t R @ m a~ Z a'
+entre-mangeai | VERB | a~" t R @ m a~ Z e'
+entre-mangeaient | VERB | a~" t R @ m a~ Z E'
+entre-mangeais | VERB | a~" t R @ m a~ Z E'
+entre-mangeait | VERB | a~" t R @ m a~ Z E'
+entre-mangeant | VERB | a~" t R @ m a~ Z a~'
+entre-mangeas | VERB | a~" t R @ m a~ Z a'
+entre-mangeasse | VERB | a~" t R @ m a~ Z a' s
+entre-mangeassent | VERB | a~" t R @ m a~ Z a' s
+entre-mangeasses | VERB | a~" t R @ m a~ Z a' s
+entre-mangeassiez | VERB | a~" t R @ m a~ Z a s j e'
+entre-mangeassions | VERB | a~" t R @ m a~ Z a s j o~'
+entre-mangent | VERB | a~" t R @ m a~' Z
+entre-mangeons | VERB | a~" t R @ m a~ Z o~'
+entre-manger | VERB | a~" t R @ m a~ Z e'
+entre-mangera | VERB | a~" t R @ m a~ Z R a'
+entre-mangerai | VERB | a~" t R @ m a~ Z R e'
+entre-mangeraient | VERB | a~" t R @ m a~ Z R E'
+entre-mangerais | VERB | a~" t R @ m a~ Z R E'
+entre-mangerait | VERB | a~" t R @ m a~ Z R E'
+entre-mangeras | VERB | a~" t R @ m a~ Z R a'
+entre-mangerez | VERB | a~" t R @ m a~ Z R e'
+entre-mangeriez | VERB | a~" t R @ m a~ Z @ R j e'
+entre-mangerions | VERB | a~" t R @ m a~ Z @ R j o~'
+entre-mangerons | VERB | a~" t R @ m a~ Z R o~'
+entre-mangeront | VERB | a~" t R @ m a~ Z R o~'
+entre-manges | VERB | a~" t R @ m a~' Z
+entre-mangez | VERB | a~" t R @ m a~ Z e'
+entre-mangeâmes | VERB | a~" t R @ m a~ Z a' m
+entre-mangeât | VERB | a~" t R @ m a~ Z a'
+entre-mangeâtes | VERB | a~" t R @ m a~ Z a' t
+entre-mangiez | VERB | a~" t R @ m a~ Z j e'
+entre-mangions | VERB | a~" t R @ m a~ Z j o~'
+entre-mangèrent | VERB | a~" t R @ m a~ Z E' R
+entre-mangé | VERB | a~" t R @ m a~ Z e'
+entre-mangée | VERB | a~" t R @ m a~ Z e'
+entre-mangées | VERB | a~" t R @ m a~ Z e'
+entre-mangés | VERB | a~" t R @ m a~ Z e'
+entre-nerf | NVERB | a~" t R @ n E' R
+entre-nerfs | NVERB | a~" t R @ n E' R
+entre-noeud | NVERB | a~" t R @ n 2'
+entre-noeuds | NVERB | a~" t R @ n 2'
+entre-nui | VERB | a~" t R @ n H i'
+entre-nuira | VERB | a~" t R @ n H i R a'
+entre-nuirai | VERB | a~" t R @ n H i R e'
+entre-nuiraient | VERB | a~" t R @ n H i R E'
+entre-nuirais | VERB | a~" t R @ n H i R E'
+entre-nuirait | VERB | a~" t R @ n H i R E'
+entre-nuiras | VERB | a~" t R @ n H i R a'
+entre-nuire | VERB | a~" t R @ n H i' R
+entre-nuirez | VERB | a~" t R @ n H i R e'
+entre-nuiriez | VERB | a~" t R @ n H i R j e'
+entre-nuirions | VERB | a~" t R @ n H i R j o~'
+entre-nuirons | VERB | a~" t R @ n H i R o~'
+entre-nuiront | VERB | a~" t R @ n H i R o~'
+entre-nuis | VERB | a~" t R @ n H i'
+entre-nuisaient | VERB | a~" t R @ n H i z E'
+entre-nuisais | VERB | a~" t R @ n H i z E'
+entre-nuisait | VERB | a~" t R @ n H i z E'
+entre-nuisant | VERB | a~" t R @ n H i z a~'
+entre-nuise | VERB | a~" t R @ n H i' z
+entre-nuisent | VERB | a~" t R @ n H i' z
+entre-nuises | VERB | a~" t R @ n H i' z
+entre-nuisez | VERB | a~" t R @ n H i z e'
+entre-nuisiez | VERB | a~" t R @ n H i z j e'
+entre-nuisions | VERB | a~" t R @ n H i z j o~'
+entre-nuisirent | VERB | a~" t R @ n H i z i' R
+entre-nuisis | VERB | a~" t R @ n H i z i'
+entre-nuisisse | VERB | a~" t R @ n H i z i' s
+entre-nuisissent | VERB | a~" t R @ n H i z i' s
+entre-nuisisses | VERB | a~" t R @ n H i z i' s
+entre-nuisissiez | VERB | a~" t R @ n H i z i s j e'
+entre-nuisissions | VERB | a~" t R @ n H i z i s j o~'
+entre-nuisit | VERB | a~" t R @ n H i z i'
+entre-nuisons | VERB | a~" t R @ n H i z o~'
+entre-nuisîmes | VERB | a~" t R @ n H i z i' m
+entre-nuisît | VERB | a~" t R @ n H i z i'
+entre-nuisîtes | VERB | a~" t R @ n H i z i' t
+entre-nuit | VERB | a~" t R @ n H i'
+entre-rail | NVERB | a~" t R @ R a' j
+entre-regarda | VERB | a~" t R @ R @ g a R d a'
+entre-regardai | VERB | a~" t R @ R @ g a R d e'
+entre-regardaient | VERB | a~" t R @ R @ g a R d E'
+entre-regardais | VERB | a~" t R @ R @ g a R d E'
+entre-regardait | VERB | a~" t R @ R @ g a R d E'
+entre-regardant | VERB | a~" t R @ R @ g a R d a~'
+entre-regardas | VERB | a~" t R @ R @ g a R d a'
+entre-regardasse | VERB | a~" t R @ R @ g a R d a' s
+entre-regardassent | VERB | a~" t R @ R @ g a R d a' s
+entre-regardasses | VERB | a~" t R @ R @ g a R d a' s
+entre-regardassiez | VERB | a~" t R @ R @ g a R d a s j e'
+entre-regardassions | VERB | a~" t R @ R @ g a R d a s j o~'
+entre-regarde | VERB | a~" t R @ R @ g a' R d
+entre-regardent | VERB | a~" t R @ R @ g a' R d
+entre-regarder | VERB | a~" t R @ R @ g a R d e'
+entre-regardera | VERB | a~" t R @ R @ g a R d @ R a'
+entre-regarderai | VERB | a~" t R @ R @ g a R d @ R e'
+entre-regarderaient | VERB | a~" t R @ R @ g a R d @ R E'
+entre-regarderais | VERB | a~" t R @ R @ g a R d @ R E'
+entre-regarderait | VERB | a~" t R @ R @ g a R d @ R E'
+entre-regarderas | VERB | a~" t R @ R @ g a R d @ R a'
+entre-regarderez | VERB | a~" t R @ R @ g a R d @ R e'
+entre-regarderiez | VERB | a~" t R @ R @ g a R d @ R j e'
+entre-regarderions | VERB | a~" t R @ R @ g a R d @ R j o~'
+entre-regarderons | VERB | a~" t R @ R @ g a R d @ R o~'
+entre-regarderont | VERB | a~" t R @ R @ g a R d @ R o~'
+entre-regardes | VERB | a~" t R @ R @ g a' R d
+entre-regardez | VERB | a~" t R @ R @ g a R d e'
+entre-regardiez | VERB | a~" t R @ R @ g a R d j e'
+entre-regardions | VERB | a~" t R @ R @ g a R d j o~'
+entre-regardons | VERB | a~" t R @ R @ g a R d o~'
+entre-regardâmes | VERB | a~" t R @ R @ g a R d a' m
+entre-regardât | VERB | a~" t R @ R @ g a R d a'
+entre-regardâtes | VERB | a~" t R @ R @ g a R d a' t
+entre-regardèrent | VERB | a~" t R @ R @ g a R d E' R
+entre-regardé | VERB | a~" t R @ R @ g a R d e'
+entre-regardée | VERB | a~" t R @ R @ g a R d e'
+entre-regardées | VERB | a~" t R @ R @ g a R d e'
+entre-regardés | VERB | a~" t R @ R @ g a R d e'
+entre-temps | NVERB | a~" t R @ t a~'
+entre-tua | VERB | a~" t R @ t y a'
+entre-tuai | VERB | a~" t R @ t y e'
+entre-tuaient | VERB | a~" t R @ t y E'
+entre-tuais | VERB | a~" t R @ t y E'
+entre-tuait | VERB | a~" t R @ t y E'
+entre-tuant | VERB | a~" t R @ t y a~'
+entre-tuas | VERB | a~" t R @ t y a'
+entre-tuasse | VERB | a~" t R @ t y a' s
+entre-tuassent | VERB | a~" t R @ t y a' s
+entre-tuasses | VERB | a~" t R @ t y a' s
+entre-tuassiez | VERB | a~" t R @ t y a s j e'
+entre-tuassions | VERB | a~" t R @ t y a s j o~'
+entre-tue | VERB | a~" t R @ t y'
+entre-tuent | VERB | a~" t R @ t y'
+entre-tuer | VERB | a~" t R @ t y e'
+entre-tuera | VERB | a~" t R @ t y R a'
+entre-tuerai | VERB | a~" t R @ t y R e'
+entre-tueraient | VERB | a~" t R @ t y R E'
+entre-tuerais | VERB | a~" t R @ t y R E'
+entre-tuerait | VERB | a~" t R @ t y R E'
+entre-tueras | VERB | a~" t R @ t y R a'
+entre-tuerez | VERB | a~" t R @ t y R e'
+entre-tueriez | VERB | a~" t R @ t y R j e'
+entre-tuerions | VERB | a~" t R @ t y R j o~'
+entre-tuerons | VERB | a~" t R @ t y R o~'
+entre-tueront | VERB | a~" t R @ t y R o~'
+entre-tues | VERB | a~" t R @ t y'
+entre-tuez | VERB | a~" t R @ t y e'
+entre-tuiez | VERB | a~" t R @ t y j e'
+entre-tuions | VERB | a~" t R @ t y j o~'
+entre-tuons | VERB | a~" t R @ t y o~'
+entre-tuâmes | VERB | a~" t R @ t y a' m
+entre-tuât | VERB | a~" t R @ t y a'
+entre-tuâtes | VERB | a~" t R @ t y a' t
+entre-tuèrent | VERB | a~" t R @ t y E' R
+entre-tué | VERB | a~" t R @ t y e'
+entre-tuée | VERB | a~" t R @ t y e'
+entre-tuées | VERB | a~" t R @ t y e'
+entre-tués | VERB | a~" t R @ t y e'
+entéro-rénal | NVERB | a~" t e R o R e n a' l
+entéro-rénale | NVERB | a~" t e R o R e n a' l
+entéro-rénaux | NVERB | a~" t e R o R e n o'
+espaces-temps | NVERB | E" s p a s t a~'
+esprit-de-bois | NVERB | E" s p R i d b w a'
+esprit-de-sel | NVERB | E" s p R i d s E' l
+esprit-de-vin | NVERB | E" s p R i d v e~'
+essuie-glace | NVERB | e" s H i g l a' s
+essuie-glaces | NVERB | e" s H i g l a' s
+essuie-main | NVERB | e" s H i m e~'
+essuie-mains | NVERB | e" s H i m e~'
+essuie-meubles | NVERB | e" s H i m 9' b l
+etats-unis | NVERB | E" t a z y n i'
+eux-mêmes | NVERB | 2" m E' m
+ex-aequo | NVERB | E" g z e k o'
+ex-libris | NVERB | E" k s l i b R i' s
+extra-dry | NVERB | E" k s t R a d R i'
+extra-fin | NVERB | E" k s t R a f e~'
+extra-fine | NVERB | E" k s t R a f i' n
+extra-fines | NVERB | E" k s t R a f i' n
+extra-fins | NVERB | E" k s t R a f e~'
+extra-fort | NVERB | E" k s t R a f O' R
+extra-forts | NVERB | E" k s t R a f O' R
+extra-lucide | NVERB | E" k s t R a l y s i' d
+extra-légal | NVERB | E" k s t R a l e g a' l
+extra-légale | NVERB | E" k s t R a l e g a' l
+extra-légaux | NVERB | E" k s t R a l e g o'
+extra-muros | NVERB | E" k s t R a m y R o'
+extra-parlementaire | NVERB | E" k s t R a p a R l @ m a~ t E' R
+extra-plat | NVERB | E" k s t R a p l a'
+extra-sensible | NVERB | E" k s t R a s a~ s i' b l
+extra-sensoriel | NVERB | E" k s t R a s a~ s O R j E' l
+extra-terrestre | NVERB | E" k s t R a t E R E' s t R
+extra-utérin | NVERB | E" k s t R a y t e R e~'
+extra-utérine | NVERB | E" k s t R a y t e R i' n
+extra-utérines | NVERB | E" k s t R a y t e R i' n
+extra-utérins | NVERB | E" k s t R a y t e R e~'
+extrême-onction | NVERB | E" k s t R E m o~ k s j o~'
+extrême-oriental | NVERB | E" k s t R E m O R j a~ t a' l
+extrême-orientale | NVERB | E" k s t R E m O R j a~ t a' l
+extrême-orientales | NVERB | E" k s t R E m O R j a~ t a' l
+extrême-orientaux | NVERB | E" k s t R E m O R j a~ t o'
+extrêmes-onctions | NVERB | E" k s t R E m z o~ k s j o~'
+eye-liner | NVERB | a" j l a j n 9' R
+eye-liners | NVERB | a" j l a j n 9' R
+fac-similé | NVERB | f a" k s i m i l e'
+fac-similés | NVERB | f a" k s i m i l e'
+face-à-face | NVERB | f a" s a f a' s
+face-à-main | NVERB | f a" s a m e~'
+faces-à-main | NVERB | f a" s z a m e~'
+fair-play | NVERB | f E" R p l E'
+faire-part | NVERB | f E" R p a' R
+fait-tout | NVERB | f E" t u'
+feed-back | NVERB | f i" d b a' k
+ferry-boat | NVERB | f E" R i b O' t
+fesse-mathieu | NVERB | f E" s m a t j 2'
+fesse-mathieux | NVERB | f E" s m a t j 2'
+feuille-morte | NVERB | f 9" j m O' R t
+fier-à-bras | NVERB | f j E" R a b R a'
+fifty-fifties | NVERB | f i" f t i f i f t i'
+fifty-fifty | NVERB | f i" f t i f i f t i'
+filtre-presse | NVERB | f i" l t R @ p R E' s
+filtres-presses | NVERB | f i" l t R @ p R E' s
+fla-fla | NVERB | f l a" f l a'
+fourgon-pompe | NVERB | f u" R g o~ p o~' p
+fourgons-pompes | NVERB | f u" R g o~ p o~' p
+fox-terrier | NVERB | f O" k s t E R j e'
+fox-terriers | NVERB | f O" k s t E R j e'
+fox-trot | NVERB | f O" k s t R O' t
+franc-alleu | NVERB | f R a~" a l 2'
+franc-comtois | NVERB | f R a~" k o~ t w a'
+franc-comtoise | NVERB | f R a~" k o~ t w a' z
+franc-comtoises | NVERB | f R a~" k o~ t w a' z
+franc-jeu | NVERB | f R a~" Z 2'
+franc-maçon | NVERB | f R a~" m a s o~'
+franc-maçonne | NVERB | f R a~" m a s O' n
+franc-maçonnes | NVERB | f R a~" m a s O' n
+franc-parler | NVERB | f R a~" p a R l e'
+francs-comtois | NVERB | f R a~" k o~ t w a'
+francs-jeux | NVERB | f R a~" Z 2'
+francs-maçons | NVERB | f R a~" m a s o~'
+francs-parlers | NVERB | f R a~" p a R l e'
+fuel-oil | NVERB | f j u" l O' j l
+fuel-oils | NVERB | f j u" l O' j l
+fusées-sondes | NVERB | f y" z e s o~' d
+gagne-pain | NVERB | g a" n j @ p e~'
+garde-barrière | NVERB | g a" R d @ b a R j E' R
+garde-boeuf | NVERB | g a" R d @ b 9' f
+garde-boue | NVERB | g a" R d @ b u'
+garde-chasse | NVERB | g a" R d @ S a' s
+garde-chiourme | NVERB | g a" R d @ S j u' R m
+garde-corps | NVERB | g a" R d @ k O' R
+garde-côte | NVERB | g a" R d @ k o' t
+garde-côtes | NVERB | g a" R d @ k o' t
+garde-feu | NVERB | g a" R d @ f 2'
+garde-fou | NVERB | g a" R d @ f u'
+garde-fous | NVERB | g a" R d @ f u'
+garde-française | NVERB | g a" R d @ f R a~ s E' z
+garde-frein | NVERB | g a" R d @ f R e~'
+garde-magasin | NVERB | g a" R d @ m a g a z e~'
+garde-malade | NVERB | g a" R d @ m a l a' d
+garde-manger | NVERB | g a" R d @ m a~ Z e'
+garde-marine | NVERB | g a" R d @ m a R i' n
+garde-meuble | NVERB | g a" R d @ m 9' b l
+garde-meubles | NVERB | g a" R d @ m 9' b l
+garde-nappe | NVERB | g a" R d @ n a' p
+garde-place | NVERB | g a" R d @ p l a' s
+garde-places | NVERB | g a" R d @ p l a' s
+garde-port | NVERB | g a" R d @ p O' R
+garde-pêche | NVERB | g a" R d @ p E' S
+garde-rivière | NVERB | g a" R d @ R i v j E' R
+garde-robe | NVERB | g a" R d @ R O' b
+garde-robes | NVERB | g a" R d @ R O' b
+garde-temps | NVERB | g a" R d @ t a~'
+garde-voie | NVERB | g a" R d @ v w a'
+garde-vue | NVERB | g a" R d @ v y'
+garden-parties | NVERB | g a" R d E n p a R t i'
+garden-party | NVERB | g a" R d E n p a R t i'
+gardes-barrière | NVERB | g a" R d @ b a R j E' R
+gardes-barrières | NVERB | g a" R d @ b a R j E' R
+gardes-boeuf | NVERB | g a" R d @ b 9' f
+gardes-boeufs | NVERB | g a" R d @ b 2'
+gardes-chiourme | NVERB | g a" R d @ S j u' R m
+gardes-chiourmes | NVERB | g a" R d @ S j u' R m
+gardes-côtes | NVERB | g a" R d @ k o' t
+gardes-françaises | NVERB | g a" R d @ f R a~ s E' z
+gardes-magasin | NVERB | g a" R d @ m a g a z e~'
+gardes-magasins | NVERB | g a" R d @ m a g a z e~'
+gardes-malade | NVERB | g a" R d @ m a l a' d
+gardes-malades | NVERB | g a" R d @ m a l a' d
+gardes-marine | NVERB | g a" R d @ m a R i' n
+gardes-pêche | NVERB | g a" R d @ p E' S
+gardes-pêches | NVERB | g a" R d @ p E' S
+gardes-voie | NVERB | g a" R d @ v w a'
+gardes-voies | NVERB | g a" R d @ v w a'
+gas-oil | NVERB | g a" z O' j l
+gas-oils | NVERB | g a" z O' j l
+gastro-entérite | NVERB | g a" s t R o a~ t e R i' t
+gastro-intestinal | NVERB | g a" s t R o e~ t E s t i n a' l
+gastro-intestinale | NVERB | g a" s t R o e~ t E s t i n a' l
+gastro-intestinaux | NVERB | g a" s t R o e~ t E s t i n o'
+globe-trotter | NVERB | g l O" b t R O t 9' R
+globe-trotters | NVERB | g l O" b t R O t 9' R
+gnian-gnian | NVERB | n j a~" n j a~'
+goal-average | NVERB | g o" l a v R a' Z
+goal-averages | NVERB | g o" l a v R a' Z
+gobe-mouche | NVERB | g O" b m u' S
+gobe-mouches | NVERB | g O" b m u' S
+gomme-gutte | NVERB | g O" m g y' t
+gommes-guttes | NVERB | g O" m g y' t
+gommes-résines | NVERB | g O" m R e z i' n
+gorge-de-pigeon | NVERB | g O" R Z d @ p i Z o~'
+goutte-à-goutte | NVERB | g u" t a g u' t
+grand-angle | NVERB | g R a~" t a~' g l
+grand-angulaire | NVERB | g R a~" t a~ g y l E' R
+grand-duc | NVERB | g R a~" d y' k
+grand-ducal | NVERB | g R a~" d y k a' l
+grand-ducale | NVERB | g R a~" d y k a' l
+grand-ducales | NVERB | g R a~" d y k a' l
+grand-ducaux | NVERB | g R a~" d y k o'
+grand-duché | NVERB | g R a~" d y S e'
+grand-maman | NVERB | g R a~" m a m a~'
+grand-mamans | NVERB | g R a~" m a m a~'
+grand-messe | NVERB | g R a~" m E' s
+grand-messes | NVERB | g R a~" m E' s
+grand-mère | NVERB | g R a~" m E' R
+grand-mères | NVERB | g R a~" m E' R
+grand-oncle | NVERB | g R a~" t o~' k l
+grand-papa | NVERB | g R a~" p a p a'
+grand-père | NVERB | g R a~" p E' R
+grandes-duchesses | NVERB | g R a~" d d y S E' s
+grands-angles | NVERB | g R a~" z a~' g l
+grands-angulaires | NVERB | g R a~" z a~ g y l E' R
+grands-duchés | NVERB | g R a~" d y S e'
+grands-ducs | NVERB | g R a~" d y' k
+grands-mamans | NVERB | g R a~" m a m a~'
+grands-messes | NVERB | g R a~" m E' s
+grands-mères | NVERB | g R a~" m E' R
+grands-oncles | NVERB | g R a~" z o~' k l
+grands-papas | NVERB | g R a~" p a p a'
+grands-parents | NVERB | g R a~" p a R a~'
+grands-pères | NVERB | g R a~" p E' R
+gri-gri | NVERB | g R i" g R i'
+grill-room | NVERB | g R i" l R u' m
+grill-rooms | NVERB | g R i" l R u' m
+grille-pain | NVERB | g R i" j p e~'
+grille-écran | NVERB | g R i" j e k R a~'
+grilles-écrans | NVERB | g R i" j z e k R a~'
+grills-rooms | NVERB | g R i" l R u' m
+gris-gris | NVERB | g R i" g R i'
+gros-grain | NVERB | g R o" g R e~'
+gros-porteur | NVERB | g R O" p O R t 9' R
+gros-porteurs | NVERB | g R O" p O R t 9' R
+guet-apens | NVERB | g E" t a p a~'
+guets-apens | NVERB | g E" t a p a~'
+gueule-de-loup | NVERB | g 9" l d @ l u'
+gueules-de-loup | NVERB | g 9" l d @ l u'
+guide-âne | NVERB | g i" d a' n
+guide-ânes | NVERB | g i" d a' n
+gâte-bois | NVERB | g a" t b w a'
+gâte-sauce | NVERB | g a" t s o' s
+génito-urinaire | NVERB | Z e" n i t o y R i n E' R
+half-track | NVERB | a" l f t R a' k
+half-tracks | NVERB | a" l f t R a' k
+haltes-garderies | NVERB | a" l t g a R d @ R i'
+hand-ball | NVERB | a~" d b o' l
+hara-kiri | NVERB | a" R a k i R i'
+hara-kiris | NVERB | a" R a k i R i'
+haut-de-chausse | NVERB | o" d S o' s
+haut-de-chausses | NVERB | o" d S o' s
+haut-de-forme | NVERB | o" d f O' R m
+haut-le-coeur | NVERB | o" l k 9' R
+haut-le-corps | NVERB | o" l k O' R
+hautes-contre | NVERB | o" t k o~' t R
+hautes-fidélités | NVERB | o" t f i d e l i t e'
+hauts-de-chausses | NVERB | o" d S o' s
+hauts-de-forme | NVERB | o" d f O' R m
+herd-book | NVERB | 9" R d b u' k
+herd-books | NVERB | 9" R d b u' k
+hi-fi | NVERB | i" f i'
+hi-han | NVERB | i" a~'
+hispano-américain | NVERB | i" s p a n o a m e R i k e~'
+hispano-américaine | NVERB | i" s p a n o a m e R i k E' n
+hispano-américaines | NVERB | i" s p a n o a m e R i k E' n
+hispano-américains | NVERB | i" s p a n o a m e R i k e~'
+hispano-arabe | NVERB | i" s p a n o a R a' b
+hit-parade | NVERB | i" t p a R a' d
+hit-parades | NVERB | i" t p a R a' d
+home-trainer | NVERB | o" m t R E n 9' R
+home-trainers | NVERB | o" m t R E n 9' R
+homme-grenouille | NVERB | O" m g R @ n u' j
+homme-sandwich | NVERB | O" m s a~ d w i' S
+hommes-grenouilles | NVERB | O" m g R @ n u' j
+hommes-orchestres | NVERB | O" m O R k E' s t R
+hommes-sandwichs | NVERB | O" m s a~ d w i' S
+hors-la-loi | NVERB | O" R l a l w a'
+hospitalo-universitaire | NVERB | O" s p i t a l o y n i v E R s i t E' R
+hospitalo-universitaires | NVERB | O" s p i t a l o y n i v E R s i t E' R
+hydro-électricité | NVERB | i" d R o e l E k t R i s i t e'
+hydro-électrique | NVERB | i" d R o e l E k t R i' k
+héroï-comique | NVERB | e" R O i k O m i' k
+héroï-comiques | NVERB | e" R O i k O m i' k
+hôtel-dieu | NVERB | o" t E l d j 2'
+hôtels-dieu | NVERB | o" t E l d j 2'
+ici-bas | NVERB | i" s i b a'
+ilang-ilang | NVERB | i" l a~ i l a~'
+ilangs-ilangs | NVERB | i" l a~ i l a~'
+iléo-caecal | NVERB | i" l e o s e k a' l
+iléo-caecale | NVERB | i" l e o s e k a' l
+iléo-caecaux | NVERB | i" l e o s e k o'
+indo-européen | NVERB | e~" d o 2 R O p e e~'
+ingénieur-conseil | NVERB | e~" Z e n j 9 R k o~ s E' j
+ingénieurs-conseils | NVERB | e~" Z e n j 9 R k o~ s E' j
+intra-atomique | NVERB | e~" t R a a t O m i' k
+intra-muros | NVERB | e~" t R a m y R o'
+intradermo-réaction | NVERB | e~" t R a d E R m o R e a k s j o~'
+irish-coffee | NVERB | a" j R i S k O f i'
+irish-coffees | NVERB | a" j R i S k O f i'
+je-m'en-fichisme | NVERB | Z m a~" f i S i' z m
+je-m'en-fichiste | NVERB | Z m a~" f i S i' s t
+je-m'en-foutisme | NVERB | Z m a~" f u t i' z m
+je-m'en-foutiste | NVERB | Z m a~" f u t i' s t
+je-ne-sais-quoi | NVERB | Z @" n s E k w a'
+jean-foutre | NVERB | Z a~" f u' t R
+jean-jacques | NVERB | Z a~" Z a' k
+jean-louis | NVERB | Z a~" l w i'
+jean-luc | NVERB | Z a~" l y' k
+jiu-jitsu | NVERB | Z y" Z i t s y'
+judéo-christianisme | NVERB | Z y" d e o k R i s t j a n i' z m
+juke-box | NVERB | d Z y" k b O' k s
+juke-boxes | NVERB | d Z y" k b O' k s
+jupe-culotte | NVERB | Z y" p k y l O' t
+jupes-culottes | NVERB | Z y" p k y l O' t
+jusqu'au-boutisme | NVERB | Z y" s k o b u t i' z m
+jusqu'au-boutismes | NVERB | Z y" s k o b u t i' z m
+jusqu'au-boutiste | NVERB | Z y" s k o b u t i' s t
+jusqu'au-boutistes | NVERB | Z y" s k o b u t i' s t
+juste-milieu | NVERB | Z y" s t @ m i l j 2'
+justes-milieux | NVERB | Z y" s t @ m i l j 2'
+kif-kif | NVERB | k i" f k i' f
+king-charles | NVERB | k i" N S a' R l
+knock-out | NVERB | n O" k a u' t
+lacrima-christi | NVERB | l a" k R i m a k R i s t i'
+lacryma-christi | NVERB | l a" k R i m a k R i s t i'
+laisser-aller | NVERB | l E" s e a l e'
+laissez-passer | NVERB | l E" s e p a s e'
+laissé-pour-compte | NVERB | l E" s e p u R k o~' t
+laissés-pour-compte | NVERB | l E" s e p u R k o~' t
+lance-torpilles | NVERB | l a~" s t O R p i' j
+langue-de-boeuf | NVERB | l a~" g d @ b 9' f
+langue-de-chat | NVERB | l a~" g d @ S a'
+langue-de-serpent | NVERB | l a~" g d @ s E R p a~'
+lapis-lazuli | NVERB | l a" p i s l a z y l i'
+latino-américain | NVERB | l a" t i n o a m e R i k e~'
+laurier-rose | NVERB | l o" R j e R o' z
+lauriers-roses | NVERB | l o" R j E R o' z
+libre-service | NVERB | l i" b R @ s E R v i' s
+libres-services | NVERB | l i" b R @ s E R v i' s
+lie-de-vin | NVERB | l i" d v e~'
+lieutenant-colonel | NVERB | l j 2" t n a~ k O l O n E' l
+lieutenants-colonels | NVERB | l j 2" t n a~ k O l O n E' l
+living-room | NVERB | l i" v i N R u' m
+living-rooms | NVERB | l i" v i N R u' m
+lofing-match | NVERB | l O" f i N m a' t S
+lofing-matches | NVERB | l O" f i N m a' t S
+loi-cadre | NVERB | l w a" k a' d R
+loi-programme | NVERB | l w a" p R O g R a' m
+lois-cadres | NVERB | l w a" k a' d R
+lois-programmes | NVERB | l w a" p R O g R a' m
+longues-vues | NVERB | l o~" g v y'
+louise-bonne | NVERB | l w i" z b O' n
+louises-bonnes | NVERB | l w i" z b O' n
+loups-cerviers | NVERB | l u" s E R v j e'
+loups-garous | NVERB | l u" g a R u'
+lui-même | NVERB | l H i" m E' m
+luni-solaire | NVERB | l y" n i s O l E' R
+luni-solaires | NVERB | l y" n i s O l E' R
+là-bas | NVERB | l a" b a'
+là-dedans | NVERB | l a" d d a~'
+là-dessus | NVERB | l a" d s y'
+là-haut | NVERB | l a" o'
+lèche-bottes | NVERB | l E" S b O' t
+lèche-cul | NVERB | l E" S k y'
+lèse-majesté | NVERB | l E" z m a Z E s t e'
+lèse-majestés | NVERB | l E" z m a Z E s t e'
+m'as-tu-vu | NVERB | m a" t y v y'
+m'as-tu-vue | NVERB | m a" t y v y'
+machines-outils | NVERB | m a" S i n u t i'
+macro-économique | NVERB | m a" k R o e k O n O m i' k
+magnéto-électrique | NVERB | m a" n j e t o e l E k t R i' k
+mail-coach | NVERB | m E" l k o' t S
+mail-coaches | NVERB | m E" l k o' t S
+main-d'oeuvre | NVERB | m e~" d 9' v R
+main-forte | NVERB | m e~" f O' R t
+mains-d'oeuvre | NVERB | m e~" d 9' v R
+mal-en-point | NVERB | m a" l a~ p w e~'
+malles-poste | NVERB | m a" l p O' s t
+marie-salope | NVERB | m a" R j s a l O' p
+maries-salopes | NVERB | m a" R i s a l O' p
+marteau-pilon | NVERB | m a" R t o p i l o~'
+marteaux-pilons | NVERB | m a" R t o p i l o~'
+martin-chasseur | NVERB | m a" R t e~ S a s 9' R
+martin-pêcheur | NVERB | m a" R t e~ p E S 9' R
+martins-chasseurs | NVERB | m a" R t e~ S a s 9' R
+martins-pêcheurs | NVERB | m a" R t e~ p E S 9' R
+maréchaux-ferrants | NVERB | m a" R e S o f E R a~'
+maître-à-danser | NVERB | m E" t R a d a~ s e'
+maîtres-autels | NVERB | m E" t R o t E' l
+maîtres-à-danser | NVERB | m E" t R z a d a~ s e'
+mea-culpa | NVERB | m e" a k y l p a'
+melting-pot | NVERB | m E" l t i N p o'
+melting-pots | NVERB | m E" l t i N p o'
+mi-août | NVERB | m i" a u' t
+mi-avril | NVERB | m i" a v R i' l
+mi-clos | NVERB | m i" k l o'
+mi-décembre | NVERB | m i" d e s a~' b R
+mi-février | NVERB | m i" f e v R i e'
+mi-octobre | NVERB | m i" O k t O' b R
+mi-parti | NVERB | m i" p a R t i'
+mi-partie | NVERB | m i" p a R t i'
+mi-parties | NVERB | m i" p a R t i'
+mi-partis | NVERB | m i" p a R t i'
+miam-miam | NVERB | m j a" m m j a' m
+micro-bavures | NVERB | m i" k R o b a v y' R
+micro-informatique | NVERB | m i" k R o e~ f O R m a t i' k
+micro-ordinateur | NVERB | m i" k R o O R d i n a t 9' R
+micro-ordinateurs | NVERB | m i" k R o O R d i n a t 9' R
+micro-organisme | NVERB | m i" k R o O R g a n i' z m
+micro-organismes | NVERB | m i" k R o O R g a n i' z m
+micro-électronique | NVERB | m i" k R o e l E k t R O n i' k
+mieux-être | NVERB | m j 2" z E' t R
+milk-bar | NVERB | m i" l k b a' R
+milk-bars | NVERB | m i" l k b a' R
+mille-feuille | NVERB | m i" l f 9' j
+mille-feuilles | NVERB | m i" l f 9' j
+mini-jupe | NVERB | m i" n i Z y' p
+mini-ordinateur | NVERB | m i" n i O R d i n a t 9' R
+mini-ordinateurs | NVERB | m i" n i O R d i n a t 9' R
+mire-oeufs | NVERB | m i" R 2'
+moi-même | NVERB | m w a" m E' m
+moins-perçu | NVERB | m w e~" p E R s y'
+moins-perçus | NVERB | m w e~" p E R s y'
+moins-value | NVERB | m w e~" v a l y'
+moins-values | NVERB | m w e~" v a l y'
+moissonneuse-batteuse | NVERB | m w a" s O n 2 z b a t 2' z
+moissonneuses-batteuses | NVERB | m w a" s O n 2 z b a t 2' z
+monnaie-du-pape | NVERB | m O" n E d y p a' p
+monnaies-du-pape | NVERB | m O" n E d y p a' p
+mont-blanc | NVERB | m o~" b l a~'
+mont-d'or | NVERB | m o~" d O' R
+mont-de-piété | NVERB | m o~" d @ p j e t e'
+monte-en-l'air | NVERB | m o~" t a~ l E' R
+monts-blancs | NVERB | m o~" b l a~'
+monts-d'or | NVERB | m o~" d O' R
+monts-de-piété | NVERB | m o~" d @ p j e t e'
+morte-saison | NVERB | m O" R t @ s E z o~'
+mortes-eaux | NVERB | m O" R t z o'
+mortes-saisons | NVERB | m O" R t s E z o~'
+mot-valise | NVERB | m o" v a l i' z
+moto-cross | NVERB | m O" t o k R O' s
+mots-croisiste | NVERB | m o" k R w a z i' s t
+moyen-courrier | NVERB | m w a" j e~ k u R j e'
+moyen-courriers | NVERB | m w a" j e~ k u R j e'
+moyen-âge | NVERB | m w a" j E n a' Z
+mâche-bouchon | NVERB | m a" S b u S o~'
+mâche-bouchons | NVERB | m a" S b u S o~'
+mères-grand | NVERB | m E" R g R a~'
+mères-grands | NVERB | m E" R g R a~'
+médico-légal | NVERB | m e" d i k O l e g a' l
+médico-légale | NVERB | m e" d i k O l e g a' l
+médico-légales | NVERB | m e" d i k O l e g a' l
+médico-légaux | NVERB | m e" d i k O l e g o'
+médico-social | NVERB | m e" d i k O s O s j a' l
+médico-sociale | NVERB | m e" d i k O s O s j a' l
+médico-sociales | NVERB | m e" d i k O s O s j a' l
+médico-sociaux | NVERB | m e" d i k O s O s j o'
+mêlé-cass | NVERB | m E" l e k a' s
+mêlé-cassis | NVERB | m E" l e k a s i'
+narco-analyse | NVERB | n a" R k O a n a l i' z
+narco-analyses | NVERB | n a" R k O a n a l i' z
+nationaux-socialistes | NVERB | n a" s j O n o s O s j a l i' s t
+navire-jumeau | NVERB | n a" v i R Z y m o'
+navire-école | NVERB | n a" v i R e k O' l
+navires-citernes | NVERB | n a" v i R s i t E' R n
+navires-hôpitaux | NVERB | n a" v i R z O p i t o'
+navires-jumeaux | NVERB | n a" v i R Z y m o'
+navires-écoles | NVERB | n a" v i R e k O' l
+nec-plus-ultra | NVERB | n E" k p l y z y l t R a'
+neuf-mille | NVERB | n 9" f m i' l
+neuro-végétatif | NVERB | n 2" R o v e Z e t a t i' f
+new-yorkais | NVERB | n j u" j O R k E'
+nid-de-poule | NVERB | n i" d p u' l
+nids-de-poule | NVERB | n i" d p u' l
+nivo-glaciaire | NVERB | n i" v o g l a s j E' R
+nivo-pluvial | NVERB | n i" v o p l y v j a' l
+nivo-pluviale | NVERB | n i" v o p l y v j a' l
+nivo-pluviaux | NVERB | n i" v o p l y v j o'
+non-activité | NVERB | n O" n a k t i v i t e'
+non-activités | NVERB | n O" n a k t i v i t e'
+non-agression | NVERB | n O" n a g R E s j o~'
+non-agressions | NVERB | n O" n a g R E s j o~'
+non-alignement | NVERB | n O" n a l i n j @ m a~'
+non-alignements | NVERB | n O" n a l i n j @ m a~'
+non-aligné | NVERB | n O" n a l i n j e'
+non-alignée | NVERB | n O" n a l i n j e'
+non-alignées | NVERB | n O" n a l i n j e'
+non-alignés | NVERB | n O" n a l i n j e'
+non-assistance | NVERB | n O" n a s i s t a~' s
+non-assistances | NVERB | n O" n a s i s t a~' s
+non-belligérant | NVERB | n o~" b E l i Z e R a~'
+non-belligérante | NVERB | n o~" b E l i Z e R a~' t
+non-belligérantes | NVERB | n o~" b E l i Z e R a~' t
+non-belligérants | NVERB | n o~" b E l i Z e R a~'
+non-croyant | NVERB | n o~" k R w a j a~'
+non-croyante | NVERB | n o~" k R w a j a~' t
+non-croyantes | NVERB | n o~" k R w a j a~' t
+non-croyants | NVERB | n o~" k R w a j a~'
+non-directif | NVERB | n o~" d i R E k t i' f
+non-directifs | NVERB | n o~" d i R E k t i' f
+non-directive | NVERB | n o~" d i R E k t i' v
+non-directives | NVERB | n o~" d i R E k t i' v
+non-disponibilité | NVERB | n o~" d i s p O n i b i l i t e'
+non-dit | NVERB | n o~" d i'
+non-engagé | NVERB | n O" n a~ g a Z e'
+non-engagée | NVERB | n O" n a~ g a Z e'
+non-engagées | NVERB | n O" n a~ g a Z e'
+non-engagés | NVERB | n O" n a~ g a Z e'
+non-euclidien | NVERB | n O" n 2 k l i d j e~'
+non-existence | NVERB | n O" n E g z i s t a~' s
+non-exécution | NVERB | n O" n E g z e k y s j o~'
+non-ingérence | NVERB | n O" n e~ Z e R a~' s
+non-ingérences | NVERB | n O" n e~ Z e R a~' s
+non-initié | NVERB | n O" n i n i s j e'
+non-initiée | NVERB | n O" n i n i s j e'
+non-initiées | NVERB | n O" n i n i s j e'
+non-initiés | NVERB | n O" n i n i s j e'
+non-inscrit | NVERB | n O" n e~ s k R i'
+non-inscrite | NVERB | n O" n e~ s k R i' t
+non-inscrites | NVERB | n O" n e~ s k R i' t
+non-inscrits | NVERB | n O" n e~ s k R i'
+non-intervention | NVERB | n O" n e~ t E R v a~ s j o~'
+non-lieu | NVERB | n o~" l j 2'
+non-lieux | NVERB | n o~" l j 2'
+non-moi | NVERB | n o~" m w a'
+non-recevoir | NVERB | n o~" R @ s @ v w a' R
+non-retour | NVERB | n o~" R @ t u' R
+non-réussite | NVERB | n o~" R e y s i' t
+non-réussites | NVERB | n o~" R e y s i' t
+non-usage | NVERB | n O" n y z a' Z
+non-valeur | NVERB | n o~" v a l 9' R
+non-valeurs | NVERB | n o~" v a l 9' R
+non-violence | NVERB | n o~" v j O l a~' s
+non-violences | NVERB | n o~" v j O l a~' s
+non-violent | NVERB | n o~" v j O l a~'
+non-violente | NVERB | n o~" v j O l a~' t
+non-violentes | NVERB | n o~" v j O l a~' t
+non-violents | NVERB | n o~" v j O l a~'
+non-être | NVERB | n O" n E' t R
+notre-dame | NVERB | n O" t R @ d a' m
+nous-mêmes | NVERB | n u" m E' m
+nues-propriétaires | NVERB | n y" p R O p R i e t E' R
+nues-propriétés | NVERB | n y" p R O p R i e t e'
+négro-africain | NVERB | n e" g R o a f R i k e~'
+négro-africaine | NVERB | n e" g R o a f R i k E' n
+négro-africaines | NVERB | n e" g R o a f R i k E' n
+négro-africains | NVERB | n e" g R o a f R i k e~'
+négro-spiritual | NVERB | n e" g R o s p i R i t y o' l
+négro-spirituals | NVERB | n e" g R o s p i R i t y o' l
+néo-celtique | NVERB | n e" o s E l t i' k
+néo-darwinisme | NVERB | n e" o d a R w i n i' z m
+néo-gothique | NVERB | n e" o g O t i' k
+néo-grec | NVERB | n e" o g R E' k
+néo-grecque | NVERB | n e" o g R E' k
+néo-guinéen | NVERB | n e" o g i n e e~'
+néo-hébridais | NVERB | n e" o e b R i d E'
+néo-impressionnisme | NVERB | n e" o e~ p R e s j O n i' z m
+néo-impressionnismes | NVERB | n e" o e~ p R e s j O n i' z m
+néo-natal | NVERB | n e" o n a t a' l
+néo-natale | NVERB | n e" o n a t a' l
+néo-natals | NVERB | n e" o n a t a' l
+néo-platonicien | NVERB | n e" o p l a t O n i s j e~'
+néo-platonisme | NVERB | n e" o p l a t O n i' z m
+néo-positivisme | NVERB | n e" o p o z i t i v i' z m
+néo-positiviste | NVERB | n e" o p o z i t i v i' s t
+néo-réalisme | NVERB | n e" o R e a l i' z m
+néo-réaliste | NVERB | n e" o R e a l i' s t
+néo-thomisme | NVERB | n e" o t O m i' z m
+néo-zélandais | NVERB | n e" o z e l a~ d E'
+oeil-de-boeuf | NVERB | 9" j d @ b 9' f
+oeil-de-chat | NVERB | 9" j d @ S a'
+oeil-de-perdrix | NVERB | 9" j d @ p E R d R i'
+oeil-de-pie | NVERB | 9" j d @ p i'
+oeils-de-boeuf | NVERB | 9" j d b 9' f
+oeils-de-chat | NVERB | 9" j d S a'
+oeils-de-perdrix | NVERB | 9" j d p E R d R i'
+oeils-de-pie | NVERB | 9" j d p i'
+oiseau-lyre | NVERB | w a" z o l i' R
+oiseau-mouche | NVERB | w a" z o m u' S
+oiseaux-lyres | NVERB | w a" z o l i' R
+oiseaux-mouches | NVERB | w a" z o m u' S
+oligo-élément | NVERB | O" l i g o e l e m a~'
+on-dit | NVERB | o~" d i'
+one-man-show | NVERB | O" n m a~ S o'
+one-step | NVERB | w a" n s t E' p
+opéra-comique | NVERB | O" p e R a k O m i' k
+orang-outan | NVERB | O" R a~ u t a~'
+orang-outang | NVERB | O" R a~ u t a~'
+orangs-outangs | NVERB | O" R a~ u t a~'
+orangs-outans | NVERB | O" R a~ u t a~'
+oreille-de-mer | NVERB | O" R E j d @ m E' R
+oreille-de-souris | NVERB | O" R E j d @ s u R i'
+oreilles-de-mer | NVERB | O" R E j d @ m E' R
+oreilles-de-souris | NVERB | O" R E j d @ s u R i'
+osso-bucco | NVERB | O" s o b u k o'
+oto-rhino | NVERB | O" t o R i n o'
+oto-rhino-laryngologie | NVERB | O" t o R i n o l a R e~ g O l O Z i'
+oto-rhino-laryngologiste | NVERB | O" t o R i n o l a R e~ g O l O Z i' s t
+oto-rhino-laryngologistes | NVERB | O" t o R i n o l a R e~ g O l O Z i' s t
+oto-rhinos | NVERB | O" t o R i n o'
+ouest-allemand | NVERB | w E" s t a l m a~'
+ouest-allemande | NVERB | w E" s t a l m a~' d
+outre-mer | NVERB | u" t R @ m E' R
+outre-tombe | NVERB | u" t R @ t o~' b
+ouvre-boite | NVERB | u" v R @ b w a' t
+ouvre-bouteille | NVERB | u" v R @ b u t E' j
+ouvre-bouteilles | NVERB | u" v R @ b u t E' j
+ouvre-boîtes | NVERB | u" v R @ b w a' t
+ouvre-gant | NVERB | u" v R @ g a~'
+ouvre-gants | NVERB | u" v R @ g a~'
+ouï-dire | NVERB | w i" d i' R
+pagano-chrétien | NVERB | p a" g a n o k R e t j e~'
+paille-en-queue | NVERB | p a" j a~ k 2'
+pailles-en-queue | NVERB | p a" j z a~ k 2'
+palma-christi | NVERB | p a" l m a k R i s t i'
+panchen-lama | NVERB | p a~" S E n l a m a'
+panchen-lamas | NVERB | p a~" S E n l a m a'
+papier-calque | NVERB | p a" p j e k a' l k
+papier-filtre | NVERB | p a" p j e f i' l t R
+papier-monnaie | NVERB | p a" p j e m O n E'
+papiers-calque | NVERB | p a" p j E k a' l k
+papiers-filtres | NVERB | p a" p j E f i' l t R
+papiers-monnaies | NVERB | p a" p j E m O n E'
+pas-de-géant | NVERB | p a" d Z e a~'
+pas-de-porte | NVERB | p a" d p O' R t
+pas-grand-chose | NVERB | p a" g R a~ S o' z
+passe-droit | NVERB | p a" s d R w a'
+passe-droits | NVERB | p a" s d R w a'
+passe-montagne | NVERB | p a" s m o~ t a' n j
+passe-montagnes | NVERB | p a" s m o~ t a' n j
+passe-pied | NVERB | p a" s p j e'
+passe-pieds | NVERB | p a" s p j e'
+passe-plat | NVERB | p a" s p l a'
+passe-plats | NVERB | p a" s p l a'
+passe-tout-grain | NVERB | p a" s t u g R e~'
+passe-velours | NVERB | p a" s v @ l u' R
+passe-volant | NVERB | p a" s v O l a~'
+passing-shot | NVERB | p a" s i N S O' t
+patte-de-loup | NVERB | p a" t d @ l u'
+pattes-d'oie | NVERB | p a" t d w a'
+pauses-café | NVERB | p o" z k a f e'
+pays-bas | NVERB | p e" i b a'
+pelle-pioche | NVERB | p E" l p j O' S
+pelles-bêches | NVERB | p E" l b E' S
+pelles-pioches | NVERB | p E" l p j O' S
+perce-neige | NVERB | p E" R s @ n E' Z
+perce-pierre | NVERB | p E" R s @ p j E' R
+perce-pierres | NVERB | p E" R s @ p j E' R
+pet-de-nonne | NVERB | p E" d n O' n
+petit-beurre | NVERB | p @" t i b 9' R
+petit-bois | NVERB | p @" t i b w a'
+petit-bourgeois | NVERB | p @" t i b u R Z w a'
+petit-gris | NVERB | p @" t i g R i'
+petites-bourgeoises | NVERB | p @" t i t b u R Z w a' z
+petites-filles | NVERB | p @" t i t f i' j
+petites-maîtresses | NVERB | p @" t i t m E t R E' s
+petites-nièces | NVERB | p @" t i t n j E' s
+petits-beurre | NVERB | p @" t i b 9' R
+petits-bois | NVERB | p @" t i b w a'
+petits-bourgeois | NVERB | p @" t i b u R Z w a'
+petits-enfants | NVERB | p @" t i z a~ f a~'
+petits-gris | NVERB | p @" t i g R i'
+petits-suisses | NVERB | p @" t i s H i' s
+pets-de-nonne | NVERB | p E" d n O' n
+peut-être | NVERB | p 2" t E' t R
+photo-finish | NVERB | f O" t o f i n i' S
+photo-robot | NVERB | f O" t o R O b o'
+photo-roman | NVERB | f O" t o R O m a~'
+photos-finish | NVERB | f O" t o f i n i' S
+photos-robots | NVERB | f O" t o R O b o'
+photos-romans | NVERB | f O" t o R O m a~'
+physico-chimique | NVERB | f i" z i k o S i m i' k
+physico-mathématique | NVERB | f i" z i k o m a t e m a t i' k
+piano-forte | NVERB | p j a" n o f O R t e'
+pic-vert | NVERB | p i" v E' R
+pie-grièche | NVERB | p i" g R i E' S
+pie-mère | NVERB | p j m E' R
+pied-bot | NVERB | p j e" b o'
+pied-d'alouette | NVERB | p j e" d a l w E' t
+pied-d'oiseau | NVERB | p j e" d w a z o'
+pied-de-biche | NVERB | p j e" d b i' S
+pied-de-cheval | NVERB | p j e" d S @ v a' l
+pied-de-chèvre | NVERB | p j e" d S E' v R
+pied-de-loup | NVERB | p j e" d l u'
+pied-de-poule | NVERB | p j e" d p u' l
+pied-de-veau | NVERB | p j e" d v o'
+pied-droit | NVERB | p j e" d R w a'
+pied-fort | NVERB | p j e" f O' R
+pied-noir | NVERB | p j e" n w a' R
+pied-plat | NVERB | p j e" p l a'
+pied-à-terre | NVERB | p j e" t a t E' R
+pieds-bots | NVERB | p j e" b o'
+pieds-d'alouette | NVERB | p j e" d a l w E' t
+pieds-d'oiseau | NVERB | p j e" d w a z o'
+pieds-de-biche | NVERB | p j e" d b i' S
+pieds-de-cheval | NVERB | p j e" d S @ v a' l
+pieds-de-chèvre | NVERB | p j e" d S E' v R
+pieds-de-loup | NVERB | p j e" d l u'
+pieds-de-poule | NVERB | p j e" d p u' l
+pieds-de-veau | NVERB | p j e" d v o'
+pieds-droits | NVERB | p j e" d R w a'
+pieds-forts | NVERB | p j e" f O' R
+pieds-plats | NVERB | p j e" p l a'
+pierre-marie | NVERB | p j E" R m a R i'
+pies-grièches | NVERB | p i" g R i E' S
+pies-mères | NVERB | p i" m E' R
+pilo-sébacé | NVERB | p i" l o s e b a s e'
+pin-pon | NVERB | p e~" p o~'
+pin-up | NVERB | p i" n 9' p
+pince-sans-rire | NVERB | p e~" s s a~ R i' R
+ping-pong | NVERB | p i" N p o~' g
+ping-pongs | NVERB | p i" N p o~' g
+pink-floyds | NVERB | p e~" k f l w a' j
+piper-cub | NVERB | p i" p e k y' b
+piper-cubs | NVERB | p i" p e k y' b
+pique-boeuf | NVERB | p i" k b 9' f
+pique-boeufs | NVERB | p i" k b 2'
+pique-niqua | VERB | p i" k n i k a'
+pique-niquai | VERB | p i" k n i k e'
+pique-niquaient | VERB | p i" k n i k E'
+pique-niquais | VERB | p i" k n i k E'
+pique-niquait | VERB | p i" k n i k E'
+pique-niquant | VERB | p i" k n i k a~'
+pique-niquas | VERB | p i" k n i k a'
+pique-niquasse | VERB | p i" k n i k a' s
+pique-niquassent | VERB | p i" k n i k a' s
+pique-niquasses | VERB | p i" k n i k a' s
+pique-niquassiez | VERB | p i" k n i k a s j e'
+pique-niquassions | VERB | p i" k n i k a s j o~'
+pique-nique | NVERB | p i" k n i' k
+pique-nique | VERB | p i" k n i' k
+pique-niquent | VERB | p i" k n i' k
+pique-niquer | VERB | p i" k n i k e'
+pique-niquera | VERB | p i" k n i k R a'
+pique-niquerai | VERB | p i" k n i k R e'
+pique-niqueraient | VERB | p i" k n i k R E'
+pique-niquerais | VERB | p i" k n i k R E'
+pique-niquerait | VERB | p i" k n i k R E'
+pique-niqueras | VERB | p i" k n i k R a'
+pique-niquerez | VERB | p i" k n i k R e'
+pique-niqueriez | VERB | p i" k n i k @ R j e'
+pique-niquerions | VERB | p i" k n i k @ R j o~'
+pique-niquerons | VERB | p i" k n i k R o~'
+pique-niqueront | VERB | p i" k n i k R o~'
+pique-niques | NVERB | p i" k n i' k
+pique-niques | VERB | p i" k n i' k
+pique-niqueur | NVERB | p i" k n i k 9' R
+pique-niqueurs | NVERB | p i" k n i k 9' R
+pique-niqueuse | NVERB | p i" k n i k 2' z
+pique-niquez | VERB | p i" k n i k e'
+pique-niquiez | VERB | p i" k n i k j e'
+pique-niquions | VERB | p i" k n i k j o~'
+pique-niquons | VERB | p i" k n i k o~'
+pique-niquâmes | VERB | p i" k n i k a' m
+pique-niquât | VERB | p i" k n i k a'
+pique-niquâtes | VERB | p i" k n i k a' t
+pique-niquèrent | VERB | p i" k n i k E' R
+pique-niqué | VERB | p i" k n i k e'
+pique-niquée | NVERB | p i" k n i k e'
+pique-niquées | NVERB | p i" k n i k e'
+pique-niqués | NVERB | p i" k n i k e'
+pique-notes | NVERB | p i" k n O' t
+pis-aller | NVERB | p i" z a l e'
+pistolet-mitrailleur | NVERB | p i" s t O l E m i t R a j 9' R
+pistolets-mitrailleurs | NVERB | p i" s t O l E m i t R a j 9' R
+piézo-électricité | NVERB | p j e" z o e l E k t R i s i t e'
+piézo-électrique | NVERB | p j e" z o e l E k t R i' k
+plain-chant | NVERB | p l e~" S a~'
+plains-chants | NVERB | p l e~" S a~'
+plan-masse | NVERB | p l a~" m a' s
+plans-masses | NVERB | p l a~" m a' s
+plat-bord | NVERB | p l a" b O' R
+plate-bande | NVERB | p l a" t b a~' d
+plate-forme | NVERB | p l a" t f O' R m
+plateau-repas | NVERB | p l a" t o R p a'
+plateaux-repas | NVERB | p l a" t o R p a'
+plates-bandes | NVERB | p l a" t b a~' d
+plates-formes | NVERB | p l a" t f O' R m
+plats-bords | NVERB | p l a" b O' R
+play-back | NVERB | p l E" b a' k
+play-boy | NVERB | p l E" b O' j
+play-boys | NVERB | p l E" b O' j
+plein-emploi | NVERB | p l E" n a~ p l w a'
+plein-temps | NVERB | p l e~" t a~'
+plein-vent | NVERB | p l e~" v a~'
+pleins-emplois | NVERB | p l e~" z a~ p l w a'
+pleins-temps | NVERB | p l e~" t a~'
+pleins-vents | NVERB | p l e~" v a~'
+plus-que-parfait | NVERB | p l y" s k @ p a R f E'
+plus-que-parfaits | NVERB | p l y" s k @ p a R f E'
+plus-value | NVERB | p l y" v a l y'
+plus-values | NVERB | p l y" v a l y'
+pochettes-surprises | NVERB | p O" S E t s y R p R i' z
+point-virgule | NVERB | p w e~" v i R g y' l
+points-virgules | NVERB | p w e~" v i R g y' l
+poisson-chat | NVERB | p w a" s o~ S a'
+poisson-lune | NVERB | p w a" s o~ l y' n
+poisson-scie | NVERB | p w a" s o~ s i'
+poisson-épée | NVERB | p w a" s o~ e p e'
+poissons-chats | NVERB | p w a" s o~ S a'
+poissons-lunes | NVERB | p w a" s o~ l y' n
+poissons-scies | NVERB | p w a" s o~ s i'
+pont-bascule | NVERB | p o~" b a s k y' l
+pont-l'évêque | NVERB | p o~" l e v E' k
+pont-levis | NVERB | p o~" l v i'
+pont-rail | NVERB | p o~" R a' j
+pont-route | NVERB | p o~" R u' t
+ponts-bascules | NVERB | p o~" b a s k y' l
+ponts-levis | NVERB | p o~" l v i'
+ponts-rail | NVERB | p o~" R a' j
+ponts-route | NVERB | p o~" R u' t
+porc-épic | NVERB | p O" R k e p i' k
+porcs-épics | NVERB | p O" R k e p i' k
+porte-bagages | NVERB | p O" R t @ b a g a' Z
+porte-balais | NVERB | p O" R t @ b o l E'
+porte-bannière | NVERB | p O" R t @ b a n j E' R
+porte-baïonnette | NVERB | p O" R t @ b a j O n E' t
+porte-billets | NVERB | p O" R t @ b i j E'
+porte-bonheur | NVERB | p O" R t @ b O n 9' R
+porte-bouteilles | NVERB | p O" R t @ b u t E' j
+porte-bébé | NVERB | p O" R t @ b e b e'
+porte-bébés | NVERB | p O" R t @ b e b e'
+porte-carnier | NVERB | p O" R t @ k a R n j e'
+porte-carte | NVERB | p O" R t @ k a' R t
+porte-cartes | NVERB | p O" R t @ k a' R t
+porte-chapeaux | NVERB | p O" R t @ S a p o'
+porte-cigares | NVERB | p O" R t @ s i g a' R
+porte-cigarettes | NVERB | p O" R t @ s i g a R E' t
+porte-clefs | NVERB | p O" R t @ k l e'
+porte-clés | NVERB | p O" R t @ k l e'
+porte-conteneurs | NVERB | p O" R t @ k o~ t n 9' R
+porte-copie | NVERB | p O" R t @ k O p i'
+porte-couteau | NVERB | p O" R t @ k u t o'
+porte-couteaux | NVERB | p O" R t @ k u t o'
+porte-crayon | NVERB | p O" R t @ k R E j o~'
+porte-crayons | NVERB | p O" R t @ k R E j o~'
+porte-croix | NVERB | p O" R t @ k R w a'
+porte-crosse | NVERB | p O" R t @ k R O' s
+porte-documents | NVERB | p O" R t @ d O k y m a~'
+porte-drapeau | NVERB | p O" R t @ d R a p o'
+porte-drapeaux | NVERB | p O" R t @ d R a p o'
+porte-enseigne | NVERB | p O" R t a~ s E' n j
+porte-faix | NVERB | p O" R t @ f E'
+porte-fanion | NVERB | p O" R t @ f a n j o~'
+porte-jupe | NVERB | p O" R t @ Z y' p
+porte-lame | NVERB | p O" R t @ l a' m
+porte-lames | NVERB | p O" R t @ l a' m
+porte-malheur | NVERB | p O" R t @ m a l 9' R
+porte-mine | NVERB | p O" R t @ m i' n
+porte-mines | NVERB | p O" R t @ m i' n
+porte-monnaie | NVERB | p O" R t @ m O n E'
+porte-montre | NVERB | p O" R t @ m o~' t R
+porte-mors | NVERB | p O" R t @ m O' R
+porte-musique | NVERB | p O" R t @ m y z i' k
+porte-parapluies | NVERB | p O" R t @ p a R a p l H i'
+porte-parole | NVERB | p O" R t @ p a R O' l
+porte-plume | NVERB | p O" R t @ p l y' m
+porte-savon | NVERB | p O" R t @ s a v o~'
+porte-savons | NVERB | p O" R t @ s a v o~'
+porte-serviettes | NVERB | p O" R t @ s E R v j E' t
+porte-vent | NVERB | p O" R t @ v a~'
+porte-voix | NVERB | p O" R t @ v w a'
+porte-à-faux | NVERB | p O" R t a f o'
+porte-à-porte | NVERB | p O" R t a p O' R t
+portes-fenêtres | NVERB | p O" R t @ f @ n E' t R
+portrait-robot | NVERB | p O" R t R E R O b o'
+portraits-robots | NVERB | p O" R t R E R O b o'
+pot-au-feu | NVERB | p O" t o f 2'
+pot-de-vin | NVERB | p O" d v e~'
+pot-pourri | NVERB | p O" p u R i'
+potron-jaquet | NVERB | p O" t R o~ Z a k E'
+potron-minet | NVERB | p O" t R o~ m i n E'
+pots-de-vin | NVERB | p O" d v e~'
+pots-pourris | NVERB | p O" p u R i'
+pou-de-soie | NVERB | p u" d @ s w a'
+pouces-pieds | NVERB | p u" s p j e'
+pous-de-soie | NVERB | p u" d @ s w a'
+pout-de-soie | NVERB | p u" d @ s w a'
+pouts-de-soie | NVERB | p u" d @ s w a'
+poux-de-soie | NVERB | p u" d @ s w a'
+premier-né | NVERB | p R @" m j e n e'
+premiers-nés | NVERB | p R @" m j E n e'
+premières-nées | NVERB | p R @" m j E R n e'
+presse-citron | NVERB | p R E" s s i t R o~'
+presse-fruits | NVERB | p R E" s f R H i'
+presse-viande | NVERB | p R E" s v j a~' d
+prie-dieu | NVERB | p R i" d j 2'
+primo-infection | NVERB | p R i" m o e~ f E k s j o~'
+primo-infections | NVERB | p R i" m o e~ f E k s j o~'
+prince-de-galles | NVERB | p R e~" s d @ g a' l
+propre-à-rien | NVERB | p R O" p R a R j e~'
+propres-à-rien | NVERB | p R O" p R z a R j e~'
+protège-cahier | NVERB | p R O" t E Z k a j e'
+protège-cahiers | NVERB | p R O" t E Z k a j e'
+protège-tibia | NVERB | p R O" t E Z t i b j a'
+protège-tibias | NVERB | p R O" t E Z t i b j a'
+prés-salés | NVERB | p R e" s a l e'
+président-directeur | NVERB | p R e" z i d a~ d i R E k t 9' R
+présidents-directeurs | NVERB | p R e" z i d a~ d i R E k t 9' R
+prêt-à-porter | NVERB | p R E" t a p O R t e'
+pseudo-bulbaire | NVERB | p s 2" d o b y l b E' R
+pseudo-fécondation | NVERB | p s 2" d o f e k o~ d a s j o~'
+pseudo-instruction | NVERB | p s 2" d o e~ s t R y k s j o~'
+pseudo-névroptères | NVERB | p s 2" d o n e v R O p t E' R
+psycho-analeptique | NVERB | p s i" k o a n a l E p t i' k
+psycho-analeptiques | NVERB | p s i" k o a n a l E p t i' k
+punching-ball | NVERB | p 9" n S i N b o' l
+punching-balls | NVERB | p 9" n S i N b o' l
+pèse-acide | NVERB | p E" z a s i' d
+pèse-bébé | NVERB | p E" z b e b e'
+pèse-bébés | NVERB | p E" z b e b e'
+pèse-esprit | NVERB | p E" z E s p R i'
+pèse-moût | NVERB | p E" z m u'
+pèse-personne | NVERB | p E" z p E R s O' n
+pèse-personnes | NVERB | p E" z p E R s O' n
+qu'en-dira-t-on | NVERB | k a~" d i R a t o~'
+quant-à-soi | NVERB | k a~" t a s w a'
+quarante-deux | NVERB | k a" R a~ t d 2'
+quarante-huit | NVERB | k a" R a~ t H i' t
+quarante-neuf | NVERB | k a" R a~ t n 9' f
+quarante-quatre | NVERB | k a" R a~ t k a' t R
+quarante-sept | NVERB | k a" R a~ t s E' t
+quarante-trois | NVERB | k a" R a~ t t R w a'
+quart-de-pouce | NVERB | k a" R d @ p u' s
+quart-de-rond | NVERB | k a" R d @ R o~'
+quartier-maître | NVERB | k a" R t j e m E' t R
+quartiers-maîtres | NVERB | k a" R t j E m E' t R
+quarts-de-pouce | NVERB | k a" R d @ p u' s
+quarts-de-rond | NVERB | k a" R d @ R o~'
+quasi-contrat | NVERB | k a" z i k o~ t R a'
+quasi-contrats | NVERB | k a" z i k o~ t R a'
+quasi-délit | NVERB | k a" z i d e l i'
+quasi-délits | NVERB | k a" z i d e l i'
+quatre-de-chiffre | NVERB | k a" t R @ d @ S i' f R
+quatre-feuilles | NVERB | k a" t R @ f 9' j
+quatre-huit | NVERB | k a" t R @ H i' t
+quatre-mâts | NVERB | k a" t R @ m a'
+quatre-quarts | NVERB | k a" t R @ k a' R
+quatre-saisons | NVERB | k a" t R @ s E z o~'
+quatre-temps | NVERB | k a" t R @ t a~'
+quatre-vingt | NVERB | k a" t R @ v e~'
+quatre-vingt-deux | NVERB | k a" t R @ v e~ d 2'
+quatre-vingt-dix | NVERB | k a" t R @ v e~ d i' s
+quatre-vingt-dixième | NVERB | k a" t R @ v e~ d i z j E' m
+quatre-vingt-neuf | NVERB | k a" t R @ v e~ n 9' f
+quatre-vingt-quatre | NVERB | k a" t R @ v e~ k a' t R
+quatre-vingt-sept | NVERB | k a" t R @ v e~ s E' t
+quatre-vingt-trois | NVERB | k a" t R @ v e~ t R w a'
+quatre-vingtième | NVERB | k a" t R @ v e~ t j E' m
+quatre-vingtièmes | NVERB | k a" t R @ v e~ t j E' m
+quatre-vingts | NVERB | k a" t R @ v e~'
+quatre-épices | NVERB | k a" t R e p i' s
+quelques-unes | NVERB | k E" l k @ z y' n
+queue-de-cheval | NVERB | k 2" d S @ v a' l
+queue-de-cochon | NVERB | k 2" d k O S o~'
+queue-de-morue | NVERB | k 2" d m O R y'
+queue-de-pie | NVERB | k 2" d p i'
+queue-de-rat | NVERB | k 2" d R a'
+queue-de-renard | NVERB | k 2" d R @ n a' R
+queues-d'aronde | NVERB | k 2" d a R o~' d
+queues-de-cheval | NVERB | k 2" d S @ v a' l
+queues-de-cochon | NVERB | k 2" d k O S o~'
+queues-de-morue | NVERB | k 2" d m O R y'
+queues-de-pie | NVERB | k 2" d p i'
+queues-de-rat | NVERB | k 2" d R a'
+queues-de-renard | NVERB | k 2" d R @ n a' R
+quotes-parts | NVERB | k O" t p a' R
+radicales-socialistes | NVERB | R a" d i k a l s O s j a l i' s t
+rai-de-coeur | NVERB | R E" d k 9' R
+rais-de-coeur | NVERB | R E" d k 9' R
+rais-de-coeurs | NVERB | R E" d k 9' R
+ramasse-monnaie | NVERB | R a" m a s m O n E'
+ramasse-poussière | NVERB | R a" m a s p u s j E' R
+ras-le-bol | NVERB | R a" l b O' l
+rat-de-cave | NVERB | R a" d k a' v
+rats-de-cave | NVERB | R a" d k a' v
+ray-grass | NVERB | R E" j g R a' s
+raz-de-marée | NVERB | R a" d m a R e'
+reine-des-prés | NVERB | R E" n d e p R e'
+reines-des-prés | NVERB | R E" n d e p R e'
+reines-marguerites | NVERB | R E" n m a R g @ R i' t
+remue-ménage | NVERB | R @" m y m e n a' Z
+rendez-vous | NVERB | R a~" d e v u'
+revenant-bon | NVERB | R @" v @ n a~ b o~'
+revenez-y | NVERB | R @" v @ n e z i'
+rez-de-chaussée | NVERB | R e" d S o s e'
+rez-de-jardin | NVERB | R e" d Z a R d e~'
+rince-bouche | NVERB | R e~" s b u' S
+rince-bouteilles | NVERB | R e~" s b u t E' j
+rince-doigts | NVERB | R e~" s d w a'
+risque-tout | NVERB | R i" s k @ t u'
+riz-pain-sel | NVERB | R i" p e~ s E' l
+roast-beef | NVERB | R O" s b i' f
+rocking-chair | NVERB | R O" k i N S E' R
+rocking-chairs | NVERB | R O" k i N S E' R
+roman-feuilleton | NVERB | R O" m a~ f 9 j t o~'
+roman-fleuve | NVERB | R O" m a~ f l 9' v
+roman-photo | NVERB | R O" m a~ f O t o'
+romans-feuilletons | NVERB | R O" m a~ f 9 j t o~'
+romans-fleuves | NVERB | R O" m a~ f l 9' v
+romans-photos | NVERB | R O" m a~ f O t o'
+rond-de-cuir | NVERB | R o~" d k H i' R
+rondes-bosses | NVERB | R o~" d b O' s
+ronds-de-cuir | NVERB | R o~" d k H i' R
+rose-croix | NVERB | R o" z k R w a'
+rouges-gorges | NVERB | R u" Z g O' R Z
+rouges-queues | NVERB | R u" Z k 2'
+réveil-matin | NVERB | R e" v E j m a t e~'
+réveille-matin | NVERB | R e" v E j m a t e~'
+sacro-saint | NVERB | s a" k R O s e~'
+sacro-saints | NVERB | s a" k R O s e~'
+sacré-coeur | NVERB | s a" k R e k 9' R
+safari-photo | NVERB | s a" f a R i f O t o'
+safaris-photos | NVERB | s a" f a R i f O t o'
+sages-femmes | NVERB | s a" Z f a' m
+saint-antoine | NVERB | s e~" t a~ t w a' n
+saint-bernard | NVERB | s e~" b E R n a' R
+saint-frusquin | NVERB | s e~" f R y s k e~'
+saint-gall | NVERB | s e~" g a' l
+saint-gallois | NVERB | s e~" g a l w a'
+saint-honoré | NVERB | s e~" t O n O R e'
+saint-marcellin | NVERB | s e~" m a R s E l e~'
+saint-nectaire | NVERB | s e~" n E k t E' R
+saint-office | NVERB | s e~" t O f i' s
+saint-paulin | NVERB | s e~" p o l e~'
+saint-pierre | NVERB | s e~" p j E' R
+saint-père | NVERB | s e~" p E' R
+saint-émilion | NVERB | s e~" t e m i l j o~'
+saintes-barbes | NVERB | s e~" t b a' R b
+saints-pères | NVERB | s e~" p E' R
+saisie-arrêt | NVERB | s E" z j a R E'
+saisie-exécution | NVERB | s E" z i E g z e k y s j o~'
+saisies-arrêts | NVERB | s E" z i z a R E'
+saisies-brandons | NVERB | s E" z i b R a~ d o~'
+saisies-exécutions | NVERB | s E" z i E g z e k y s j o~'
+sang-de-dragon | NVERB | s a~" d @ d R a g o~'
+sang-mêlé | NVERB | s a~" m E l e'
+sans-abri | NVERB | s a~" z a b R i'
+sans-emploi | NVERB | s a~" z a~ p l w a'
+sans-le-sou | NVERB | s a~" l s u'
+sans-parti | NVERB | s a~" p a R t i'
+sans-souci | NVERB | s a~" s u s i'
+sapeur-pompier | NVERB | s a" p 9 R p o~ p j e'
+sapeurs-pompiers | NVERB | s a" p 9 R p o~ p j e'
+saut-de-lit | NVERB | s o" d l i'
+saut-de-loup | NVERB | s o" d l u'
+saut-de-mouton | NVERB | s o" d m u t o~'
+saute-ruisseau | NVERB | s o" t @ R H i s o'
+sauts-de-lit | NVERB | s o" d l i'
+sauts-de-loup | NVERB | s o" d l u'
+sauts-de-mouton | NVERB | s o" d m u t o~'
+sauve-qui-peut | NVERB | s o" v k i p 2'
+savoir-faire | NVERB | s a" v w a R f E' R
+savoir-vivre | NVERB | s a" v w a R v i' v R
+sceau-de-salomon | NVERB | s o" d s a l O m o~'
+sceaux-de-salomon | NVERB | s o" d s a l O m o~'
+science-fiction | NVERB | s j a~" s f i k s j o~'
+sciences-fictions | NVERB | s j a~" s f i k s j o~'
+scottish-terrier | NVERB | s k O" t i S t E R j e'
+scottish-terriers | NVERB | s k O" t i S t E R j e'
+script-girl | NVERB | s k R i" p t g 9' R l
+script-girls | NVERB | s k R i" p t g 9' R l
+self-control | NVERB | s E" l f k o~ t R O' l
+self-controls | NVERB | s E" l f k o~ t R O' l
+self-government | NVERB | s E" l f g O v E R n m E' n t
+self-inductance | NVERB | s E" l f e~ d y k t a~' s
+self-inductances | NVERB | s E" l f e~ d y k t a~' s
+self-induction | NVERB | s E" l f e~ d y k s j o~'
+self-inductions | NVERB | s E" l f e~ d y k s j o~'
+self-made-man | NVERB | s E" l f m E d m a' n
+self-made-mans | NVERB | s E" l f m E d m a' n
+self-made-men | NVERB | s E" l f m E d m E' n
+self-service | NVERB | s E" l f s E R v i' s
+self-services | NVERB | s E" l f s E R v i' s
+semen-contra | NVERB | s @" m E n k o~ t R a'
+semi-aride | NVERB | s @" m i a R i' d
+semi-automatique | NVERB | s @" m i o t O m a t i' k
+semi-automatiques | NVERB | s @" m i o t O m a t i' k
+semi-auxiliaire | NVERB | s @" m i o k s i l j E' R
+semi-chenillé | NVERB | s @" m i S n i j e'
+semi-conducteur | NVERB | s @" m i k o~ d y k t 9' R
+semi-conducteurs | NVERB | s @" m i k o~ d y k t 9' R
+semi-consonne | NVERB | s @" m i k o~ s O' n
+semi-consonnes | NVERB | s @" m i k o~ s O' n
+semi-fini | NVERB | s @" m i f i n i'
+semi-finis | NVERB | s @" m i f i n i'
+semi-ouvré | NVERB | s @" m i u v R e'
+semi-remorque | NVERB | s @" m i R m O' R k
+semi-remorques | NVERB | s @" m i R m O' R k
+semi-rigide | NVERB | s @" m i R i Z i' d
+senatus-consulte | NVERB | s e" n a t y s k o~ s y' l t
+septante-quatre | NVERB | s E" p t a~ t k a' t R
+sergent-major | NVERB | s E" R Z a~ m a Z O' R
+sergents-majors | NVERB | s E" R Z a~ m a Z O' R
+serre-fil | NVERB | s E" R f i' l
+serre-file | NVERB | s E" R f i' l
+serre-files | NVERB | s E" R f i' l
+serre-fils | NVERB | s E" R f i' l
+serre-frein | NVERB | s E" R f R e~'
+serre-freins | NVERB | s E" R f R e~'
+serviette-éponge | NVERB | s E" R v j E t e p o~' Z
+serviettes-éponges | NVERB | s E" R v j E t e p o~' Z
+sex-appeal | NVERB | s E" k s a p i' l
+sex-appeals | NVERB | s E" k s a p i' l
+sex-shop | NVERB | s E" k s S O' p
+sex-shops | NVERB | s E" k s S O' p
+shake-hand | NVERB | S a" k a~'
+show-business | NVERB | S o" b i z n E' s
+sister-ship | NVERB | s i" s t 9 R S i' p
+sister-ships | NVERB | s i" s t 9 R S i' p
+snack-bar | NVERB | s n a" k b a' R
+snack-bars | NVERB | s n a" k b a' R
+snow-boot | NVERB | s n o" b u' t
+snow-boots | NVERB | s n o" b u' t
+social-chrétien | NVERB | s O" s j a l k R e t j e~'
+social-démocrate | NVERB | s O" s j a l d e m O k R a' t
+social-démocratie | NVERB | s O" s j a l d e m O k R a s i'
+social-démocraties | NVERB | s O" s j a l d e m O k R a s i'
+sociaux-démocrates | NVERB | s O" s j o d e m O k R a' t
+socio-professionnel | NVERB | s O" s j o p R O f E s j O n E' l
+socio-économique | NVERB | s O" s j o e k O n O m i' k
+socio-économiques | NVERB | s O" s j o e k O n O m i' k
+socio-éducatif | NVERB | s O" s j o e d y k a t i' f
+socio-éducatifs | NVERB | s O" s j o e d y k a t i' f
+socio-éducative | NVERB | s O" s j o e d y k a t i' v
+socio-éducatives | NVERB | s O" s j o e d y k a t i' v
+soi-disant | NVERB | s w a" d i z a~'
+soi-même | NVERB | s w a" m E' m
+soit-communiqué | NVERB | s w a" k O m y n i k e'
+soixante-deux | NVERB | s w a" s a~ t d 2'
+soixante-dix | NVERB | s w a" s a~ t d i' s
+soixante-dix-neuf | NVERB | s w a" s a~ t d i z n 9' f
+soixante-dix-sept | NVERB | s w a" s a~ t d i s E' t
+soixante-dixième | NVERB | s w a" s a~ t d i z j E' m
+soixante-douze | NVERB | s w a" s a~ t d u' z
+soixante-huit | NVERB | s w a" s a~ t H i' t
+soixante-neuf | NVERB | s w a" s a~ t n 9' f
+soixante-quatre | NVERB | s w a" s a~ t k a' t R
+soixante-seize | NVERB | s w a" s a~ t s E' z
+soixante-sept | NVERB | s w a" s a~ t s E' t
+soixante-treize | NVERB | s w a" s a~ t t R E' z
+soixante-trois | NVERB | s w a" s a~ t t R w a'
+somato-psychique | NVERB | s O" m a t o p s i S i' k
+sortie-de-bain | NVERB | s O" R t i d b e~'
+sortie-de-bal | NVERB | s O" R t i d b a' l
+sorties-de-bain | NVERB | s O" R t i d b e~'
+sorties-de-bal | NVERB | s O" R t i d b a' l
+sot-l'y-laisse | NVERB | s o" l i l E' s
+souffre-douleur | NVERB | s u" f R @ d u l 9' R
+sourde-muette | NVERB | s u" R d @ m y E' t
+sourdes-muettes | NVERB | s u" R d @ m y E' t
+sous-admissible | NVERB | s u" z a d m i s i' b l
+sous-aide | NVERB | s u" z E' d
+sous-alimenta | VERB | s u" z a l i m a~ t a'
+sous-alimentai | VERB | s u" z a l i m a~ t e'
+sous-alimentaient | VERB | s u" z a l i m a~ t E'
+sous-alimentais | VERB | s u" z a l i m a~ t E'
+sous-alimentait | VERB | s u" z a l i m a~ t E'
+sous-alimentant | VERB | s u" z a l i m a~ t a~'
+sous-alimentas | VERB | s u" z a l i m a~ t a'
+sous-alimentasse | VERB | s u" z a l i m a~ t a' s
+sous-alimentassent | VERB | s u" z a l i m a~ t a' s
+sous-alimentasses | VERB | s u" z a l i m a~ t a' s
+sous-alimentassiez | VERB | s u" z a l i m a~ t a s j e'
+sous-alimentassions | VERB | s u" z a l i m a~ t a s j o~'
+sous-alimentation | NVERB | s u" z a l i m a~ t a s j o~'
+sous-alimentations | NVERB | s u" z a l i m a~ t a s j o~'
+sous-alimente | VERB | s u" z a l i m a~' t
+sous-alimentent | VERB | s u" z a l i m a~' t
+sous-alimenter | VERB | s u" z a l i m a~ t e'
+sous-alimentera | VERB | s u" z a l i m a~ t R a'
+sous-alimenterai | VERB | s u" z a l i m a~ t R e'
+sous-alimenteraient | VERB | s u" z a l i m a~ t R E'
+sous-alimenterais | VERB | s u" z a l i m a~ t R E'
+sous-alimenterait | VERB | s u" z a l i m a~ t R E'
+sous-alimenteras | VERB | s u" z a l i m a~ t R a'
+sous-alimenterez | VERB | s u" z a l i m a~ t R e'
+sous-alimenteriez | VERB | s u" z a l i m a~ t @ R j e'
+sous-alimenterions | VERB | s u" z a l i m a~ t @ R j o~'
+sous-alimenterons | VERB | s u" z a l i m a~ t R o~'
+sous-alimenteront | VERB | s u" z a l i m a~ t R o~'
+sous-alimentes | VERB | s u" z a l i m a~' t
+sous-alimentez | VERB | s u" z a l i m a~ t e'
+sous-alimentiez | VERB | s u" z a l i m a~ t j e'
+sous-alimentions | VERB | s u" z a l i m a~ t j o~'
+sous-alimentons | VERB | s u" z a l i m a~ t o~'
+sous-alimentâmes | VERB | s u" z a l i m a~ t a' m
+sous-alimentât | VERB | s u" z a l i m a~ t a'
+sous-alimentâtes | VERB | s u" z a l i m a~ t a' t
+sous-alimentèrent | VERB | s u" z a l i m a~ t E' R
+sous-alimenté | VERB | s u" z a l i m a~ t e'
+sous-alimentée | VERB | s u" z a l i m a~ t e'
+sous-alimentées | VERB | s u" z a l i m a~ t e'
+sous-alimentés | VERB | s u" z a l i m a~ t e'
+sous-amendement | NVERB | s u" z a m a~ d m a~'
+sous-amendements | NVERB | s u" z a m a~ d m a~'
+sous-arbrisseau | NVERB | s u" z a R b R i s o'
+sous-arbrisseaux | NVERB | s u" z a R b R i s o'
+sous-bas | NVERB | s u" b a'
+sous-embranchement | NVERB | s u" z a~ b R a~ S m a~'
+sous-emploi | NVERB | s u" z a~ p l w a'
+sous-emploie | VERB | s u" z a~ p l w a'
+sous-emploient | VERB | s u" z a~ p l w a'
+sous-emploiera | VERB | s u" z a~ p l w a R a'
+sous-emploierai | VERB | s u" z a~ p l w a R e'
+sous-emploieraient | VERB | s u" z a~ p l w a R E'
+sous-emploierais | VERB | s u" z a~ p l w a R E'
+sous-emploierait | VERB | s u" z a~ p l w a R E'
+sous-emploieras | VERB | s u" z a~ p l w a R a'
+sous-emploierez | VERB | s u" z a~ p l w a R e'
+sous-emploieriez | VERB | s u" z a~ p l w a R j e'
+sous-emploierions | VERB | s u" z a~ p l w a R j o~'
+sous-emploierons | VERB | s u" z a~ p l w a R o~'
+sous-emploieront | VERB | s u" z a~ p l w a R o~'
+sous-emploies | VERB | s u" z a~ p l w a'
+sous-emplois | NVERB | s u" z a~ p l w a'
+sous-employa | VERB | s u" z a~ p l w a j a'
+sous-employai | VERB | s u" z a~ p l w a j e'
+sous-employaient | VERB | s u" z a~ p l w a j E'
+sous-employais | VERB | s u" z a~ p l w a j E'
+sous-employait | VERB | s u" z a~ p l w a j E'
+sous-employant | VERB | s u" z a~ p l w a j a~'
+sous-employas | VERB | s u" z a~ p l w a j a'
+sous-employasse | VERB | s u" z a~ p l w a j a' s
+sous-employassent | VERB | s u" z a~ p l w a j a' s
+sous-employasses | VERB | s u" z a~ p l w a j a' s
+sous-employassiez | VERB | s u" z a~ p l w a j a s j e'
+sous-employassions | VERB | s u" z a~ p l w a j a s j o~'
+sous-employer | VERB | s u" z a~ p l w a j e'
+sous-employez | VERB | s u" z a~ p l w a j e'
+sous-employiez | VERB | s u" z a~ p l w a j e'
+sous-employions | VERB | s u" z a~ p l w a j o~'
+sous-employons | VERB | s u" z a~ p l w a j o~'
+sous-employâmes | VERB | s u" z a~ p l w a j a' m
+sous-employât | VERB | s u" z a~ p l w a j a'
+sous-employâtes | VERB | s u" z a~ p l w a j a' t
+sous-employèrent | VERB | s u" z a~ p l w a j E' R
+sous-employé | VERB | s u" z a~ p l w a j e'
+sous-employée | VERB | s u" z a~ p l w a j e'
+sous-employées | VERB | s u" z a~ p l w a j e'
+sous-employés | VERB | s u" z a~ p l w a j e'
+sous-ensemble | NVERB | s u" z a~ s a~' b l
+sous-ensembles | NVERB | s u" z a~ s a~' b l
+sous-entend | VERB | s u" z a~ t a~'
+sous-entendaient | VERB | s u" z a~ t a~ d E'
+sous-entendais | VERB | s u" z a~ t a~ d E'
+sous-entendait | VERB | s u" z a~ t a~ d E'
+sous-entendant | VERB | s u" z a~ t a~ d a~'
+sous-entende | VERB | s u" z a~ t a~' d
+sous-entendent | VERB | s u" z a~ t a~' d
+sous-entendes | VERB | s u" z a~ t a~' d
+sous-entendez | VERB | s u" z a~ t a~ d e'
+sous-entendiez | VERB | s u" z a~ t a~ d j e'
+sous-entendions | VERB | s u" z a~ t a~ d j o~'
+sous-entendirent | VERB | s u" z a~ t a~ d i' R
+sous-entendis | VERB | s u" z a~ t a~ d i'
+sous-entendisse | VERB | s u" z a~ t a~ d i' s
+sous-entendissent | VERB | s u" z a~ t a~ d i' s
+sous-entendisses | VERB | s u" z a~ t a~ d i' s
+sous-entendissiez | VERB | s u" z a~ t a~ d i s j e'
+sous-entendissions | VERB | s u" z a~ t a~ d i s j o~'
+sous-entendit | VERB | s u" z a~ t a~ d i'
+sous-entendons | VERB | s u" z a~ t a~ d o~'
+sous-entendra | VERB | s u" z a~ t a~ d R a'
+sous-entendrai | VERB | s u" z a~ t a~ d R e'
+sous-entendraient | VERB | s u" z a~ t a~ d R E'
+sous-entendrais | VERB | s u" z a~ t a~ d R E'
+sous-entendrait | VERB | s u" z a~ t a~ d R E'
+sous-entendras | VERB | s u" z a~ t a~ d R a'
+sous-entendre | VERB | s u" z a~ t a~' d R
+sous-entendrez | VERB | s u" z a~ t a~ d R e'
+sous-entendriez | VERB | s u" z a~ t a~ d R i e'
+sous-entendrions | VERB | s u" z a~ t a~ d R i o~'
+sous-entendrons | VERB | s u" z a~ t a~ d R o~'
+sous-entendront | VERB | s u" z a~ t a~ d R o~'
+sous-entends | VERB | s u" z a~ t a~'
+sous-entendu | NVERB | s u" z a~ t a~ d y'
+sous-entendu | VERB | s u" z a~ t a~ d y'
+sous-entendue | VERB | s u" z a~ t a~ d y'
+sous-entendues | VERB | s u" z a~ t a~ d y'
+sous-entendus | NVERB | s u" z a~ t a~ d y'
+sous-entendus | VERB | s u" z a~ t a~ d y'
+sous-entendîmes | VERB | s u" z a~ t a~ d i' m
+sous-entendît | VERB | s u" z a~ t a~ d i'
+sous-entendîtes | VERB | s u" z a~ t a~ d i' t
+sous-estima | VERB | s u" z E s t i m a'
+sous-estimai | VERB | s u" z E s t i m e'
+sous-estimaient | VERB | s u" z E s t i m E'
+sous-estimais | VERB | s u" z E s t i m E'
+sous-estimait | VERB | s u" z E s t i m E'
+sous-estimant | VERB | s u" z E s t i m a~'
+sous-estimas | VERB | s u" z E s t i m a'
+sous-estimasse | VERB | s u" z E s t i m a' s
+sous-estimassent | VERB | s u" z E s t i m a' s
+sous-estimasses | VERB | s u" z E s t i m a' s
+sous-estimassiez | VERB | s u" z E s t i m a s j e'
+sous-estimassions | VERB | s u" z E s t i m a s j o~'
+sous-estimation | NVERB | s u" z E s t i m a s j o~'
+sous-estimations | NVERB | s u" z E s t i m a s j o~'
+sous-estime | VERB | s u" z E s t i' m
+sous-estiment | VERB | s u" z E s t i' m
+sous-estimer | VERB | s u" z E s t i m e'
+sous-estimera | VERB | s u" z E s t i m R a'
+sous-estimerai | VERB | s u" z E s t i m R e'
+sous-estimeraient | VERB | s u" z E s t i m R E'
+sous-estimerais | VERB | s u" z E s t i m R E'
+sous-estimerait | VERB | s u" z E s t i m R E'
+sous-estimeras | VERB | s u" z E s t i m R a'
+sous-estimerez | VERB | s u" z E s t i m R e'
+sous-estimeriez | VERB | s u" z E s t i m @ R j e'
+sous-estimerions | VERB | s u" z E s t i m @ R j o~'
+sous-estimerons | VERB | s u" z E s t i m R o~'
+sous-estimeront | VERB | s u" z E s t i m R o~'
+sous-estimes | VERB | s u" z E s t i' m
+sous-estimez | VERB | s u" z E s t i m e'
+sous-estimiez | VERB | s u" z E s t i m j e'
+sous-estimions | VERB | s u" z E s t i m j o~'
+sous-estimons | VERB | s u" z E s t i m o~'
+sous-estimâmes | VERB | s u" z E s t i m a' m
+sous-estimât | VERB | s u" z E s t i m a'
+sous-estimâtes | VERB | s u" z E s t i m a' t
+sous-estimèrent | VERB | s u" z E s t i m E' R
+sous-estimé | VERB | s u" z E s t i m e'
+sous-estimée | VERB | s u" z E s t i m e'
+sous-estimées | VERB | s u" z E s t i m e'
+sous-estimés | VERB | s u" z E s t i m e'
+sous-exploita | VERB | s u" z E k s p l w a t a'
+sous-exploitai | VERB | s u" z E k s p l w a t e'
+sous-exploitaient | VERB | s u" z E k s p l w a t E'
+sous-exploitais | VERB | s u" z E k s p l w a t E'
+sous-exploitait | VERB | s u" z E k s p l w a t E'
+sous-exploitant | VERB | s u" z E k s p l w a t a~'
+sous-exploitas | VERB | s u" z E k s p l w a t a'
+sous-exploitasse | VERB | s u" z E k s p l w a t a' s
+sous-exploitassent | VERB | s u" z E k s p l w a t a' s
+sous-exploitasses | VERB | s u" z E k s p l w a t a' s
+sous-exploitassiez | VERB | s u" z E k s p l w a t a s j e'
+sous-exploitassions | VERB | s u" z E k s p l w a t a s j o~'
+sous-exploite | VERB | s u" z E k s p l w a' t
+sous-exploitent | VERB | s u" z E k s p l w a' t
+sous-exploiter | VERB | s u" z E k s p l w a t e'
+sous-exploitera | VERB | s u" z E k s p l w a t R a'
+sous-exploiterai | VERB | s u" z E k s p l w a t R e'
+sous-exploiteraient | VERB | s u" z E k s p l w a t R E'
+sous-exploiterais | VERB | s u" z E k s p l w a t R E'
+sous-exploiterait | VERB | s u" z E k s p l w a t R E'
+sous-exploiteras | VERB | s u" z E k s p l w a t R a'
+sous-exploiterez | VERB | s u" z E k s p l w a t R e'
+sous-exploiteriez | VERB | s u" z E k s p l w a t @ R j e'
+sous-exploiterions | VERB | s u" z E k s p l w a t @ R j o~'
+sous-exploiterons | VERB | s u" z E k s p l w a t R o~'
+sous-exploiteront | VERB | s u" z E k s p l w a t R o~'
+sous-exploites | VERB | s u" z E k s p l w a' t
+sous-exploitez | VERB | s u" z E k s p l w a t e'
+sous-exploitiez | VERB | s u" z E k s p l w a t j e'
+sous-exploitions | VERB | s u" z E k s p l w a t j o~'
+sous-exploitons | VERB | s u" z E k s p l w a t o~'
+sous-exploitâmes | VERB | s u" z E k s p l w a t a' m
+sous-exploitât | VERB | s u" z E k s p l w a t a'
+sous-exploitâtes | VERB | s u" z E k s p l w a t a' t
+sous-exploitèrent | VERB | s u" z E k s p l w a t E' R
+sous-exploité | VERB | s u" z E k s p l w a t e'
+sous-exploitée | VERB | s u" z E k s p l w a t e'
+sous-exploitées | VERB | s u" z E k s p l w a t e'
+sous-exploités | VERB | s u" z E k s p l w a t e'
+sous-exposa | VERB | s u" z E k s p o z a'
+sous-exposai | VERB | s u" z E k s p o z e'
+sous-exposaient | VERB | s u" z E k s p o z E'
+sous-exposais | VERB | s u" z E k s p o z E'
+sous-exposait | VERB | s u" z E k s p o z E'
+sous-exposant | VERB | s u" z E k s p o z a~'
+sous-exposas | VERB | s u" z E k s p o z a'
+sous-exposasse | VERB | s u" z E k s p o z a' s
+sous-exposassent | VERB | s u" z E k s p o z a' s
+sous-exposasses | VERB | s u" z E k s p o z a' s
+sous-exposassiez | VERB | s u" z E k s p o z a s j e'
+sous-exposassions | VERB | s u" z E k s p o z a s j o~'
+sous-expose | VERB | s u" z E k s p o' z
+sous-exposent | VERB | s u" z E k s p o' z
+sous-exposer | VERB | s u" z E k s p o z e'
+sous-exposera | VERB | s u" z E k s p o z R a'
+sous-exposerai | VERB | s u" z E k s p o z R e'
+sous-exposeraient | VERB | s u" z E k s p o z R E'
+sous-exposerais | VERB | s u" z E k s p o z R E'
+sous-exposerait | VERB | s u" z E k s p o z R E'
+sous-exposeras | VERB | s u" z E k s p o z R a'
+sous-exposerez | VERB | s u" z E k s p o z R e'
+sous-exposeriez | VERB | s u" z E k s p o z @ R j e'
+sous-exposerions | VERB | s u" z E k s p o z @ R j o~'
+sous-exposerons | VERB | s u" z E k s p o z R o~'
+sous-exposeront | VERB | s u" z E k s p o z R o~'
+sous-exposes | VERB | s u" z E k s p o' z
+sous-exposez | VERB | s u" z E k s p o z e'
+sous-exposiez | VERB | s u" z E k s p o z j e'
+sous-exposions | VERB | s u" z E k s p o z j o~'
+sous-exposition | NVERB | s u" z E k s p o z i s j o~'
+sous-expositions | NVERB | s u" z E k s p o z i s j o~'
+sous-exposons | VERB | s u" z E k s p o z o~'
+sous-exposâmes | VERB | s u" z E k s p o z a' m
+sous-exposât | VERB | s u" z E k s p o z a'
+sous-exposâtes | VERB | s u" z E k s p o z a' t
+sous-exposèrent | VERB | s u" z E k s p o z E' R
+sous-exposé | VERB | s u" z E k s p o z e'
+sous-exposée | VERB | s u" z E k s p o z e'
+sous-exposées | VERB | s u" z E k s p o z e'
+sous-exposés | VERB | s u" z E k s p o z e'
+sous-homme | NVERB | s u" z O' m
+sous-hommes | NVERB | s u" z O' m
+sous-ingénieur | NVERB | s u" z e~ Z e n j 9' R
+sous-intendant | NVERB | s u" z e~ t a~ d a~'
+sous-main | NVERB | s u" m e~'
+sous-marin | NVERB | s u" m a R e~'
+sous-marine | NVERB | s u" m a R i' n
+sous-marines | NVERB | s u" m a R i' n
+sous-marinier | NVERB | s u" m a R i n j e'
+sous-mariniers | NVERB | s u" m a R i n j e'
+sous-marins | NVERB | s u" m a R e~'
+sous-maître | NVERB | s u" m E' t R
+sous-maîtresse | NVERB | s u" m E t R E' s
+sous-multiple | NVERB | s u" m y l t i' p l
+sous-multiples | NVERB | s u" m y l t i' p l
+sous-occipital | NVERB | s u" z O k s i p i t a' l
+sous-occipitale | NVERB | s u" z O k s i p i t a' l
+sous-occipitaux | NVERB | s u" z O k s i p i t o'
+sous-oeuvre | NVERB | s u" z 9' v R
+sous-oeuvres | NVERB | s u" z 9' v R
+sous-off | NVERB | s u" z O' f
+sous-officier | NVERB | s u" z O f i s j e'
+sous-officiers | NVERB | s u" z O f i s j e'
+sous-orbitaire | NVERB | s u" z O R b i t E' R
+sous-ordre | NVERB | s u" z O' R d R
+sous-ordres | NVERB | s u" z O' R d R
+sous-scapulaire | NVERB | s u" s k a p y l E' R
+sous-secrétaire | NVERB | s u" s @ k R E t E' R
+sous-secrétaires | NVERB | s u" s @ k R E t E' R
+sous-secrétariat | NVERB | s u" s @ k R e t a R j a'
+sous-secrétariats | NVERB | s u" s @ k R e t a R j a'
+sous-seing | NVERB | s u" s e~'
+sous-sol | NVERB | s u" s O' l
+sous-sols | NVERB | s u" s O' l
+sous-station | NVERB | s u" s t a s j o~'
+sous-stations | NVERB | s u" s t a s j o~'
+sous-économe | NVERB | s u" z e k O n O' m
+sous-épidermique | NVERB | s u" z e p i d E R m i' k
+sous-équipement | NVERB | s u" z e k i p m a~'
+sous-équipements | NVERB | s u" z e k i p m a~'
+sous-équipé | NVERB | s u" z e k i p e'
+sous-équipée | NVERB | s u" z e k i p e'
+sous-équipées | NVERB | s u" z e k i p e'
+sous-équipés | NVERB | s u" z e k i p e'
+sous-évalua | VERB | s u" z e v a l y a'
+sous-évaluai | VERB | s u" z e v a l y e'
+sous-évaluaient | VERB | s u" z e v a l y E'
+sous-évaluais | VERB | s u" z e v a l y E'
+sous-évaluait | VERB | s u" z e v a l y E'
+sous-évaluant | VERB | s u" z e v a l y a~'
+sous-évaluas | VERB | s u" z e v a l y a'
+sous-évaluasse | VERB | s u" z e v a l y a' s
+sous-évaluassent | VERB | s u" z e v a l y a' s
+sous-évaluasses | VERB | s u" z e v a l y a' s
+sous-évaluassiez | VERB | s u" z e v a l y a s j e'
+sous-évaluassions | VERB | s u" z e v a l y a s j o~'
+sous-évalue | VERB | s u" z e v a l y'
+sous-évaluent | VERB | s u" z e v a l y'
+sous-évaluer | VERB | s u" z e v a l y e'
+sous-évaluera | VERB | s u" z e v a l y R a'
+sous-évaluerai | VERB | s u" z e v a l y R e'
+sous-évalueraient | VERB | s u" z e v a l y R E'
+sous-évaluerais | VERB | s u" z e v a l y R E'
+sous-évaluerait | VERB | s u" z e v a l y R E'
+sous-évalueras | VERB | s u" z e v a l y R a'
+sous-évaluerez | VERB | s u" z e v a l y R e'
+sous-évalueriez | VERB | s u" z e v a l y R j e'
+sous-évaluerions | VERB | s u" z e v a l y R j o~'
+sous-évaluerons | VERB | s u" z e v a l y R o~'
+sous-évalueront | VERB | s u" z e v a l y R o~'
+sous-évalues | VERB | s u" z e v a l y'
+sous-évaluez | VERB | s u" z e v a l y e'
+sous-évaluiez | VERB | s u" z e v a l y j e'
+sous-évaluions | VERB | s u" z e v a l y j o~'
+sous-évaluons | VERB | s u" z e v a l y o~'
+sous-évaluâmes | VERB | s u" z e v a l y a' m
+sous-évaluât | VERB | s u" z e v a l y a'
+sous-évaluâtes | VERB | s u" z e v a l y a' t
+sous-évaluèrent | VERB | s u" z e v a l y E' R
+sous-évalué | VERB | s u" z e v a l y e'
+sous-évaluée | VERB | s u" z e v a l y e'
+sous-évaluées | VERB | s u" z e v a l y e'
+sous-évalués | VERB | s u" z e v a l y e'
+soutien-gorge | NVERB | s u" t j e~ g O' R Z
+soutiens-gorge | NVERB | s u" t j e~ g O' R Z
+souï-manga | NVERB | s w i" m a~ g a'
+spatio-temporel | NVERB | s p a" s j o t a~ p O R E' l
+spina-bifida | NVERB | s p i" n a b i f i d a'
+star-system | NVERB | s t a" R s i s t E' m
+star-systems | NVERB | s t a" R s i s t E' m
+starting-block | NVERB | s t a" R t i N b l O' k
+starting-blocks | NVERB | s t a" R t i N b l O' k
+starting-gate | NVERB | s t a" R t i N g E' t
+starting-gates | NVERB | s t a" R t i N g E' t s
+station-service | NVERB | s t a" s j o~ s E R v i' s
+stations-service | NVERB | s t a" s j o~ s E R v i' s
+staturo-pondéral | NVERB | s t a" t y R O p o~ d e R a' l
+staturo-pondérale | NVERB | s t a" t y R O p o~ d e R a' l
+staturo-pondérales | NVERB | s t a" t y R O p o~ d e R a' l
+staturo-pondéraux | NVERB | s t a" t y R O p o~ d e R o'
+stock-car | NVERB | s t O" k k a' R
+stock-cars | NVERB | s t O" k k a' R
+strato-cumulus | NVERB | s t R a" t O k y m y l y' s
+strip-tease | NVERB | s t R i" p t i' z
+strip-teases | NVERB | s t R i" p t i' z
+strip-teaseuse | NVERB | s t R i" p t i z 2' z
+strip-teaseuses | NVERB | s t R i" p t i z 2' z
+stud-book | NVERB | s t y" b u' k
+stud-books | NVERB | s t y" b u' k
+sur-le-champ | NVERB | s y" R l @ S a~'
+surprises-parties | NVERB | s y" R p R i z p a R t i'
+survolteur-dévolteur | NVERB | s y" R v O l t 9 R d e v O l t 9' R
+survolteurs-dévolteurs | NVERB | s y" R v O l t 9 R d e v O l t 9' R
+sweat-shirt | NVERB | s w E" t S 9' R t
+sweat-shirts | NVERB | s w E" t S 9' R t
+systèmes-experts | NVERB | s i" s t E m z E k s p E' R
+taille-crayon | NVERB | t a" j k R E j o~'
+taille-crayons | NVERB | t a" j k R E j o~'
+taille-douce | NVERB | t a" j d u' s
+tailles-douces | NVERB | t a" j d u' s
+talkie-walkie | NVERB | t O" l k i w O l k i'
+talkie-walkies | NVERB | t O" l k i w O l k i'
+talkies-walkies | NVERB | t O" l k i w O l k i'
+tam-tam | NVERB | t a" m t a' m
+tam-tams | NVERB | t a" m t a' m
+tape-à-l'oeil | NVERB | t a" p a l 9' j
+taste-vin | NVERB | t a" s t @ v e~'
+taupes-grillons | NVERB | t o" p g R i j o~'
+tchin-tchin | NVERB | t S i" n t S i' n
+techno-bureaucratique | NVERB | t E" k n o b y R o k R a t i' k
+tee-shirt | NVERB | t i" S 9' R t
+tee-shirts | NVERB | t i" S 9' R t
+teen-ager | NVERB | t i" n E d Z 9' R
+teen-agers | NVERB | t i" n E d Z 9' R
+tensio-actif | NVERB | t a~" s j o a k t i' f
+tentes-abris | NVERB | t a~" t z a b R i'
+teuf-teuf | NVERB | t 9" f t 9' f
+tiers-point | NVERB | t j E" R p w e~'
+tiers-points | NVERB | t j E" R p w e~'
+timbre-poste | NVERB | t e~" b R @ p O' s t
+timbres-poste | NVERB | t e~" b R @ p O' s t
+timbres-quittances | NVERB | t e~" b R k i t a~' s
+tire-au-cul | NVERB | t i" R o k y'
+tire-au-flanc | NVERB | t i" R o f l a~'
+tire-balle | NVERB | t i" R b a' l
+tire-bonde | NVERB | t i" R b o~' d
+tire-botte | NVERB | t i" R b O' t
+tire-bottes | NVERB | t i" R b O' t
+tire-bouchon | NVERB | t i" R b u S o~'
+tire-bouchonna | VERB | t i" R b u S O n a'
+tire-bouchonnai | VERB | t i" R b u S O n e'
+tire-bouchonnaient | VERB | t i" R b u S O n E'
+tire-bouchonnais | VERB | t i" R b u S O n E'
+tire-bouchonnait | VERB | t i" R b u S O n E'
+tire-bouchonnant | NVERB | t i" R b u S O n a~'
+tire-bouchonnas | VERB | t i" R b u S O n a'
+tire-bouchonnasse | VERB | t i" R b u S O n a' s
+tire-bouchonnassent | VERB | t i" R b u S O n a' s
+tire-bouchonnasses | VERB | t i" R b u S O n a' s
+tire-bouchonnassiez | VERB | t i" R b u S O n a s j e'
+tire-bouchonnassions | VERB | t i" R b u S O n a s j o~'
+tire-bouchonne | VERB | t i" R b u S O' n
+tire-bouchonnent | VERB | t i" R b u S O' n
+tire-bouchonner | VERB | t i" R b u S O n e'
+tire-bouchonnera | VERB | t i" R b u S O n R a'
+tire-bouchonnerai | VERB | t i" R b u S O n R e'
+tire-bouchonneraient | VERB | t i" R b u S O n R E'
+tire-bouchonnerais | VERB | t i" R b u S O n R E'
+tire-bouchonnerait | VERB | t i" R b u S O n R E'
+tire-bouchonneras | VERB | t i" R b u S O n R a'
+tire-bouchonnerez | VERB | t i" R b u S O n R e'
+tire-bouchonneriez | VERB | t i" R b u S O n @ R j e'
+tire-bouchonnerions | VERB | t i" R b u S O n @ R j o~'
+tire-bouchonnerons | VERB | t i" R b u S O n R o~'
+tire-bouchonneront | VERB | t i" R b u S O n R o~'
+tire-bouchonnes | VERB | t i" R b u S O' n
+tire-bouchonnez | VERB | t i" R b u S O n e'
+tire-bouchonniez | VERB | t i" R b u S O n j e'
+tire-bouchonnions | VERB | t i" R b u S O n j o~'
+tire-bouchonnons | VERB | t i" R b u S O n o~'
+tire-bouchonnâmes | VERB | t i" R b u S O n a' m
+tire-bouchonnât | VERB | t i" R b u S O n a'
+tire-bouchonnâtes | VERB | t i" R b u S O n a' t
+tire-bouchonnèrent | VERB | t i" R b u S O n E' R
+tire-bouchonné | VERB | t i" R b u S O n e'
+tire-bouchonnée | VERB | t i" R b u S O n e'
+tire-bouchonnées | VERB | t i" R b u S O n e'
+tire-bouchonnés | VERB | t i" R b u S O n e'
+tire-bouchons | NVERB | t i" R b u S o~'
+tire-bouton | NVERB | t i" R b u t o~'
+tire-braise | NVERB | t i" R b R E' z
+tire-clou | NVERB | t i" R k l u'
+tire-clous | NVERB | t i" R k l u'
+tire-fesses | NVERB | t i" R f E' s
+tire-filet | NVERB | t i" R f i l E'
+tire-fond | NVERB | t i" R f o~'
+tire-jus | NVERB | t i" R Z y'
+tire-l'oeil | NVERB | t i" R l 9' j
+tire-laine | NVERB | t i" R l E' n
+tire-lait | NVERB | t i" R l E'
+tire-ligne | NVERB | t i" R l i' n j
+tire-lignes | NVERB | t i" R l i' n j
+tire-nerf | NVERB | t i" R n E' R
+tire-pied | NVERB | t i" R p j e'
+tire-sou | NVERB | t i" R s u'
+tire-veille | NVERB | t i" R v E' j
+tire-veilles | NVERB | t i" R v E' j
+tire-veine | NVERB | t i" R v E' n
+tiroir-caisse | NVERB | t i" R w a R k E' s
+tiroirs-caisses | NVERB | t i" R w a R k E' s
+tohu-bohu | NVERB | t O" y b O y'
+tom-pouce | NVERB | t O" m p u' s
+touche-à-tout | NVERB | t u" S a t u'
+tourne-disque | NVERB | t u" R n @ d i' s k
+tourne-disques | NVERB | t u" R n @ d i' s k
+tourne-feuille | NVERB | t u" R n @ f 9' j
+tourne-pierre | NVERB | t u" R n @ p j E' R
+tourne-pierres | NVERB | t u" R n @ p j E' R
+tourne-vent | NVERB | t u" R n @ v a~'
+tourne-à-gauche | NVERB | t u" R n a g o' S
+tout-à-l'égout | NVERB | t u" t a l e g u'
+toute-puissance | NVERB | t u" t @ p H i s a~' s
+toute-puissante | NVERB | t u" t @ p H i s a~' t
+toutes-bonnes | NVERB | t u" t b O' n
+toutes-puissantes | NVERB | t u" t @ p H i s a~' t
+toutes-épices | NVERB | t u" t z e p i' s
+trachées-artères | NVERB | t R a" S e z a R t E' R
+trachéo-bronchite | NVERB | t R a" k e o b R o~ S i' t
+tragi-comique | NVERB | t R a" Z i k O m i' k
+tragi-comiques | NVERB | t R a" Z i k O m i' k
+tragi-comédie | NVERB | t R a" Z i k O m e d i'
+tragi-comédies | NVERB | t R a" Z i k O m e d i'
+train-ferries | NVERB | t R e~" f E R i'
+train-ferry | NVERB | t R e~" f E R i'
+traine-savates | NVERB | t R E" n s a v a' t
+tranchées-abris | NVERB | t R a~" S e z a b R i'
+trench-coat | NVERB | t R E" n S k o' t
+trente-deux | NVERB | t R a~" t d 2'
+trente-et-quarante | NVERB | t R a~" t E k a R a~' t
+trente-huit | NVERB | t R a~" t H i' t
+trente-quatre | NVERB | t R a~" t k a' t R
+trente-sept | NVERB | t R a~" t s E' t
+trente-six | NVERB | t R a~" t s i' s
+trente-trois | NVERB | t R a~" t t R w a'
+tribo-électricité | NVERB | t R i" b o e l E k t R i s i t e'
+tribo-électrique | NVERB | t R i" b o e l E k t R i' k
+trois-huit | NVERB | t R w a" z H i' t
+trois-mâts | NVERB | t R w a" m a'
+trois-points | NVERB | t R w a" p w e~'
+trois-quarts | NVERB | t R w a" k a' R
+trois-quatre | NVERB | t R w a" k a' t R
+trois-six | NVERB | t R w a" s i' s
+trois-étoiles | NVERB | t R w a" z e t w a' l
+trompe-la-mort | NVERB | t R o~" p l a m O' R
+trompette-de-la-mort | NVERB | t R o~" p E t d @ l a m O' R
+trompette-des-morts | NVERB | t R o~" p E t d e m O' R
+trompettes-des-morts | NVERB | t R o~" p E t d e m O' R
+trop-perçu | NVERB | t R O" p E R s y'
+trop-perçus | NVERB | t R O" p E R s y'
+trop-plein | NVERB | t R O" p l e~'
+trop-pleins | NVERB | t R O" p l e~'
+trouble-fête | NVERB | t R u" b l @ f E' t
+tsoin-tsoin | NVERB | t s w e~" t s w e~'
+tsouin-tsouin | NVERB | t s w e~" t s w e~'
+tue-loup | NVERB | t y" l u'
+tue-mouche | NVERB | t y" m u' S
+tue-mouches | NVERB | t y" m u' S
+turbo-alternateur | NVERB | t y" R b o a l t E R n a t 9' R
+turbo-train | NVERB | t y" R b o t R e~'
+turco-mongol | NVERB | t y" R k o m o~ g O' l
+turco-persan | NVERB | t y" R k o p E R s a~'
+tâte-vin | NVERB | t a" t v e~'
+tête-de-clou | NVERB | t E" t d @ k l u'
+tête-de-loup | NVERB | t E" t d @ l u'
+tête-de-maure | NVERB | t E" t d @ m o' R
+tête-de-moineau | NVERB | t E" t d @ m w a n o'
+tête-de-mort | NVERB | t E" t d @ m O' R
+tête-de-nègre | NVERB | t E" t d @ n E' g R
+tête-à-queue | NVERB | t E" t a k 2'
+tête-à-tête | NVERB | t E" t a t E' t
+têtes-de-clou | NVERB | t E" t d @ k l u'
+têtes-de-loup | NVERB | t E" t d @ l u'
+ultra-chic | NVERB | y" l t R a S i' k
+ultra-court | NVERB | y" l t R a k u' R
+ultra-petit | NVERB | y" l t R a p @ t i'
+ultra-petite | NVERB | y" l t R a p @ t i' t
+ultra-petites | NVERB | y" l t R a p @ t i' t
+ultra-petits | NVERB | y" l t R a p @ t i'
+ultra-pression | NVERB | y" l t R a p R E s j o~'
+ultra-royaliste | NVERB | y" l t R a R w a j a l i' s t
+ultra-sensible | NVERB | y" l t R a s a~ s i' b l
+ultra-son | NVERB | y" l t R a s o~'
+ultra-sonique | NVERB | y" l t R a s O n i' k
+ultra-violet | NVERB | y" l t R a v j O l E'
+uro-génital | NVERB | y" R o Z e n i t a' l
+uro-génitale | NVERB | y" R o Z e n i t a' l
+uro-génitaux | NVERB | y" R o Z e n i t o'
+va-et-vient | NVERB | v a" E v j e~'
+va-nu-pieds | NVERB | v a" n y p j e'
+va-tout | NVERB | v a" t u'
+vade-mecum | NVERB | v a" d E m e k O' m
+valences-grammes | NVERB | v a" l a~ s g R a' m
+vaso-constricteur | NVERB | v a" z o k o~ s t R i k t 9' R
+vaso-constriction | NVERB | v a" z o k o~ s t R i k s j o~'
+vaso-dilatateur | NVERB | v a" z o d i l a t a t 9' R
+vaso-dilatation | NVERB | v a" z o d i l a t a s j o~'
+vaso-moteur | NVERB | v a" z o m O t 9' R
+vaso-motrice | NVERB | v a" z o m O t R i' s
+ventre-de-biche | NVERB | v a~" t R @ d @ b i' S
+vert-de-gris | NVERB | v E" R d @ g R i'
+vert-de-grisé | NVERB | v E" R d @ g R i z e'
+vert-de-grisée | NVERB | v E" R d @ g R i z e'
+vert-de-grisées | NVERB | v E" R d @ g R i z e'
+vert-de-grisés | NVERB | v E" R d @ g R i z e'
+vesse-de-loup | NVERB | v E" s d @ l u'
+vesses-de-loup | NVERB | v E" s d @ l u'
+vice-amiral | NVERB | v i" s a m i R a' l
+vice-amiraux | NVERB | v i" s a m i R o'
+vice-chancelier | NVERB | v i" s S a~ s @ l j e'
+vice-présidence | NVERB | v i" s p R e z i d a~' s
+vice-président | NVERB | v i" s p R e z i d a~'
+vice-présidente | NVERB | v i" s p R e z i d a~' t
+vice-présidentes | NVERB | v i" s p R e z i d a~' t
+vice-présidents | NVERB | v i" s p R e z i d a~'
+vide-bouteille | NVERB | v i" d b u t E' j
+vide-bouteilles | NVERB | v i" d b u t E' j
+vide-cave | NVERB | v i" d k a' v
+vide-gousset | NVERB | v i" d g u s E'
+vide-ordures | NVERB | v i" d O R d y' R
+vide-poches | NVERB | v i" d p O' S
+vide-pomme | NVERB | v i" d p O' m
+vifs-argents | NVERB | v i" f z a R Z a~'
+ville-dortoir | NVERB | v i" l d O R t w a' R
+villes-dortoirs | NVERB | v i" l d O R t w a' R
+vingt-cinq | NVERB | v e~" t s e~' k
+vingt-deux | NVERB | v e~" t d 2'
+vingt-huit | NVERB | v e~" t H i' t
+vingt-neuf | NVERB | v e~" t n 9' f
+vingt-quatre | NVERB | v e~" t k a' t R
+vingt-sept | NVERB | v e~" t s E' t
+vingt-six | NVERB | v e~" t s i' s
+vingt-trois | NVERB | v e~" t t R w a'
+vis-à-vis | NVERB | v i" z a v i'
+vives-eaux | NVERB | v i" v z o'
+voitures-restaurants | NVERB | v w a" t y R R E s t o R a~'
+volte-face | NVERB | v O" l t @ f a' s
+volte-faces | NVERB | v O" l t @ f a' s
+wagon-bar | NVERB | v a" g o~ b a' R
+wagon-citerne | NVERB | v a" g o~ s i t E' R n
+wagon-foudre | NVERB | v a" g o~ f u' d R
+wagon-lit | NVERB | v a" g o~ l i'
+wagon-poste | NVERB | v a" g o~ p O' s t
+wagon-restaurant | NVERB | v a" g o~ R E s t o R a~'
+wagon-réservoir | NVERB | v a" g o~ R e z E R v w a' R
+wagon-salon | NVERB | v a" g o~ s a l o~'
+wagon-tombereau | NVERB | v a" g o~ t o~ b R o'
+wagon-trémie | NVERB | v a" g o~ t R e m i'
+wagon-vanne | NVERB | v a" g o~ v a' n
+wagons-bars | NVERB | v a" g o~ b a' R
+wagons-citernes | NVERB | v a" g o~ s i t E' R n
+wagons-foudres | NVERB | v a" g o~ f u' d R
+wagons-lits | NVERB | v a" g o~ l i'
+wagons-poste | NVERB | v a" g o~ p O' s t
+wagons-restaurants | NVERB | v a" g o~ R E s t o R a~'
+wagons-réservoirs | NVERB | v a" g o~ R e z E R v w a' R
+wagons-salons | NVERB | v a" g o~ s a l o~'
+wagons-tombereaux | NVERB | v a" g o~ t o~ b R o'
+wagons-trémies | NVERB | v a" g o~ t R e m i'
+wagons-vannes | NVERB | v a" g o~ v a' n
+walk-over | NVERB | w o" l k o v 9' R
+week-end | NVERB | w i" k E' n d
+week-ends | NVERB | w i" k E' n d
+white-spirit | NVERB | w a" j t s p i R i' t
+yacht-club | NVERB | j O" t k l 9' b
+yacht-clubs | NVERB | j O" t k l 9' b
+ylang-ylang | NVERB | i" l a~ i l a~'
+ylangs-ylangs | NVERB | i" l a~ i l a~'
+yo-yo | NVERB | j o" j o'
+à-coup | NVERB | a" k u'
+à-coups | NVERB | a" k u'
+à-côté | NVERB | a" k o t e'
+à-côtés | NVERB | a" k o t e'
+à-peu-près | NVERB | a" p 2 p R E'
+à-pic | NVERB | a" p i' k
+à-propos | NVERB | a" p R O p o'
+électro-acoustique | NVERB | e" l E k t R o a k u s t i' k
+électro-encéphalogramme | NVERB | e" l E k t R o a~ s e f a l O g R a' m
+électron-volt | NVERB | e" l E k t R o~ v O' l t
+épaulé-jeté | NVERB | e" p o l e Z @ t e'
+épaulés-jetés | NVERB | e" p o l e Z @ t e'
+épines-vinettes | NVERB | e" p i n v i n E' t
+états-unis | NVERB | e" t a z y n i'
+éther-sel | NVERB | e" t E R s E' l
+
+# ###############################################################################
+# Words coming from ..\Src\Phonetizer\Databases\French.Phonetizer.ExceptionDic
+
+~               | PAUSE       | _
+
+# FRENCH WORDS WITHOUT STRESS
+
+le              | DET         | l @
+la              | DET         | l a
+les             | DET         | l e
+au              | DETPREP     | o
+du              | DETPREP     | d y
+des             | DETPREP     | d e
+mon             | DET         | m o~
+ton             | DET         | t o~
+son             | DET         | s o~
+ma              | DET         | m a
+ta              | DET         | t a
+sa              | DET         | s a
+mes             | DET         | m e
+tes             | DET         | t e
+ses             | DET         | s e
+notre           | DET         | n O t R
+votre           | DET         | v O t R
+leur            | DET         | l 9 R
+nos             | DET         | n o
+vos             | DET         | v o
+leurs           | DET         | l 9 R
+ce              | DET         | s @
+cet             | DET         | s e
+cette           | DET         | s e t
+ces             | DET         | s e
+aucun           | DETIND      | o k 9~
+aucune          | DETIND      | o k y n
+certain         | DETIND      | s E R t e~
+certains        | DETIND      | s E R t e~
+certaine        | DETIND      | s E R t E n
+certaines       | DETIND      | s E R t E n
+chaque          | DETIND      | S a k
+des             | DETIND      | d e
+différents      | DETIND      | d i f e R a~
+différentes     | DETIND      | d i f e R a~ t
+divers          | DETIND      | d i v E R
+diverses        | DETIND      | d i v E R s
+maint           | DETIND      | m e~
+maints          | DETIND      | m e~
+mainte          | DETIND      | m e~ t
+maintes         | DETIND      | m e~ t
+nul             | DETIND      | n y l
+nuls            | DETIND      | n y l
+nulle           | DETIND      | n y l
+nulles          | DETIND      | n y l
+plusieurs       | DETIND      | p l y z j 9 R
+quelqu'         | DETIND      | k E l k
+quelque         | DETIND      | k E l k
+quelques        | DETIND      | k E l k
+tel             | DETIND      | t E l
+tels            | DETIND      | t E l
+telle           | DETIND      | t E l
+telles          | DETIND      | t E l
+tout            | DETIND      | t u
+tous            | DETIND      | t u
+toute           | DETIND      | t u t
+toutes          | DETIND      | t u t
+un              | DETIND      | 9~
+une             | DETIND      | y n
+je              | PRONPERSJ   | Z @
+tu              | PRONPERSJ   | t y
+il              | PRONPERSJ   | i l
+on              | PRONPERSJ   | o~
+ils             | PRONPERSJ   | i l
+ne              | ADVN        | n @
+ai              | AUX         | e
+as              | AUX         | a
+a               | AUX         | a
+avons           | AUX         | a v o~
+avez            | AUX         | a v e
+ont             | AUX         | o~
+avais           | AUX         | a v E
+avait           | AUX         | a v E
+avions          | AUX         | a v j o~
+aviez           | AUX         | a v j e
+avaient         | AUX         | a v E
+aurai           | AUX         | o R e
+auras           | AUX         | o R a
+aura            | AUX         | o R a
+aurons          | AUX         | o R o~
+aurez           | AUX         | o R e
+auront          | AUX         | o R o~
+eus             | AUX         | y
+eut             | AUX         | y
+eûmes           | AUX         | y m
+eûtes           | AUX         | y t
+eurent          | AUX         | y R
+suis            | PRED        | s H i
+es              | PRED        | e
+est             | PRED        | e
+sommes          | PRED        | s O m
+êtes            | PRED        | E t
+sont            | PRED        | s o~
+étais           | PRED        | e t E
+était           | PRED        | e t E
+étions          | PRED        | e t j o~
+étiez           | PRED        | e t j e
+étaient         | PRED        | e t E
+serai           | PRED        | s @ R e
+seras           | PRED        | s @ R a
+sera            | PRED        | s @ R a
+serons          | PRED        | s @ R o~
+serez           | PRED        | s @ R e
+seront          | PRED        | s @ R o~
+fus             | PRED        | f y
+fut             | PRED        | f y
+fûmes           | PRED        | f y m
+fûtes           | PRED        | f y t
+furent          | PRED        | f y R
+billiard        | GNUNDEFINED | b i l j a R
+billiards       | GNUNDEFINED | b i l j a R
+oyez            | VERB        | O j e
+
+# TRUE PHONETIZER EXCEPTIONS
+
+plus            | ADVN        | p l y'
+plus            | ADVDEG      | p l y' s
+tous            | PRONIND     | t u' s
+chardonnay      | GNUNDEFINED | S a" R d O n E'
+chelem          | GNUNDEFINED | S l E' m
+schelem         | GNUNDEFINED | S l E' m
+chef-d'oeuvre   | GNUNDEFINED | S E" f d 9' v R
+chef-d'oeuvres  | GNUNDEFINED | S E" f d 9' v R
+fan             | GNUNDEFINED | f a' n
+fans            | GNUNDEFINED | f a' n
+peut-être       | GNUNDEFINED | p 2" t E' t R
+stats           | GNUNDEFINED | s t a' t
+chut            | INTERJ      | S y t
+accros          | GNUNDEFINED | a k R O
+y               | PRONPERCI   | i
+quatre-vingt    | NUM         | k a t R @ v e~
+info            | NOUN        | e~" f O'
+infos           | NOUN        | e~" f O'
+etcaetera       | ADV         | E" t s e t e R a'
+
+# NO PART OF SPEECH
+
+bang            | INTERJ      | b a' N
+coke            | GNUNDEFINED | k o' k
+schmilblic      | GNUNDEFINED | S m i" l b l i' k
+croque-monsieur | GNUNDEFINED | k R O" k m @ s j 2'
+cuiller         | GNUNDEFINED | k H i" j E' R
+cuillers        | GNUNDEFINED | k H i" j E' R
+duces           | GNUNDEFINED | d u" t S e'
+ex-libris       | GNUNDEFINED | E" k s l i b R i' s
+farniente       | GNUNDEFINED | f a" R n j E n t e'
+farnientes      | GNUNDEFINED | f a" R n j E n t e'
+fez             | GNUNDEFINED | f E' z
+gars            | GNUNDEFINED | g a'
+gestapo         | GNUNDEFINED | g E" s t a p o'
+gestapos        | GNUNDEFINED | g E" s t a p o'
+gujaratis       | GNUNDEFINED | g u" d Z a R a t i'
+guérillero      | GNUNDEFINED | g e" R i j e R o'
+guérilleros     | GNUNDEFINED | g e" R i j e R o'
+ibéris          | GNUNDEFINED | i" b e R i' s
+internet        | GNUNDEFINED | e~" t E R n E' t
+jerricane       | GNUNDEFINED | Z E" R i k a' n
+kaiser          | GNUNDEFINED | k a" j z 9' R
+kaisers         | GNUNDEFINED | k a" j z 9' R
+koumis          | GNUNDEFINED | k u" m i' s
+kouros          | GNUNDEFINED | k u" R o' s
+lancers         | GNUNDEFINED | l a~" s e'
+loris           | GNUNDEFINED | l O" R i' s
+messieurs       | GNUNDEFINED | m e" s j 2'
+millas          | GNUNDEFINED | m i" j a' s
+minuit          | GNUNDEFINED | m i" n H i'
+monsieur        | GNUNDEFINED | m @" s j 2'
+mérinos         | GNUNDEFINED | m e" R i n o' s
+nabis           | GNUNDEFINED | n a" b i'
+nimbus          | GNUNDEFINED | n e~" b y' s
+nurseries       | GNUNDEFINED | n 9" R s @ R i'
+oestrus         | GNUNDEFINED | E" s t R y' s
+orchis          | GNUNDEFINED | O" R k i' s
+paros           | GNUNDEFINED | p a" R O' s
+piano-forte     | GNUNDEFINED | p j a" n o f O R t e'
+picris          | GNUNDEFINED | p i" k R i' s
+pinson          | GNUNDEFINED | p e~" s o~'
+processus       | GNUNDEFINED | p R O" s e s y' s
+propolis        | GNUNDEFINED | p R O" p O l i' s
+prêt-à-porter   | GNUNDEFINED | p R E" t a p O R t e'
+quadrant        | GNUNDEFINED | k a" d R a~'
+quadrants       | GNUNDEFINED | k a" d R a~'
+sauris          | GNUNDEFINED | s o" R i'
+succinctement   | GNUNDEFINED | s y" k s e~ t m a~'
+swahilis        | GNUNDEFINED | s w a" i l i'
+synopsis        | GNUNDEFINED | s i" n O p s i'
+tamaris         | GNUNDEFINED | t a" m a R i' s
+ticket          | GNUNDEFINED | t i" k E'
+tickets         | GNUNDEFINED | t i" k E'
+tournevis       | GNUNDEFINED | t u" R n @ v i' s
+tranquille      | GNUNDEFINED | t R a~" k i' l
+tranquilles     | GNUNDEFINED | t R a~" k i' l
+tribus          | GNUNDEFINED | t R i" b y'
+vingt           | GNUNDEFINED | v e~' t
+vingts          | GNUNDEFINED | v e~' t
+
+# FOREIGN
+
+aftershave      | GNUNDEFINED | a" f t 9 R S E' v
+blues           | GNUNDEFINED | b l u' z
+beat            | GNUNDEFINED | b i' t
+by              | GNUNDEFINED | b a' j
+charleston      | GNUNDEFINED | S a" R l E s t O' n
+charlestons     | GNUNDEFINED | S a" R l E s t O' n
+com             | GNUNDEFINED | k O' m
+cottage         | GNUNDEFINED | k O" t E' d Z
+cottages        | GNUNDEFINED | k O" t E' d Z
+discount        | GNUNDEFINED | d i" s k u' n t
+draglines       | GNUNDEFINED | d R a" g l a' j n z
+duces           | GNUNDEFINED | d u" t S e'
+eLite           | GNUNDEFINED | i" l a' j t
+e-mail          | GNUNDEFINED | i" m E' l
+email           | GNUNDEFINED | i" m E' l
+e-mails         | GNUNDEFINED | i" m E' l
+emails          | GNUNDEFINED | i" m E' l
+establishment   | GNUNDEFINED | E" s t a b l i S m E' n t
+eyes            | GNUNDEFINED | a' j z
+groove          | GNUNDEFINED | g R u' v
+group           | GNUNDEFINED | g R u' p
+impeachment     | GNUNDEFINED | i" m p i t S m E' n t
+ladies          | GNUNDEFINED | l E" d i' z
+login           | GNUNDEFINED | l O" g i' n
+mail            | GNUNDEFINED | m E' l
+mails           | GNUNDEFINED | m E' l
+manager         | GNUNDEFINED | m a" n a d Z 9' R
+managers        | GNUNDEFINED | m a" n a d Z 9' R
+night           | GNUNDEFINED | n a' j t
+peppermint      | GNUNDEFINED | p e" p 9 R m i' n t
+pickles         | GNUNDEFINED | p i" k 9' l s
+rancher         | GNUNDEFINED | R a~" t S 9' R
+ranchers        | GNUNDEFINED | R a~" t S 9' R
+riser           | GNUNDEFINED | R a" j z 9' R
+self-government | GNUNDEFINED | s E" l f g O v E R n m E' n t
+shunt           | GNUNDEFINED | S 9' n t
+single          | GNUNDEFINED | s i" n g 9' l
+skippers        | GNUNDEFINED | s k i" p E' R
+sprint          | GNUNDEFINED | s p R i' n t
+stayer          | GNUNDEFINED | s t E" j 9' R
+stiple          | GNUNDEFINED | s t i" p 9' l
+t-shirt         | GNUNDEFINED | t i" S 9' R t
+tennisman       | GNUNDEFINED | t E" n i z m a' n
+thriller        | GNUNDEFINED | t R i" l 9' R
+thrillers       | GNUNDEFINED | t R i" l 9' R
+tuner           | GNUNDEFINED | t y" n 9' R
+workshop        | GNUNDEFINED | w 9" R k S O' p
+web             | GNUNDEFINED | w E' b
+urbi            | FOREIGN     | u" R b i'
+et              | FOREIGN     | E' t
+orbi            | FOREIGN     | O" R b i'
+de              | FOREIGN     | d e'
+facto           | FOREIGN     | f a" k t o'
+and             | FOREIGN     | E' n d
+dolce           | FOREIGN     | d O" l t S e'
+vita            | FOREIGN     | v i" t a'
+statu           | FOREIGN     | s t a" t y'
+quo             | FOREIGN     | k w o'
+ad              | FOREIGN     | a' d
+hoc             | FOREIGN     | O' k
+las             | FOREIGN     | l a' s
+vegas           | FOREIGN     | v e" g a' s
+los             | FOREIGN     | l O' s
+angeles         | FOREIGN     | a" n Z @ l E' s
+san             | FOREIGN     | s a' n
+francisco       | FOREIGN     | f R a" n s i s k o'
+new             | FOREIGN     | n u' w
+york            | FOREIGN     | j O' R k
+tbilissi        | FOREIGN     | t b i" l i s i'
+minsk           | FOREIGN     | m i' n s k
+ickx            | FOREIGN     | i' k s
+lounge          | FOREIGN     | l O w n Z
+hard            | FOREIGN     | a' R d
+heavy           | FOREIGN     | e" v i'
+cheese          | FOREIGN     | t S i' z
+cheeseburger    | FOREIGN     | t S i" z b 9 R g 9' R
+cheeseburgers   | FOREIGN     | t S i" z b 9 R g 9' R
+cheap           | FOREIGN     | t S i' p
+kebab           | FOREIGN     | k e" b a' b
+choke           | FOREIGN     | S o' k
+chnoque         | FOREIGN     | S n O' k
+schnock         | FOREIGN     | S n O' k
+chnouf          | FOREIGN     | S n u' f
+schnouf         | FOREIGN     | S n u' f
+skate           | FOREIGN     | s k E' t
+skateboard      | FOREIGN     | s k E" t b O' R d
+skating         | FOREIGN     | s k e" t i' N
+roller          | FOREIGN     | R O" l 9' R
+high-tech       | FOREIGN     | a" j t E' k
+flow            | FOREIGN     | f l O' w
+Hmmm            | FOREIGN     | m m m m m
+wall            | FOREIGN     | w o l
+street          | FOREIGN     | s t R i t
+rome            | GNUNDEFINED | R O' m
+klux            | FOREIGN     | k l y k s
+serial          | GNUNDEFINED | s e R j a l
+killer          | GNUNDEFINED | k i l @ R
+columbia        | GNUNDEFINED | k O l u m b j a
+challenger      | GNUNDEFINED | S a l E n Z @ R
+atlantis        | GNUNDEFINED | a t l a~ t i s
+discovery       | GNUNDEFINED | d i s k O v @ R i
+enterprise      | GNUNDEFINED | E n t @ R p R a j z
+blog            | FOREIGN     | b l O g
+blogs           | FOREIGN     | b l O g
+blogueur        | FOREIGN     | b l O g @ R
+blogueurs       | FOREIGN     | b l O g @ R
+blogueuse       | FOREIGN     | b l O g 2 s
+blogueuses      | FOREIGN     | b l O g 2 s
+blogsphère      | FOREIGN     | b l O g s f E R
+blogsphères     | FOREIGN     | b l O g s f E R
+webzine         | GNUNDEFINED | w E b z i n
+webzines        | GNUNDEFINED | w E b z i n
+armageddon      | GNUNDEFINED | a R m a g e d o~
+
+# ABBREV
+bcp             | GNUNDEFINED | b o" k u'
+càd             | GNUNDEFINED | s E" t a d i' R
+cad             | GNUNDEFINED | s E" t a d i' R
+çad             | GNUNDEFINED | s E" t a d i' R
+etc             | GNUNDEFINED | E" t s e t E R a'
+mr              | GNUNDEFINED | m @" s j 2'
+mme             | GNUNDEFINED | m a" d a' m
+mlle            | GNUNDEFINED | m a" d m w a z E' l
+n°              | GNUNDEFINED | n y" m e R o'
+qq              | GNUNDEFINED | k E' l k
+qqes            | GNUNDEFINED | k E' l k
+rdv             | GNUNDEFINED | R a~" d e v u'
+tb              | GNUNDEFINED | t R e" b j e~'
+urls            | GNUNDEFINED | y" E R E' l
+www             | GNUNDEFINED | t R w a" d u b l @ v e'
+nuu             | GNUNDEFINED | E" n y y'
+vip             | GNUNDEFINED | v i" a j p i'
+adeps           | GNUNDEFINED | a" d E' p s
+ascii           | GNUNDEFINED | a" s k i'
+ansi            | GNUNDEFINED | a" n s i'
+cee             | GNUNDEFINED | s e" e e'
+pmu             | GNUNDEFINED | p e" E m y'
+fbi             | GNUNDEFINED | E f b i a j
+
+# SYMBOLS
+
+##              | SYMBOL      | d j E' z
+$               | SYMBOL      | d O" l a' R
+%               | SYMBOL      | p u" R s a~'
+&               | SYMBOL      | e'
+*               | SYMBOL      | e" t w a' l
++               | SYMBOL      | p l y' s
+/               | SYMBOL      | s l a' S
+<               | SYMBOL      | E" p l y p @ t i k @'
+=               | SYMBOL      | e" g a' l
+>               | SYMBOL      | E" p l y g R a~ k @'
+@               | SYMBOL      | a' t
+\               | SYMBOL      | b a" k s l a' S
+^               | SYMBOL      | a" k s a~ s i R k o~ f l E' k s
+_               | SYMBOL      | s u" l i n j e'
+~               | SYMBOL      | t i" l d a'
+€               | SYMBOL      | 2" R O'
+ˆ               | SYMBOL      | a" k s a~ s i R k o~ f l E' k s
+‰               | SYMBOL      | p u" R m i' l
+‹               | SYMBOL      | E" p l y p @ t i k @'
+˜               | SYMBOL      | t i" l d a'
+™               | SYMBOL      | m a" R k @ d e p o s e'
+›               | SYMBOL      | E" p l y g R a~ k @'
+¢               | SYMBOL      | s E' n t
+£               | SYMBOL      | l i' v R
+¥               | SYMBOL      | j E' n
+§               | SYMBOL      | p a" R a g R a' f
+¨               | SYMBOL      | t R e" m a'
+©               | SYMBOL      | k O" p i R a' j t
+ª               | SYMBOL      | e~" d i s a'
+®               | SYMBOL      | R e" s E R v e'
+°               | SYMBOL      | d @" g R e'
+±               | SYMBOL      | p l y" z u m j e~'
+²               | SYMBOL      | k a" R e'
+³               | SYMBOL      | k y' b
+µ               | SYMBOL      | m y'
+¹               | SYMBOL      | E" k s p o s a~ 9~'
+º               | SYMBOL      | e~" d i s O'
+¼               | SYMBOL      | 9~" k a' R
+½               | SYMBOL      | 9~" d @ m i'
+¾               | SYMBOL      | t R w a" k a' R
+×               | SYMBOL      | f w a'
+÷               | SYMBOL      | d i" v i s e p a' R
+
+# WHENEVER USED IN AN HTTP ADDRESS OR SOMETHING ALIKE
+
+//              | GNUNDEFINED | s l a" S s l a' S
+!               | GNUNDEFINED | p w e~" d E k s k l a m a s j o~'
+"               | GNUNDEFINED | g i" j @ m e'
+'               | GNUNDEFINED | a" p O s t R O' f
+(               | GNUNDEFINED | u" v R e l a p a R a~ t E' z
+)               | GNUNDEFINED | f E" R m e l a p a R a~ t E' z
+,               | GNUNDEFINED | v i" R g y' l
+-               | GNUNDEFINED | t i" R e'
+.               | GNUNDEFINED | p w e~'
+:               | GNUNDEFINED | d 2" p w e~'
+;               | GNUNDEFINED | p w e~" v i R g y' l
+?               | GNUNDEFINED | p w e~" d e~ t E R O g a s j o~'
+[               | GNUNDEFINED | k R O" S e u v R a~'
+]               | GNUNDEFINED | k R O" S e f E R m a~'
+`               | GNUNDEFINED | k w O' t
+{               | GNUNDEFINED | a" k O l a d u v R a~' t
+}               | GNUNDEFINED | a" k O l a d f E R m a~' t
+‚               | GNUNDEFINED | k w O' t
+„               | GNUNDEFINED | f E" R m e l e g i j @ m e'
+‘               | GNUNDEFINED | k w O' t
+’               | GNUNDEFINED | k w O' t
+“               | GNUNDEFINED | u" v R e l e g i j @ m e'
+”               | GNUNDEFINED | f E" R m e l e g i j @ m e'
+–               | GNUNDEFINED | t i" R e'
+—               | GNUNDEFINED | t i" R e'
+«               | GNUNDEFINED | u" v R e l e g i j @ m e'
+­               | GNUNDEFINED | t i" R e'
+´               | GNUNDEFINED | k w O' t
+»               | GNUNDEFINED | f E" R m e l e g i j @ m e'
+\#              | GNUNDEFINED | d j E' z
+\|              | GNUNDEFINED | b a" R v E R t i k a' l
+
+# WHEN IT IS A TRUE PUNCTUATION
+
+!               | EXCLMARK    | _
+"               | GUILLEMET   | _
+'               | GUILLEMET   | _
+(               | PAROUV      | _
+)               | PARFER      | _
+,               | LIGHTPUNCT  | _
+-               | GUILLEMET   | _
+.               | ENDPUNCT    | _
+:               | MEDIUMPUNCT | _
+;               | MEDIUMPUNCT | _
+?               | INTMARK     | _
+[               | PAROUV      | _
+]               | PARFER      | _
+`               | GUILLEMET   | _
+{               | PAROUV      | _
+}               | PARFER      | _
+‚               | GUILLEMET   | _
+„               | GUILLEMET   | _
+…               | ENDPUNCT    | _
+...             | ENDPUNCT    | _
+‘               | GUILLEMET   | _
+’               | GUILLEMET   | _
+“               | GUILLEMET   | _
+”               | GUILLEMET   | _
+–               | GUILLEMET   | _
+—               | GUILLEMET   | _
+«               | GUILLEMET   | _
+­               | GUILLEMET   | _
+´               | GUILLEMET   | _
+»               | GUILLEMET   | _
+
+# FIRST AND LAST NAMES
+
+Achille         | PROPERNAME  | a" S i' l
+Achilles        | PROPERNAME  | a" S i' l
+Adam            | PROPERNAME  | a" d a~'
+Adrian          | PROPERNAME  | a" d R i a' n
+Agnès           | PROPERNAME  | a" n j E' s
+Allan           | PROPERNAME  | a" l a' n
+Alanis          | PROPERNAME  | a" l a n i' s
+Aloïs           | PROPERNAME  | a" l O i' s
+Anaïs           | PROPERNAME  | a" n a i' s
+Andy            | PROPERNAME  | a" n d i'
+Angela          | PROPERNAME  | a" n Z E l a'
+Anja            | PROPERNAME  | a" n j a'
+Arantxa         | PROPERNAME  | a" R a n t S a'
+Astrid          | PROPERNAME  | a" s t R i' d
+Ayrton          | PROPERNAME  | a" E R t o~'
+Bach            | PROPERNAME  | b a' k
+Baris           | PROPERNAME  | b a" R i' S
+Benyamin        | PROPERNAME  | b E" n j a m i' n
+Bill            | PROPERNAME  | b i' l
+Billie          | PROPERNAME  | b i" l i'
+Billy           | PROPERNAME  | b i" l i'
+Bixente         | PROPERNAME  | b i" R E n t e'
+Bjorn           | PROPERNAME  | b j O' R n
+Boris           | PROPERNAME  | b O" R i' s
+Bridget         | PROPERNAME  | b R i" d Z E' t
+Candys          | PROPERNAME  | k a~" d i' s
+Carlos          | PROPERNAME  | k a" R l O' s
+Cheryl          | PROPERNAME  | S E" R i' l
+Chirac          | PROPERNAME  | S i" R a' k
+Chris           | PROPERNAME  | k R i' s
+Ciara           | PROPERNAME  | k j a" R a'
+Cindy           | PROPERNAME  | s i" n d i'
+Claus           | PROPERNAME  | k l o' s
+Clint           | PROPERNAME  | k l i' n t
+Clinton         | PROPERNAME  | k l i" n t O' n
+Clothilde       | PROPERNAME  | k l O" t i' l d
+Clovis          | PROPERNAME  | k l O" v i' s
+Conchita        | PROPERNAME  | k O" n S i t a'
+Curt            | PROPERNAME  | k y' R t
+Dan             | PROPERNAME  | d a' n
+Darren          | PROPERNAME  | d a" R E' n
+Dave            | PROPERNAME  | d E' v
+Davis           | PROPERNAME  | d e" v i' s
+Debbie          | PROPERNAME  | d e" b i'
+Debra           | PROPERNAME  | d e" b R a'
+Denis           | PROPERNAME  | d @" n i'
+Denise          | PROPERNAME  | d @" n i' z
+Dennis          | PROPERNAME  | d @" n i'
+Denyse          | PROPERNAME  | d @" n i' z
+Diego           | PROPERNAME  | d j e" g O'
+Dolores         | PROPERNAME  | d O" l O R E' s
+Don             | PROPERNAME  | d O' n
+Doris           | PROPERNAME  | d O" R i' s
+Dylan           | PROPERNAME  | d i" l a' n
+Déborah         | PROPERNAME  | d e" b O R a'
+Edgard          | PROPERNAME  | E" d g a' R
+Edmée           | PROPERNAME  | E" d m e'
+Edmond          | PROPERNAME  | E" d m o~'
+Edwige          | PROPERNAME  | E" d w i' Z
+elke            | PROPERNAME  | E' l k
+éloïse          | PROPERNAME  | e" l O i' z
+Emma            | PROPERNAME  | E" m a'
+Emmanuelle      | PROPERNAME  | E" m a n y E' l
+Emmanuel        | PROPERNAME  | E" m a n y E' l
+Enya            | PROPERNAME  | e" n j a'
+Enzo            | PROPERNAME  | E" n z O'
+Erin            | PROPERNAME  | e" R i' n
+Erhan           | PROPERNAME  | e" R a' n
+Erwan           | PROPERNAME  | E" R w a' n
+Esteban         | PROPERNAME  | E" s t e b a' n
+Ethan           | PROPERNAME  | e" t a' n
+évelyne         | PROPERNAME  | e" v l i' n
+Frank           | PROPERNAME  | f R a~' k
+Franz           | PROPERNAME  | f R a' n s
+Fred            | PROPERNAME  | f R E' d
+Gabriel         | PROPERNAME  | g a" b R i E' l
+Gaël            | PROPERNAME  | g a" E' l
+Gaëlle          | PROPERNAME  | g a" E' l
+Gaëtan          | PROPERNAME  | g a" e t a~'
+Gaëtane         | PROPERNAME  | g a" e t a' n
+Ghislain        | PROPERNAME  | g i" l e~'
+Gillian         | PROPERNAME  | g i" l j a' n
+Ginger          | PROPERNAME  | d Z i" n d Z @' R
+Gladys          | PROPERNAME  | g l a" d i' s
+Godefroy        | PROPERNAME  | g O" d f R w a'
+Gordon          | PROPERNAME  | g O" R d O' n
+Greg            | PROPERNAME  | g R E' g
+Gregg           | PROPERNAME  | g R E' g
+Gréta           | PROPERNAME  | g R e" t a'
+Gudrun          | PROPERNAME  | g y" d R y' n
+Guy             | PROPERNAME  | g i
+Gwen            | PROPERNAME  | g w E' n
+Gwenaël         | PROPERNAME  | g w e" n a E' l
+Gwenaële        | PROPERNAME  | g w e" n a E' l
+Gwenaelle       | PROPERNAME  | g w e" n a E' l
+Gwendoline      | PROPERNAME  | g w E" n d O l i' n
+Helmut          | PROPERNAME  | E" l m u' t
+Hendrix         | PROPERNAME  | E" n d R i' k s
+Hilde           | PROPERNAME  | i" l d @'
+Hughes          | PROPERNAME  | y' g
+Ian             | PROPERNAME  | j a' n
+Inès            | PROPERNAME  | i" n E' s
+Inge            | PROPERNAME  | i" N g @'
+Ingo            | PROPERNAME  | i" N g O'
+Ingrid          | PROPERNAME  | i" N g R i' d
+Irvin           | PROPERNAME  | i" R v i' n
+Irvine          | PROPERNAME  | i" R v a' j n
+Ismaël          | PROPERNAME  | i" s m a E' l
+James           | PROPERNAME  | d Z e' m s
+Jan             | PROPERNAME  | j a' n
+Jane            | PROPERNAME  | d Z e' n
+Jay             | PROPERNAME  | d Z e'
+jean            | PROPERNAME  | Z a~'
+Jeff            | PROPERNAME  | d Z E' f
+Jelena          | PROPERNAME  | Z e" l e n a'
+Jenifer         | PROPERNAME  | Z e" n i f @' R
+Jens            | PROPERNAME  | j e' n s
+Isis            | PROPERNAME  | i" z i' s
+Jill            | PROPERNAME  | d Z i' l
+Jo              | PROPERNAME  | Z O'
+Joachim         | PROPERNAME  | j O" a k i' m
+Joan            | PROPERNAME  | d Z o' n
+Joe             | PROPERNAME  | d Z O'
+Joël            | PROPERNAME  | Z O" E' l
+Joëlle          | PROPERNAME  | Z O" E' l
+Johanes         | PROPERNAME  | j O" a n E' s
+Jon             | PROPERNAME  | d Z O' n
+Jonas           | PROPERNAME  | Z O" n a' s
+Josh            | PROPERNAME  | d Z O' S
+Joy             | PROPERNAME  | d Z O' j
+Juan            | PROPERNAME  | R w a' n
+Jurgen          | PROPERNAME  | j y" R g @' n
+Karen           | PROPERNAME  | k a" R E' n
+Karyn           | PROPERNAME  | k a" R i' n
+Kate            | PROPERNAME  | k e' t
+Keanu           | PROPERNAME  | k e" a n y'
+Kenza           | PROPERNAME  | k E" n z a'
+Kevin           | PROPERNAME  | k e" v i' n
+Kiefer          | PROPERNAME  | k i" f @' R
+Kimberley       | PROPERNAME  | k i" m b @ R l e'
+Klaus           | PROPERNAME  | k l o' s
+Kris            | PROPERNAME  | k R i' s
+Ladislas        | PROPERNAME  | l a" d i s l a' s
+Laeticia        | PROPERNAME  | l e" t i s j a'
+Laetitia        | PROPERNAME  | l e" t i s j a'
+Lars            | PROPERNAME  | l a' R s
+Laszlo          | PROPERNAME  | l a" z l O'
+Laureen         | PROPERNAME  | l o" R i' n
+Lauren          | PROPERNAME  | l o" R E' n
+Lee             | PROPERNAME  | l i'
+Leia            | PROPERNAME  | l e" a'
+Lenny           | PROPERNAME  | l e" n i'
+Léopold         | PROPERNAME  | l e" O p O' l
+Lesly           | PROPERNAME  | l E" s l i'
+Lewis           | PROPERNAME  | l e" w i' s
+Lindsay         | PROPERNAME  | l i" n s e'
+Lindsey         | PROPERNAME  | l i" n s e'
+Lio             | PROPERNAME  | l i" O'
+Liv             | PROPERNAME  | l i' v
+Lloyd           | PROPERNAME  | l O' j d
+Lorenz          | PROPERNAME  | l O" R E' n s
+Lorentz         | PROPERNAME  | l O" R E' n s
+Lorenzo         | PROPERNAME  | l O" R E n z O'
+Lou             | PROPERNAME  | l u'
+Luis            | PROPERNAME  | l w i' s
+Linda           | PROPERNAME  | l i" n d a'
+Madison         | PROPERNAME  | m a" d i z O' n
+Mae             | PROPERNAME  | m e'
+Maeva           | PROPERNAME  | m a" e v a'
+Manfred         | PROPERNAME  | m a" n f R E' d
+Margaret        | PROPERNAME  | m a" R g a R E' t
+Marieke         | PROPERNAME  | m a" R i k @'
+Marilyn         | PROPERNAME  | m a" R i l i' n
+Marx            | PROPERNAME  | m a' R k s
+Mason           | PROPERNAME  | m e" s @' n
+Mathilde        | PROPERNAME  | m a" t i' l d
+Mats            | PROPERNAME  | m a' t s
+Maud            | PROPERNAME  | m o' d
+Maureen         | PROPERNAME  | m o" R i' n
+May             | PROPERNAME  | m e'
+Matthew         | PROPERNAME  | m a" t j u' w
+Melvin          | PROPERNAME  | m E" l v i' n
+Mercédès        | PROPERNAME  | m E" R s e d E' s
+Mia             | PROPERNAME  | m i" a'
+Michaël         | PROPERNAME  | m i" k a E' l
+Mickaël         | PROPERNAME  | m i" k a E' l
+Milos           | PROPERNAME  | m i" l o' s
+Mohamed         | PROPERNAME  | m o" a m E' d
+Mohammed        | PROPERNAME  | m o" a m E' d
+Nacer           | PROPERNAME  | n a" s E' R
+Nastasja        | PROPERNAME  | n a" s t a z j a'
+Nguyen          | PROPERNAME  | E" n g H i j E' n
+Niels           | PROPERNAME  | n i' l s
+Nils            | PROPERNAME  | n i' l s
+Nolwen          | PROPERNAME  | n O" l w E' n
+Nolwenn         | PROPERNAME  | n O" l w E' n
+Oksana          | PROPERNAME  | O" k s a n a'
+Patsy           | PROPERNAME  | p a" t s i'
+Peter           | PROPERNAME  | p i" t @' R
+Petra           | PROPERNAME  | p e" t R a'
+Philéas         | PROPERNAME  | f i" l e a' s
+Phoebe          | PROPERNAME  | f e" b e'
+Pia             | PROPERNAME  | p j a'
+Piet            | PROPERNAME  | p i' t
+Pétronille      | PROPERNAME  | p e" t R o n i' j
+Quincy          | PROPERNAME  | k w i" n s i'
+Rafaelle        | PROPERNAME  | R a" f a E' l
+Rafaël          | PROPERNAME  | R a" f a E' l
+Raffael         | PROPERNAME  | R a" f a E' l
+Ramzy           | PROPERNAME  | R a" m z i'
+Raphaelle       | PROPERNAME  | R a" f a E' l
+Raphaël         | PROPERNAME  | R a" f a E' l
+Rebecca         | PROPERNAME  | R e" b e k a'
+Régis           | PROPERNAME  | R e" Z i' s
+Raymond         | PROPERNAME  | R e" m o~'
+Raymonde        | PROPERNAME  | R e" m o~' d
+Rod             | PROPERNAME  | R O' d
+Ron             | PROPERNAME  | R O' n
+Ruth            | PROPERNAME  | R u' s
+Ryan            | PROPERNAME  | R j a' n
+Schumacher      | PROPERNAME  | S u" m a k E' R
+Sean            | PROPERNAME  | S 9' n
+Siegfried       | PROPERNAME  | s i" g f R i' d
+Siegmund        | PROPERNAME  | s i" g m u' n d
+Siegrid         | PROPERNAME  | s i" g R i' d
+Sonja           | PROPERNAME  | s O" n j a'
+Stanislas       | PROPERNAME  | s t a" n i s l a' s
+Steve           | PROPERNAME  | s t i' v
+Steven          | PROPERNAME  | s t i" v @' n
+Sven            | PROPERNAME  | s v E' n
+Tatjana         | PROPERNAME  | t a" t j a n a'
+Tom             | PROPERNAME  | t O' m
+Ute             | PROPERNAME  | j u" t @'
+Vadim           | PROPERNAME  | v a" d i' m
+Warren          | PROPERNAME  | w a" R E' n
+Whitney         | PROPERNAME  | w i" t n e'
+Wilfried        | PROPERNAME  | w i" l f R i' d
+Will            | PROPERNAME  | w i' l
+Xena            | PROPERNAME  | g z e" n a'
+Descartes       | PROPERNAME  | d e" k a' R t
+Freud           | PROPERNAME  | f R 2' d
+Gates           | PROPERNAME  | g e' t s
+Einstein        | PROPERNAME  | E" n S t e~' j n
+Montfort        | PROPERNAME  | m o~" f O' R
+Alesi           | PROPERNAME  | a" l e z i'
+Sigmund         | PROPERNAME  | s i" g m u' n d
+Schweitzer      | PROPERNAME  | S w E" t z 9' R
+Spielberg       | PROPERNAME  | s p i" l b E' R g
+Lang            | PROPERNAME  | l a~' g
+Robespierre     | PROPERNAME  | R O" b E s p j E' R
+Dumas           | PROPERNAME  | d y" m a'
+Stein           | PROPERNAME  | s t E' j n
+Lewinsky        | PROPERNAME  | l e" w i n s k i'
+Dutoit          | PROPERNAME  | d y" t w a'
+John            | PROPERNAME  | d Z O' n
+Lea             | PROPERNAME  | l e a'
+Vincent         | PROPERNAME  | v e~ s a~'
+Thierry         | PROPERNAME  | t j E R i'
+Nelly           | GNUNDEFINED | n E l i
+
+# COUNTRIES
+
+Bahamas         | PROPERNAME  | b a" a m a' s
+Bangladesh      | PROPERNAME  | b a~" g l a d E' S
+Burundi         | PROPERNAME  | b u" R u n d i'
+Écosse          | PROPERNAME  | e" k O' s
+Groenland       | PROPERNAME  | g R O" E n l a' n d
+Guatemala       | PROPERNAME  | g w a" t e m a l a'
+Honduras        | PROPERNAME  | o~" d y R a' s
+Inde            | PROPERNAME  | e~' d
+Koweït          | PROPERNAME  | k O" w E' t
+Koweïtien       | PROPERNAME  | k O" w e t j e~'
+Koweïtienne     | PROPERNAME  | k O" w e t j E' n
+Laos            | PROPERNAME  | l a" O' s
+Liberia         | PROPERNAME  | l i" b e R j a'
+Libye           | PROPERNAME  | l i" b i'
+Liechtenstein   | PROPERNAME  | l i" S t @ n S t E' j n
+Nauru           | PROPERNAME  | n o" R u'
+Nicaragua       | PROPERNAME  | n i" k a R a g w a'
+Niger           | PROPERNAME  | n i" Z E' R
+Paraguay        | PROPERNAME  | p a" R a g w e'
+Seychelles      | PROPERNAME  | s e" S E' l
+Sri             | PROPERNAME  | s R i'
+Suède           | PROPERNAME  | s y" E' d
+Swaziland       | PROPERNAME  | s w a" z i l a' n d
+Taïwan          | PROPERNAME  | t a" j w a' n
+Tchad           | PROPERNAME  | t S a' d
+Uruguay         | PROPERNAME  | y" R y g w e'
+Vanuatu         | PROPERNAME  | v a" n u a t u'
+Viêt            | PROPERNAME  | v j E' t
+Yémen           | PROPERNAME  | j e" m E' n
+Zimbabwe        | PROPERNAME  | z i" m b a b w e'
+Belgium         | PROPERNAME  | b E" l Z j O' m
+Kirghizstan     | PROPERNAME  | k i R g i s t a~
+
+Addis           | PROPERNAME  | a" d i' s
+Abeba           | PROPERNAME  | a" b e b a'
+Amman           | PROPERNAME  | a" m a' n
+Ankara          | PROPERNAME  | a~" k a R a'
+Anvers          | PROPERNAME  | a~" v E' R s
+Bagdad          | PROPERNAME  | b a" g d a' d
+Bergen          | PROPERNAME  | b E" R g @' n
+Bombay          | PROPERNAME  | b o~" b e'
+Brno            | PROPERNAME  | b R n O'
+Bruxelles       | PROPERNAME  | b R y" s E' l
+Cadix           | PROPERNAME  | k a" d i' k s
+Copenhague      | PROPERNAME  | k O" p @ n a' g
+Dallas          | PROPERNAME  | d a" l a' s
+Damas           | PROPERNAME  | d a" m a' s
+Erevan          | PROPERNAME  | e" R e v a' n
+Greenwich       | PROPERNAME  | g R i" n w i' t S
+Hamas           | PROPERNAME  | a" m a' s
+Hanoi           | PROPERNAME  | a" n O' j
+Hiroshima       | PROPERNAME  | i" R O S i m a'
+Hong            | PROPERNAME  | O' n g
+Huy             | PROPERNAME  | H i'
+Istanbul        | PROPERNAME  | i" s t a~ b u' l
+Kiev            | PROPERNAME  | k j E' f
+Kuala           | PROPERNAME  | k u" a l a'
+Lumpur          | PROPERNAME  | l u" m p u' R
+Ljubljana       | PROPERNAME  | l j u" b l j a n a'
+Londres         | PROPERNAME  | l o~' d R
+Los             | PROPERNAME  | l O' s
+Angeles         | PROPERNAME  | a" n Z @ l E' s
+Madrid          | PROPERNAME  | m a" d R i' d
+Maastricht      | PROPERNAME  | m a s t R i k t
+Munich          | PROPERNAME  | m y" n i' k
+Oslo            | PROPERNAME  | O" s l O'
+Rangoon         | PROPERNAME  | R a~" g u' n
+San             | PROPERNAME  | s a' n
+Sarajevo        | PROPERNAME  | s a" R a j e v O'
+Schaerbeek      | PROPERNAME  | s k a" R b e' k
+Shangai         | PROPERNAME  | S a~" g a' j
+Sheffield       | PROPERNAME  | S E" f i' l d
+Skopje          | PROPERNAME  | s k O" p j @'
+Uccle           | PROPERNAME  | y' k l
+Ushuaïa         | PROPERNAME  | u" S u a j a'
+Washington      | PROPERNAME  | w a" S i N t O' n
+Wellington      | PROPERNAME  | w E" l i N t O' n
+Zagreb          | PROPERNAME  | z a" g R E' b
+Zurich          | PROPERNAME  | z y" R i' k
+mons            | GNUNDEFINED | m o~' s
+mouscron        | GNUNDEFINED | m u" k R o~'
+Lyon            | PROPERNAME  | l j o~'
+Binche          | PROPERNAME  | b e~' S
+Thuin           | PROPERNAME  | t w e~'
+Cuesmes         | PROPERNAME  | k H e' m
+Erquelinnes     | PROPERNAME  | E" R k @ l i' n
+Annecy          | PROPERNAME  | a n s i
+Nil             | PROPERNAME  | n i' l
+Manhattan       | PROPERNAME  | m a n a t a n
+levis           | PROPERNAME  | l e" v i' s
+Léonidas        | PROPERNAME  | l e" O n i d a' s
+google          | PROPERNAME  | g u" g @' l
+toyota          | PROPERNAME  | t O" j O t a'
+isuzu           | PROPERNAME  | i" s u z u'
+mitsubishi      | PROPERNAME  | m i" t s u b i S i'
+mclaren         | PROPERNAME  | m a" k l a R E' n
+seat            | PROPERNAME  | s e" a' t
+porsche         | PROPERNAME  | p O' R S
+fiat            | PROPERNAME  | f j a' t
+volkswagen      | PROPERNAME  | v O" l k s w a g E' n
+ford            | PROPERNAME  | f O' R d
+bentley         | PROPERNAME  | b E" n t l e'
+chrysler        | PROPERNAME  | k R i" s l E' R
+bmw             | PROPERNAME  | b e" E m d u b l @ v e'
+daewoo          | PROPERNAME  | d e" u'
+huynday         | PROPERNAME  | j u" n d e'
+benz            | PROPERNAME  | b E' n s
+philips         | PROPERNAME  | f i" l i' p s
+thomson         | PROPERNAME  | t O" m s O' n
+virgin          | PROPERNAME  | v 9" R Z i' n
+hotmail         | PROPERNAME  | O" t m e' l
+prozac          | PROPERNAME  | p R O" z a' k
+Suez            | PROPERNAME  | s y E' z
+Santiago        | PROPERNAME  | s a" n t i a g O'
+Nasser          | PROPERNAME  | n a" s E' R
+Strepy          | GNUNDEFINED | s t R E p i
+Thieu           | GNUNDEFINED | t j 2
+Cointes         | GNUNDEFINED | k w e~ t
+Forest          | GNUNDEFINED | f O R E
+Delhaize        | GNUNDEFINED | d @ l E z
+belga           | GNUNDEFINED | b E l g a
+Apple           | GNUNDEFINED | a p @ l
+iTunes          | GNUNDEFINED | i t j u n z
+iPod            | GNUNDEFINED | i p O d
+skype           | PROPERNAME  | s k a' j p
+Mozilla         | PROPERNAME  | m o" d z i l a'
+firefox         | PROPERNAME  | f a" j @ R f O' k s
+thunderbird     | PROPERNAME  | t 9" n d @ R b @' R d
+outlook         | PROPERNAME  | O" t l u' k
+word            | PROPERNAME  | w O R d
+powerpoint      | PROPERNAME  | p O w @ R p O j n t
+Redmond         | GNUNDEFINED | R E" d m O' n d
+Microsoft       | GNUNDEFINED | m i" k R O s O' f t
+yahoo!          | GNUNDEFINED | j a u
+
+# ALPHABETICAL
+h               | GNUNDEFINED | a' S
+w               | GNUNDEFINED | d u" b l @ v e'
+y               | GNUNDEFINED | i" g R E' k
+
+# MISC
+
+initialis       | GNUNDEFINED | i" n i s j a l i' s
+
+
+# after tests on server
+
+process         | GNUNDEFINED | p R O" s E' s
+beaufort        | GNUNDEFINED | b o" f O' R
+colotte         | GNUNDEFINED | k O" l O' t
+charleroi       | GNUNDEFINED | S a R l @ R w a
+corbais         | GNUNDEFINED | k O" R b E'
+villers         | GNUNDEFINED | v i" l E' R s
+bouffioulx      | GNUNDEFINED | b u" f j u'
+wavre           | GNUNDEFINED | w a' v R
+anderlecht      | GNUNDEFINED | a~" d @ R l E' k t
+lasne           | GNUNDEFINED | l a' n
+waterloo        | GNUNDEFINED | w a" t E R l o'
+warisoulx       | GNUNDEFINED | w a" R i z u'
+tenneville      | GNUNDEFINED | t E" n v i' l
+corroy          | GNUNDEFINED | k O" R w a'
+wierde          | GNUNDEFINED | v j E' R d
+st              | PROPERNAME  | s e~
+Shimon          | GNUNDEFINED | S i m O n
+Peres           | GNUNDEFINED | p E R E z
+
+# ###############################################################################
+# Add other exceptions here
+

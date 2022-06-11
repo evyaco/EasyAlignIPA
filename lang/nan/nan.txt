@@ -1,0 +1,5 @@
+_ silence
+^ syllabic nasal
+~ nasal vowel
+} checked syllable (following a  p t k) ignored during training 
+? glotal plosive (ignored)

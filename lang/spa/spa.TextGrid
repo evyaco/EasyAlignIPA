@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.781708040328724 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ortho" 
+        xmin = 0 
+        xmax = 21.781708040328724 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41523527524803855 
+            text = "" 
+        intervals [2]:
+            xmin = 0.41523527524803855 
+            xmax = 2.8061803120926223 
+            text = "El botellón de agua" 
+        intervals [3]:
+            xmin = 2.8061803120926223 
+            xmax = 10.935393437364206 
+            text = "Era difícil trocar mi profunda mirada en palabras y apenas me surgieron sonidos inconexos, desarticulados, vacíos." 
+        intervals [4]:
+            xmin = 10.935393437364206 
+            xmax = 16.566223774129945 
+            text = "Era difícil, imposible diría, empezar una conversación, que yo pretendía original, " 
+        intervals [5]:
+            xmin = 16.566223774129945 
+            xmax = 21.781708040328724 
+            text = "única y exquisita, con tantos sentimientos confusos galopando en el medio del pecho." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phono" 
+        xmin = 0 
+        xmax = 21.781708040328724 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41523527524803855 
+            text = "" 
+        intervals [2]:
+            xmin = 0.41523527524803855 
+            xmax = 2.8061803120926223 
+            text = "el Bo-te-L'on de 'a-Gwa" 
+        intervals [3]:
+            xmin = 2.8061803120926223 
+            xmax = 10.935393437364206 
+            text = "'e-4a Di-f'i-Til t4o-k'a4 mi p4o-f'un-da mi-4'a-Da em pa-l'a-B4as j a-p'e-naz me su4-xj'e-4on so-n'i-Dos iN-ko-n'ek-sos, de-sa4-ti-ku-l'a-Dos, ba-T'i-os." 
+        intervals [4]:
+            xmin = 10.935393437364206 
+            xmax = 16.566223774129945 
+            text = "'e-4a Di-f'i-Til, im-po-s'i-Ble Di-4'i-a, em-pe-T'a4 'u-na kom-be4-sa-Tj'on, ke jj'o p4e-ten-d'i-a o-4i-xi-n'al," 
+        intervals [5]:
+            xmin = 16.566223774129945 
+            xmax = 21.781708040328724 
+            text = "'u-ni-ka jj eks-ki-s'i-ta, kon t'an-tos sen-ti-mj'en-tos kom-f'u-soz Ga-lo-p'an-do en el me-Djo Del p'e-tSo." 

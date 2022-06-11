@@ -1,0 +1,10 @@
+lang	g2p	align	sp	tk
+fra	1	1	16000	MFCC_0_D_A
+en	1	0		MFCC_0_D_A
+spa	1	1	44100	MFCC_0_D_A
+heb	0	1	16000	MFCC_0_D_A
+nl	0	1		MFCC_0_D_A
+porbra	1	1	16000	MFCC_0_D_N_Z
+slk	1	1	22050	MFCC_0_D_A
+sw	1	0		MFCC_0_D_A
+nan	0	1	16000	MFCC_0_D_A
