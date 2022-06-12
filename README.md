@@ -1,7 +1,7 @@
 # EasyAlignHebrew
 EasyAlign plugin for Praat with support for Hebrew analysis
 
-* See a [video manual](https://openu.zoom.us/rec/share/9Yg_xeE5SnXKK7jh9y0ivqcB_fJ2hSFTUm139Y4LAJZgkPfIxE3fZZzWg9PwWPrg.Fcwbn87UjyPBE5rh?startTime=1654683393000)
+* See a [video manual](https://openu.zoom.us/rec/share/9Yg_xeE5SnXKK7jh9y0ivqcB_fJ2hSFTUm139Y4LAJZgkPfIxE3fZZzWg9PwWPrg.Fcwbn87UjyPBE5rh?startTime=1654683393000) and visit [the project's page](https://www.openu.ac.il/en/omilab/pages/Phoneme-Aligner.aspx).
 * Read about [EasyAlign](http://latlcui.unige.ch/phonetique/easyalign.php) - there you can find additional manuals, installations and publications.
 
 Simple Manual:
