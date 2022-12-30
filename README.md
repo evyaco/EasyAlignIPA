@@ -1,9 +1,9 @@
 # EasyAlignIPA
 Plugin for Praat allowing auto-segmentation: automatically creates tiers of IPA utterances, words, syllables and phonemes based on a text file and a sound file.
-[EasyAlign](http://latlcui.unige.ch/phonetique/easyalign.php) was written by jeanphilippegoldman@gmail.com (2007-2011)
-IPA and Hebrew support by evyaco@gmail.com for OmiLab vereds@openu.ac.il (2022)
 
-* For using this version see a video manual ([English](https://openu.zoom.us/rec/share/9Yg_xeE5SnXKK7jh9y0ivqcB_fJ2hSFTUm139Y4LAJZgkPfIxE3fZZzWg9PwWPrg.Fcwbn87UjyPBE5rh?startTime=1654683393000) or [Hebrew](https://openu.zoom.us/rec/play/nGu3CeXSg3XtV3ioldy-FfUQbDCL30n7-LQjA6neI2cYSyU0tnZmiZA6LZrXLq9kPuYop3A2LcxFZVzP.y-39NAiaqtuxcYZ3?startTime=1655014775000&_x_zm_rtaid=UB7KabwnQqWButWneFNRtQ.1655035123155.ba6434aef661507106a37360ccbee35a&_x_zm_rhtaid=940)) and visit [the project's page](https://www.openu.ac.il/en/omilab/pages/Phoneme-Aligner.aspx).
+[EasyAlign](http://latlcui.unige.ch/phonetique/easyalign.php) was written by jeanphilippegoldman@gmail.com (2007-2011)
+
+EasyAlignIPA version with Hebrew support by evyaco@gmail.com for OmiLab vereds@openu.ac.il (2022). For using this version see a video manual ([English](https://openu.zoom.us/rec/share/9Yg_xeE5SnXKK7jh9y0ivqcB_fJ2hSFTUm139Y4LAJZgkPfIxE3fZZzWg9PwWPrg.Fcwbn87UjyPBE5rh?startTime=1654683393000) or [Hebrew](https://openu.zoom.us/rec/play/nGu3CeXSg3XtV3ioldy-FfUQbDCL30n7-LQjA6neI2cYSyU0tnZmiZA6LZrXLq9kPuYop3A2LcxFZVzP.y-39NAiaqtuxcYZ3?startTime=1655014775000&_x_zm_rtaid=UB7KabwnQqWButWneFNRtQ.1655035123155.ba6434aef661507106a37360ccbee35a&_x_zm_rhtaid=940)) and visit [the project's page](https://www.openu.ac.il/en/omilab/pages/Phoneme-Aligner.aspx).
 
 
 Simple Manual:
