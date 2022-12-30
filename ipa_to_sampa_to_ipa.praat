@@ -6,8 +6,7 @@
 
 #form 2.Phonetisation : phonetize orthographic tier to phonetic tier
 
-# evyaco@gmail.com
-# June 2022: initial Hebrew support
+# June 2022: IPA support (for Hebrew) by evyaco@gmail.com for OMILab (vereds@openu.ac.il)
 
 procedure ipa_to_sampa_stage .language$ .ipa_tier$ .sampa_tier$
 	overwrite_sampa_tier = 1

@@ -4,7 +4,7 @@ printline Contact:'tab$'jeanphilippegoldman@gmail.com
 printline 2007-2011
 printline Please make comments and suggestions
 printline
-printline Hebrew support by evyaco@gmail.com
+printline IPA version for Hebrew by evyaco@gmail.com for OMILab (vereds@openu.ac.il)
 printline 2022
 printline
 printline HOW TO:

@@ -2,9 +2,7 @@
 #mornex-les-bains dec 06
 #22dec bug with one-pphrase file
 
-
-# June 2022: IPA Support by evyaco@gmail.com for OMILab (vereds@openu.ac.il)
-
+# June 2022: IPA support (for Hebrew) by evyaco@gmail.com for OMILab (vereds@openu.ac.il)
 
 form 1. Macro-segmentation: creates ortho tier from Sound and Strings
 	comment select a Sound and a Strings object
