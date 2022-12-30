@@ -221,8 +221,6 @@ call myprint NL
 endwhile
 
 
-
-
 procedure delcurrent
   start = Get starting point... 'syllTID' 'current'
   #check if not beg of utt
@@ -272,12 +270,37 @@ procedure whichpho2 pho$
       printline UNKNOWN'pho$'
     endif
   endif
+endproc
+
+# todo: Complete all IPA!
+procedure whichpho_ipa pho$
+  rwhichpho=0
+  if pho$="sil" or pho$="" or pho$="_" or pho$=""  or pho$="-"  or pho$="*" or (index_regex(pho$,"^\[.*\]$")=1)
+    rwhichpho = 1
+  else
+    pho2$ = left$(pho$,1)
+    if index ("aɑeɛoɔiuyəøɐœ", pho2$) > 0
+      rwhichpho = 6
+    elsif index ("βɣptkbdgɡfvc", pho2$) > 0
+      rwhichpho = 2
+    elsif index ("θðsʃzʒmnŋɲç", pho2$) > 0
+      rwhichpho = 3
+    elsif pho$="jj"
+      rwhichpho = 3
+    elsif index ("lʎrʁʁ̞χxhɾ", pho2$) > 0
+      rwhichpho = 4
+    elsif index ("jwɥ", pho2$) > 0
+      rwhichpho = 5
+    else
+      printline UNKNOWN'pho$'
+    endif
+  endif
 endproc 
 
 procedure getccat
   
   label$= Get label of interval... 'syllTID' 'current'
-  call whichpho2 'label$'
+  call whichpho_ipa 'label$'
   ccat=rwhichpho
 endproc
 
@@ -285,7 +308,7 @@ procedure getcpcat
 if current>1
   cp=current-1
   labelp$= Get label of interval... 'syllTID' 'cp'
-  call whichpho2 'labelp$'
+  call whichpho_ipa 'labelp$'
   cpcat=rwhichpho
 else
   cpcat=0
@@ -296,7 +319,7 @@ procedure getcppcat
 if current >2
   cpp=current-2
   labelpp$= Get label of interval... 'syllTID' 'cpp'
-  call whichpho2 'labelpp$'
+  call whichpho_ipa 'labelpp$'
   cppcat=rwhichpho
 else
   cppcat=0

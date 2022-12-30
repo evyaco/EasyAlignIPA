@@ -4,18 +4,20 @@
 # http://www.unige.ch/lettres/linguistique/phonetique  
 # jeanphilippegoldman@gmail.com
 # Praat is software developed by Paul Boersma and David Weenink at University of Amsterdam
+#
+# IPA Support by evyaco@gmail.com for OMILab (vereds@openu.ac.il)
 
-Add menu command... "Objects" "Praat" "EasyAlign" "" 0 
+Add menu command... "Objects" "Praat" "EasyAlignIPA" "" 0 
 Add menu command... "Objects" "Control" "Demos" "EasyAlign" 1
 Add menu command... "Objects" "Control" "French" "Demos" 2 lang/fra/demo-fra.praat
 Add menu command... "Objects" "Control" "Min Nan Taiwanese (step #3 only)" "Demos" 2 lang/nan/demo-nan.praat
 Add menu command... "Objects" "Control" "Spanish" "Demos" 2 lang/spa/demo-spa.praat
 Add menu command... "Objects" "Control" "Brazilian portuguese" "Demos" 2 lang/porbra/demo-porbra.praat
 Add menu command... "Objects" "Control" "Slovak" "Demos" 2 lang/slk/demo-slk.praat
-Add menu command... "Objects" "Control" "EasyAlign in one-click..." "EasyAlign" 1 one-click.praat
-Add menu command... "Objects" "Control" "1. Macro-segmentation..." "EasyAlign" 1 utt_seg2.praat
-Add menu command... "Objects" "Control" "2. IPA to SAMPA..." "EasyAlign" 1 phonetize_orthotier2.praat
-Add menu command... "Objects" "Control" "3. Phone segmentation..." "EasyAlign" 1 align_sound.praat
+#Add menu command... "Objects" "Control" "EasyAlign in one-click..." "EasyAlign" 1 one-click.praat
+Add menu command... "Objects" "Control" "1. Macro-segmentation..." "EasyAlign" 1 macro_segmentation.praat
+#Add menu command... "Objects" "Control" "2. IPA to SAMPA..." "EasyAlign" 1 phonetize_orthotier2.praat
+Add menu command... "Objects" "Control" "2. Phone segmentation..." "EasyAlign" 1 segmentation.praat
 Add menu command... "Objects" "Control" "-" "EasyAlign" 1
 #Add menu command... "Objects" "Control" "Create ortho tier from silences in Sound" "EasyAlign" 1 createorthotierfromsilences.praat
 #Add menu command... "Objects" "Control" "Naive segmentation" "EasyAlign" 1 naivesegmentation.praat
