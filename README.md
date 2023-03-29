@@ -20,5 +20,5 @@ You will need a sound file and a transcription text file divided to lines; **8ea
 
 The work described here has been funded by the Research Authority of The Open University of Israel, grant 41459. 
 
-Please cite as:
-Vered Silber-Varod, Evan Cohen, Evyatar Cohen, Inbar Strull, Vered Aharonson. (manuscript). [Towards a Public Segment Catalogue of Spoken Hebrew](https://www.researchgate.net/publication/360463146_Towards_a_Public_Segment_Catalogue_of_Spoken_Hebrew).
+Please cite:
+Silber-Varod, V., E. Cohen, I. Strull, E. G. Cohen (2023). A Catalogue of the Hebrew Sounds, ADHO Digital Humanities Conference 2023: Collaboration as Opportunity, July 10-14 2023, Graz, Austria.
