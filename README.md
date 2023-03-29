@@ -24,4 +24,4 @@ Please cite:\
 Silber-Varod, V., E. Cohen, I. Strull, E. G. Cohen (2023). A Catalogue of the Hebrew Sounds, ADHO Digital Humanities Conference 2023: Collaboration as Opportunity, July 10-14 2023, Graz, Austria.
 
 More reading:\
-Vered Silber-Varod, Evan Cohen, Evyatar Cohen, Inbar Strull, Vered Aharonson. (manuscript). Towards a Public Segment Catalogue of Spoken Hebrew.
+Vered Silber-Varod, Evan Cohen, Evyatar Cohen, Inbar Strull, Vered Aharonson. (manuscript). [Towards a Public Segment Catalogue of Spoken Hebrew](https://www.researchgate.net/publication/360463146_Towards_a_Public_Segment_Catalogue_of_Spoken_Hebrew).
